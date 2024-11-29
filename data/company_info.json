@@ -1,0 +1,14 @@
+{
+    "company_name": "CloudEngine Solutions",
+    "description": "Founded in 2019, CloudEngine Solutions is a leading SaaS B2B company specializing in cloud infrastructure. We provide innovative solutions to businesses, enabling them to leverage the power of cloud technology to drive efficiency, scalability, and security in their operations.",
+    "products": [
+        "CloudCompute Pro",
+        "SecureCloud Storage",
+        "NetworkOptimizer AI",
+        "DataSync Hub",
+        "CloudMonitor 360"
+    ],
+    "mission": "To empower businesses with cutting-edge cloud infrastructure solutions that enhance performance and secure data integrity.",
+    "vision": "To be the global leader in cloud infrastructure, transforming the way businesses operate with our innovative and reliable solutions.",
+    "cash_at_bank": 6000000.0
+}

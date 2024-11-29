@@ -1,0 +1,41 @@
+employee_id,first_name,last_name,email,hire_date,title,department,location,remote
+EMP0001,Megan,Chang,megan.chang@cloudenginesolutions.com,2022-09-13,CEO,Executive,West Tammyfort,False
+EMP0002,Samantha,Gallegos,samantha.gallegos@cloudenginesolutions.com,2022-12-09,VP of Sales,Sales,Brandyborough,False
+EMP0003,Donald,Taylor,donald.taylor@cloudenginesolutions.com,2021-04-25,VP of Support,Support,Vanessaside,False
+EMP0004,Lisa,Barrera,lisa.barrera@cloudenginesolutions.com,2022-03-25,VP of People,HR,Lake Charlesmouth,False
+EMP0005,Anita,Gomez,anita.gomez@cloudenginesolutions.com,2022-04-04,VP of Marketing,Marketing,New Thomas,False
+EMP0006,Jorge,Trujillo,jorge.trujillo@cloudenginesolutions.com,2023-03-31,Finance Manager,Finance,North Jenniferfurt,False
+EMP0007,Mallory,Barnett,mallory.barnett@cloudenginesolutions.com,2020-11-30,Recruiting Manager,HR,Claytonmouth,False
+EMP0008,Jessica,Padilla,jessica.padilla@cloudenginesolutions.com,2021-03-06,"Engineer, aeronautical",Finance,East Linda,True
+EMP0009,Linda,West,linda.west@cloudenginesolutions.com,2021-04-02,IT consultant,Finance,Rodriguezside,False
+EMP0010,Jasmine,Kelley,jasmine.kelley@cloudenginesolutions.com,2024-05-17,"Sound technician, broadcasting/film/video",Support,Seanfurt,False
+EMP0011,Barbara,Roberts,barbara.roberts@cloudenginesolutions.com,2021-09-19,"Embryologist, clinical",Sales,Thomasland,False
+EMP0012,Katherine,Mcdowell,katherine.mcdowell@cloudenginesolutions.com,2024-11-02,Arboriculturist,Sales,Masseyhaven,False
+EMP0013,Aimee,Young,aimee.young@cloudenginesolutions.com,2021-10-29,Theme park manager,Marketing,Shannonstad,True
+EMP0014,Mark,Wilson,mark.wilson@cloudenginesolutions.com,2023-05-29,Legal executive,Support,North Jessica,True
+EMP0015,Janice,Watson,janice.watson@cloudenginesolutions.com,2021-08-20,Learning mentor,Marketing,North Kristabury,True
+EMP0016,Lisa,Walters,lisa.walters@cloudenginesolutions.com,2024-11-22,Social researcher,Finance,North Davidborough,False
+EMP0017,Maria,Wilson,maria.wilson@cloudenginesolutions.com,2021-04-20,Metallurgist,Sales,New Andrewburgh,False
+EMP0018,David,Clark,david.clark@cloudenginesolutions.com,2024-04-25,"Biochemist, clinical",R&D,New Ronaldville,False
+EMP0019,Chad,Jones,chad.jones@cloudenginesolutions.com,2022-03-11,Maintenance engineer,Marketing,North William,True
+EMP0020,Candace,Lyons,candace.lyons@cloudenginesolutions.com,2022-07-29,"Engineer, communications",HR,Rebeccafort,False
+EMP0021,Gary,Chambers,gary.chambers@cloudenginesolutions.com,2024-03-05,Barrister,R&D,Port Fernando,False
+EMP0022,John,Carlson,john.carlson@cloudenginesolutions.com,2022-10-17,Economist,Sales,Maldonadoshire,False
+EMP0023,Samantha,Banks,samantha.banks@cloudenginesolutions.com,2022-07-25,Fitness centre manager,Support,South Judithmouth,False
+EMP0024,Brandon,Campbell,brandon.campbell@cloudenginesolutions.com,2021-12-07,Race relations officer,HR,Emilyshire,False
+EMP0025,Melissa,Anderson,melissa.anderson@cloudenginesolutions.com,2022-03-26,Network engineer,R&D,Pooleland,True
+EMP0026,Brooke,Hale,brooke.hale@cloudenginesolutions.com,2021-08-04,Film/video editor,Support,Grayshire,False
+EMP0027,Anthony,Savage,anthony.savage@cloudenginesolutions.com,2023-04-29,Personal assistant,R&D,East Seanview,False
+EMP0028,Eric,Rose,eric.rose@cloudenginesolutions.com,2022-12-25,"Surveyor, mining",Finance,North Troyport,False
+EMP0029,Brendan,Carson,brendan.carson@cloudenginesolutions.com,2024-05-14,Pathologist,Support,Port Jessicatown,False
+EMP0030,Stefanie,Butler,stefanie.butler@cloudenginesolutions.com,2020-12-04,"Engineer, production",Sales,Port Emmaville,True
+EMP0031,David,Banks,david.banks@cloudenginesolutions.com,2024-08-17,Immigration officer,HR,North Thomas,False
+EMP0032,Courtney,Johnson,courtney.johnson@cloudenginesolutions.com,2024-10-18,Production manager,Sales,Dennishaven,False
+EMP0033,Deanna,Wilson,deanna.wilson@cloudenginesolutions.com,2021-07-26,Health promotion specialist,Sales,North Jamieview,False
+EMP0034,Leroy,Richardson,leroy.richardson@cloudenginesolutions.com,2023-04-29,Archivist,R&D,Josephmouth,False
+EMP0035,Ryan,Savage,ryan.savage@cloudenginesolutions.com,2021-09-01,"Engineer, maintenance (IT)",Marketing,Alanberg,False
+EMP0036,Mathew,Clarke,mathew.clarke@cloudenginesolutions.com,2023-12-20,Chief Financial Officer,HR,North Josephberg,False
+EMP0037,Keith,Foster,keith.foster@cloudenginesolutions.com,2023-03-31,"Conservation officer, nature",HR,South Jessicaton,False
+EMP0038,Hayden,Mills,hayden.mills@cloudenginesolutions.com,2021-03-19,Immigration officer,Marketing,Kevinville,True
+EMP0039,Ann,Olson,ann.olson@cloudenginesolutions.com,2022-05-06,Lobbyist,Sales,Wilsonfort,False
+EMP0040,Benjamin,Rogers,benjamin.rogers@cloudenginesolutions.com,2023-11-01,"Designer, furniture",Support,Drakeland,True
