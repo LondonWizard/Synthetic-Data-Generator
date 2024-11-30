@@ -1,0 +1,104 @@
+opportunity_id,sales_rep_id,client_name,stage,amount,close_date,renewal_date,email_conversations
+OPP5d587077-68fe-4666-afb5-545cd95cd1ae,EMPc3f4c170,"Garcia, Miller and Owen",Legal,94981.36,2025-03-30T13:51:17.213295,2025-11-30T13:51:17.213295,Email thread with Alan Lara on 2024-11-29
+OPP7ae1a24e-a792-42b4-a2e1-b434b3670f54,EMPc3f4c170,Long Ltd,ROI,50000.0,2025-05-25T13:51:17.213295,2025-11-30T13:51:17.213295,Email thread with Anthony Randall on 2024-08-21
+OPP86def5a0-474f-41f7-8d26-c0c52ba08a24,EMPc3f4c170,Grant Ltd,Closed Won,110469.54,2025-02-01T13:51:17.213295,2025-11-30T13:51:17.213295,Email thread with Wayne Smith on 2024-05-11
+OPPd8cd5da3-73cc-4524-9675-f2fcc0ca3f4d,EMPc3f4c170,Sanchez Ltd,Case Evaluation,50000.0,2025-03-12T13:51:17.214293,2025-11-30T13:51:17.214293,Email thread with Deborah Jackson on 2024-06-23
+OPP01364fc5-1a6e-497f-83cd-7bab667b94c9,EMPc3f4c170,Rivera and Sons,Case Evaluation,120941.78,2025-02-01T13:51:17.214293,2025-11-30T13:51:17.214293,Email thread with Brian Osborne on 2024-02-05
+OPP49e78dcc-9dd3-49c3-8b75-471e1a340ed5,EMPc3f4c170,"Brown, Mccall and Rodriguez",Closed Lost,135354.4,2025-05-03T13:51:17.214293,2025-11-30T13:51:17.214293,Email thread with Christopher Marshall on 2024-11-18
+OPPb462d9d2-709a-4992-aaf5-7422b1bc4d5e,EMPc3f4c170,"Johnson, Gray and Yu",Closed Won,138240.53,2025-05-05T13:51:17.215290,2025-11-30T13:51:17.215290,Email thread with Bradley Mack on 2024-03-22
+OPP3ac2496e-6243-4476-b929-8df641a97327,EMPc3f4c170,Brewer-Wagner,Proposal,150000.0,2025-05-20T13:51:17.215290,2025-11-30T13:51:17.215290,Email thread with Chelsea Bowman on 2024-01-04
+OPPf26bf956-f871-4f48-abc1-e83d96c9b54e,EMPc3f4c170,"Hall, Reed and Edwards",Closed Won,81772.77,2025-01-08T13:51:17.215290,2025-11-30T13:51:17.215290,Email thread with Pamela Mcdonald on 2024-10-16
+OPP5836d762-40d6-4ebe-a75c-b80cb7c3aa1b,EMPc3f4c170,Rowe-Lopez,Closed Won,82336.92,2024-12-31T13:51:17.216288,2025-11-30T13:51:17.216288,Email thread with Joel Day on 2024-05-24
+OPPf106dbce-c9d3-4c47-9f34-cc1079699973,EMP29a2c997,"Mitchell, Wright and Hendrix",Case Evaluation,73580.48,2025-04-26T13:51:17.216288,2025-11-30T13:51:17.216288,Email thread with Joseph Santana on 2024-03-17
+OPPb33425ba-f387-4cf4-a380-16f5d0fe4a59,EMP29a2c997,"Rivera, Anderson and Vasquez",Proposal,95510.91,2025-04-23T13:51:17.216288,2025-11-30T13:51:17.216288,Email thread with Rebecca Wiley on 2024-05-22
+OPP343b4fb0-912d-491d-b288-a67e030c98e8,EMP29a2c997,Henry and Sons,ROI,150000.0,2025-05-06T13:51:17.217285,2025-11-30T13:51:17.217285,Email thread with Michelle Steele on 2024-08-03
+OPP3536763b-4768-45c9-9d0a-4fac67aaa068,EMP29a2c997,Patterson PLC,Discovery,150000.0,2025-04-08T13:51:17.217285,2025-11-30T13:51:17.217285,Email thread with Patrick Stevenson on 2024-01-02
+OPPd4efad3e-4b8f-42b4-9ddd-6df0329b6386,EMP29a2c997,Cole-Palmer,Discovery,105975.75,2025-05-24T13:51:17.217285,2025-11-30T13:51:17.217285,Email thread with William Miller on 2024-05-27
+OPPc816c4aa-6187-41e8-a99a-723fa4b2f62c,EMP29a2c997,"Dominguez, Bowman and Hall",Case Evaluation,98937.26,2025-01-24T13:51:17.218282,2025-11-30T13:51:17.218282,Email thread with Mr. Aaron Graham on 2024-04-22
+OPP662a7671-276d-405c-bc30-634aac606a5d,EMP29a2c997,"Summers, Hardin and Foster",Legal,150000.0,2025-01-11T13:51:17.218282,2025-11-30T13:51:17.218282,Email thread with Stephanie Saunders on 2024-08-15
+OPP783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,EMP29a2c997,"Wood, Barnes and Mcintyre",ROI,132938.97,2025-02-13T13:51:17.218282,2025-11-30T13:51:17.218282,Email thread with Carolyn Johnson on 2024-06-19
+OPP10d9e38d-4f73-4fb1-b0dc-9c84f56962c2,EMP29a2c997,"Perez, Rivera and Bennett",Closed Won,79527.98,2025-05-11T13:51:17.219280,2025-11-30T13:51:17.219280,Email thread with Brittney Underwood on 2024-07-12
+OPP197e85a0-c696-4bab-91b2-332ee0934e38,EMP1db3c71b,Hahn Inc,Case Evaluation,147517.75,2025-01-24T13:51:17.219280,2025-11-30T13:51:17.219280,Email thread with William Smith on 2024-07-21
+OPPadd7ae79-eb0f-4c21-a977-80d1fcd2f001,EMP1db3c71b,Leonard-White,Discovery,119111.23,2025-05-05T13:51:17.220278,2025-11-30T13:51:17.220278,Email thread with Eric Schmidt on 2024-03-02
+OPPe56b3b1d-e54e-4a17-a868-c76b7a94f483,EMP1db3c71b,Guerrero Group,Demo Conducted,124483.35,2025-05-14T13:51:17.220278,2025-11-30T13:51:17.220278,Email thread with Diane Yates on 2024-04-27
+OPPd1e0a50e-9602-434b-8845-3d3e6424d7ef,EMP1db3c71b,Rivera-Murray,Discovery,144688.4,2025-05-13T13:51:17.220278,2025-11-30T13:51:17.220278,Email thread with Matthew Calderon on 2024-03-26
+OPPa2334974-746c-4933-aee6-9c71ee166b74,EMP1db3c71b,Kelley-Harris,Case Evaluation,65054.0,2025-05-16T13:51:17.220278,2025-11-30T13:51:17.220278,Email thread with Jessica Williams on 2024-02-05
+OPP4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,EMP1db3c71b,Smith PLC,Closed Lost,130710.41,2025-02-13T13:51:17.221274,2025-11-30T13:51:17.221274,Email thread with Shaun Parrish on 2024-07-01
+OPP23a61526-95e3-4329-94cc-a279a63cca75,EMP1db3c71b,Meza PLC,Demo Conducted,97640.07,2025-04-06T13:51:17.221274,2025-11-30T13:51:17.221274,Email thread with Brian Fletcher on 2024-08-23
+OPP33a70c3d-1da5-4563-a939-e190c6f1c3ad,EMP1db3c71b,Michael Group,Discovery,92408.23,2025-02-27T13:51:17.221274,2025-11-30T13:51:17.221274,Email thread with John Heath on 2024-07-13
+OPP8a34065b-2b05-4a0e-a353-1771ba254533,EMP1db3c71b,Taylor LLC,ROI,114416.1,2025-05-17T13:51:17.222273,2025-11-30T13:51:17.222273,Email thread with Jennifer Anderson on 2024-08-31
+OPPbafcd1c4-08fb-4e11-b54e-888981acd529,EMP1db3c71b,"Wright, Daniel and Vang",Closed Lost,98353.94,2025-01-13T13:51:17.222273,2025-11-30T13:51:17.222273,Email thread with Kelsey Nguyen on 2024-09-28
+OPPe8a74310-6473-4904-8bee-b82c92659b42,EMP1db3c71b,Allen-Steele,Discovery,108964.9,2025-05-09T13:51:17.223270,2025-11-30T13:51:17.223270,Email thread with Jared Waters on 2024-05-21
+OPP5a57cde5-f13f-440b-889b-9a03bc3548c5,EMP1db3c71b,"Brooks, Smith and Thomas",Proposal,139939.7,2025-02-13T13:51:17.223270,2025-11-30T13:51:17.223270,Email thread with Melissa Delgado on 2024-02-23
+OPP7d534839-d414-4a20-9da7-2b622fabcae1,EMP812ea9a2,"Webb, Martinez and Church",Case Evaluation,88657.9,2025-03-22T13:51:17.223270,2025-11-30T13:51:17.223270,Email thread with Shelby Jackson on 2024-09-11
+OPP52d1de24-bf3b-458e-902f-e51359eea30b,EMP812ea9a2,Galloway Inc,Proposal,122675.96,2025-01-19T13:51:17.224267,2025-11-30T13:51:17.224267,Email thread with Kathleen Chen on 2024-05-04
+OPP9e19e188-1da1-4d7a-a281-becd3084486f,EMP812ea9a2,"Vaughn, Gomez and Ross",Closed Won,128919.63,2025-03-16T13:51:17.224267,2025-11-30T13:51:17.224267,Email thread with Donald Mcfarland on 2024-05-30
+OPPa3455904-0830-47b4-9b5e-ea1f8eace752,EMP812ea9a2,Hall-Johnson,Legal,64844.17,2025-04-04T13:51:17.225265,2025-11-30T13:51:17.225265,Email thread with Kimberly Osborne on 2024-03-02
+OPPbe98e6d2-0bf2-41da-830e-055ceb76dbed,EMP812ea9a2,Sharp-Forbes,Legal,92371.68,2025-02-17T13:51:17.226261,2025-11-30T13:51:17.226261,Email thread with Aimee Gregory on 2024-03-29
+OPPee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,EMP812ea9a2,"White, Wood and Sampson",Case Evaluation,122541.95,2025-01-10T13:51:17.227259,2025-11-30T13:51:17.227259,Email thread with Ashley Jimenez on 2024-08-08
+OPP68736d8a-12ee-4e46-97e2-7d7a9c369f6d,EMP92863be8,Li-Gregory,ROI,107997.57,2025-03-05T13:51:17.228257,2025-11-30T13:51:17.228257,Email thread with Alvin Lawson on 2024-05-07
+OPP3bf4d4bc-678f-481f-a3cc-4a042c071e27,EMP92863be8,"Dunn, Gonzalez and Levy",Demo Conducted,107278.44,2025-03-15T13:51:17.232245,2025-11-30T13:51:17.232245,Email thread with Nicole Macdonald on 2024-06-25
+OPP731b8cf9-a881-492c-8bf7-2e12e0305e2d,EMP92863be8,"Montgomery, Cook and Short",Demo Conducted,77339.52,2025-01-23T13:51:17.233242,2025-11-30T13:51:17.233242,Email thread with Raymond Smith on 2024-05-21
+OPPe6ab5199-de93-4896-bada-5a662fa0823a,EMP92863be8,Bowen Ltd,Proposal,107101.26,2025-04-05T13:51:17.233242,2025-11-30T13:51:17.233242,Email thread with Renee Goodman on 2024-09-02
+OPPc3a24c35-6291-4a04-abbd-383ae6e7ac6e,EMP92863be8,"Smith, Melton and Lopez",Closed Lost,130267.87,2025-03-29T13:51:17.234267,2025-11-30T13:51:17.234267,Email thread with Jennifer Long on 2024-02-29
+OPPffdb8ef3-619b-451e-adca-0f0aadc11d69,EMP92863be8,Wilcox-Doyle,Legal,105890.44,2025-03-10T13:51:17.234267,2025-11-30T13:51:17.234267,Email thread with Cindy Brown on 2024-03-02
+OPP4d01cc36-0091-4b3d-918b-55fde8968a9f,EMP92863be8,"Lopez, Ferrell and Wright",Case Evaluation,106656.19,2025-01-09T13:51:17.234267,2025-11-30T13:51:17.234267,Email thread with Joseph Newman on 2024-05-04
+OPP7d90d1f8-6ca1-47a8-ba71-d93589d9a401,EMP92863be8,Wilson-Jacobs,ROI,53813.33,2025-05-09T13:51:17.235263,2025-11-30T13:51:17.235263,Email thread with Nathan Bennett on 2024-07-18
+OPPa56a4a75-eff2-491a-bffc-4eea05f7e0d1,EMP92863be8,"Valentine, Harris and Nelson",ROI,118263.18,2025-03-05T13:51:17.235263,2025-11-30T13:51:17.235263,Email thread with Jennifer Johnson on 2024-01-09
+OPPf3be0a6c-15ec-4910-8e38-34376a1c7817,EMP92863be8,Marquez-Johnson,Discovery,67066.49,2025-04-23T13:51:17.235263,2025-11-30T13:51:17.235263,Email thread with Robert Vaughan MD on 2024-07-02
+OPPbe7cbe1e-8e4e-4077-b1e5-4207861ff6a2,EMP92863be8,"Warner, Wells and Lopez",Case Evaluation,116096.9,2025-04-29T13:51:17.236234,2025-11-30T13:51:17.236234,Email thread with Allison Kelly on 2024-04-29
+OPP18eec8cc-381d-4e21-9112-44066e30d1ba,EMP92863be8,Kramer Group,ROI,50000.0,2025-05-04T13:51:17.236234,2025-11-30T13:51:17.236234,Email thread with Victoria Crawford on 2024-11-24
+OPPfb6de7c2-b1df-4a7c-9c30-571770b2b64a,EMP92863be8,Burns LLC,Demo Conducted,129312.1,2025-05-05T13:51:17.236234,2025-11-30T13:51:17.236234,Email thread with Michael Cummings DVM on 2024-10-28
+OPP82bca728-ec20-4495-9c5b-6d490b7ffede,EMP92863be8,Long-Nichols,ROI,89781.87,2025-02-15T13:51:17.237258,2025-11-30T13:51:17.237258,Email thread with Anne Shannon on 2024-07-14
+OPPef137c97-1058-4f45-a539-021523c0b469,EMP92863be8,Lee-Johnson,Legal,82405.0,2025-02-08T13:51:17.237258,2025-11-30T13:51:17.237258,Email thread with Kenneth Williams on 2024-09-01
+OPP902a94ca-22a8-4558-9028-ad8677698480,EMP03c52add,Miller-Kelly,Closed Lost,142554.16,2025-04-16T13:51:17.237258,2025-11-30T13:51:17.237258,Email thread with John Wood on 2024-05-08
+OPP9fce8337-19c6-43ba-a1bd-8bab1a6e9ef7,EMP03c52add,"Rodriguez, Sandoval and Davies",Proposal,92337.49,2025-02-14T13:51:17.238229,2025-11-30T13:51:17.238229,Email thread with Randy Sandoval on 2024-07-03
+OPP36c55e3b-a203-4291-a793-f6a967ab4d37,EMP03c52add,Butler LLC,ROI,123442.25,2025-05-29T13:51:17.238229,2025-11-30T13:51:17.238229,Email thread with Jessica Vasquez on 2024-05-26
+OPP34a7e4d1-cf4d-4f87-ade0-f539253a974c,EMP03c52add,Fuller-Lee,Legal,83809.73,2025-01-12T13:51:17.238229,2025-11-30T13:51:17.239226,Email thread with Chad Morris on 2024-04-23
+OPP57f599d1-732a-4464-8f76-2ef8ccc6315b,EMP03c52add,Martin and Sons,Legal,67175.43,2025-01-04T13:51:17.239226,2025-11-30T13:51:17.239226,Email thread with Regina Crawford on 2024-02-07
+OPP71daae43-9ac3-42cc-9615-16b5896431bf,EMP03c52add,"Stewart, Miller and Stewart",Proposal,109634.3,2025-01-14T13:51:17.240223,2025-11-30T13:51:17.240223,Email thread with Henry Reeves on 2024-02-15
+OPPc2450788-5272-498f-a0fb-ba8f1cc99fcc,EMP03c52add,Collins-Chase,Closed Won,135663.38,2025-05-17T13:51:17.240223,2025-11-30T13:51:17.240223,Email thread with Chelsea Banks on 2024-09-05
+OPP8eca745c-d90f-4bbc-ab75-13d82fc1ea7d,EMP03c52add,Alvarez and Sons,Legal,144364.78,2025-01-19T13:51:17.240223,2025-11-30T13:51:17.240223,Email thread with Joseph Green on 2024-09-30
+OPPbe850394-60fc-44e8-8d0d-82f91b13a405,EMP23883c1d,Myers Group,Discovery,146044.48,2025-01-18T13:51:17.241244,2025-11-30T13:51:17.241244,Email thread with Michelle Brown on 2024-02-13
+OPPd5be1022-1ea7-4756-a1d5-77a426b4a0a7,EMP23883c1d,Lawson-Davis,Demo Conducted,148414.49,2025-02-15T13:51:17.241244,2025-11-30T13:51:17.241244,Email thread with Kevin Robinson on 2024-10-17
+OPPd370bdf9-d85d-47fe-8d58-66cee64f0edb,EMP23883c1d,Barrera-Schmidt,Discovery,93024.17,2025-02-25T13:51:17.241244,2025-11-30T13:51:17.241244,Email thread with Pamela Sims on 2024-09-08
+OPPe48f5984-42c9-4740-a757-af74cefad840,EMP23883c1d,Moon Ltd,Closed Lost,58557.68,2025-01-16T13:51:17.242218,2025-11-30T13:51:17.242218,Email thread with Mark Montoya on 2024-10-24
+OPP74b20954-bc51-45e7-acfd-01305b8a762f,EMP23883c1d,"Davenport, Rivera and Coleman",Closed Won,150000.0,2025-02-26T13:51:17.242218,2025-11-30T13:51:17.242218,Email thread with Elizabeth Lamb on 2024-02-24
+OPP39e6f58f-7fdf-4229-ace4-2e4159616401,EMP23883c1d,Brown Group,Closed Lost,136573.01,2025-02-18T13:51:17.242218,2025-11-30T13:51:17.242218,Email thread with Isaac Walker on 2024-05-05
+OPP9def8df6-3ca3-48ca-b307-60dc224c85db,EMP340411d3,"Edwards, Crawford and Cooper",Case Evaluation,84408.67,2025-02-24T13:51:17.243238,2025-11-30T13:51:17.243238,Email thread with Selena Valenzuela on 2024-09-14
+OPP4bc61ffd-c610-43ed-851b-1c8ce0c012d2,EMP340411d3,Dean PLC,Demo Conducted,92434.33,2025-02-01T13:51:17.243238,2025-11-30T13:51:17.243238,Email thread with Denise Mason on 2024-10-02
+OPP70910cca-4fd0-4da2-9c32-a1ded54f58b7,EMP340411d3,Rodriguez Group,Case Evaluation,117282.09,2025-03-12T13:51:17.244212,2025-11-30T13:51:17.244212,Email thread with Kelsey Salazar on 2024-07-31
+OPPdec0efbf-6033-4ee9-a8b1-2ccabcc0cdcf,EMP340411d3,Stewart-Flynn,Case Evaluation,141014.29,2025-03-31T13:51:17.244212,2025-11-30T13:51:17.244212,Email thread with Gary Snyder on 2024-07-20
+OPP06ab5a91-d83d-424b-bcd8-d4e4b8d056c1,EMP340411d3,"Olson, Taylor and Miller",ROI,110379.85,2025-04-03T13:51:17.244212,2025-11-30T13:51:17.244212,Email thread with Sarah Hubbard on 2024-02-12
+OPP4fd43443-e84b-40ec-9235-fb420e11f795,EMP340411d3,"Lee, Brown and Williams",Case Evaluation,88322.3,2025-02-16T13:51:17.245239,2025-11-30T13:51:17.245239,Email thread with Christopher Glover on 2024-05-28
+OPP87b8d77e-f397-4943-a640-ca97fc88e170,EMP340411d3,"Gregory, Richardson and Barnes",Proposal,94758.07,2025-05-21T13:51:17.245239,2025-11-30T13:51:17.245239,Email thread with Andrew Doyle on 2024-08-08
+OPPbce77742-7228-4d9a-a2cd-813001e1dd8c,EMP340411d3,Perry and Sons,Demo Conducted,91821.37,2025-01-16T13:51:17.245239,2025-11-30T13:51:17.245239,Email thread with Mark Velazquez on 2024-11-01
+OPPe20e2224-47d3-4352-8019-fdfa510020c1,EMP340411d3,Waters-Chavez,Discovery,86972.74,2025-03-17T13:51:17.246233,2025-11-30T13:51:17.246233,Email thread with Katherine Lamb on 2024-07-19
+OPPca968927-7194-4669-8dea-a29bdebec758,EMPac44ca48,"Rivera, Lambert and Spears",Closed Lost,95681.7,2025-03-09T13:51:17.246233,2025-11-30T13:51:17.246233,Email thread with Nicole Mcfarland MD on 2024-11-22
+OPPc0b2ae8b-7788-4200-b6bd-58d6e8c2215d,EMPac44ca48,Powell-Stevenson,Closed Won,97465.82,2025-04-04T13:51:17.246233,2025-11-30T13:51:17.247203,Email thread with Tanya Fleming on 2024-03-10
+OPPfe31866f-f37b-4601-b0bb-83947a31daf1,EMPac44ca48,Weber and Sons,Closed Won,118106.65,2025-01-07T13:51:17.247203,2025-11-30T13:51:17.247203,Email thread with Timothy Shaw on 2024-07-15
+OPP2f595bc0-dad1-4c2b-9656-1c9429efcdfc,EMPac44ca48,"Washington, Olson and Wright",Closed Lost,91495.47,2025-04-24T13:51:17.247203,2025-11-30T13:51:17.247203,Email thread with Audrey Mcmillan on 2024-07-19
+OPPfe9e5d82-bcbb-41f9-b3f8-55c809c9a8dc,EMPac44ca48,Clarke Ltd,Proposal,114184.92,2025-01-19T13:51:17.247203,2025-11-30T13:51:17.247203,Email thread with Todd Taylor on 2024-08-06
+OPP5dbfc02b-5bee-41e1-a566-0feb35b996bd,EMPac44ca48,Davis Group,Closed Won,106074.96,2025-03-26T13:51:17.248232,2025-11-30T13:51:17.248232,Email thread with Kenneth Boyd on 2024-08-23
+OPP91f1955c-98e1-4c4a-8374-18f239499369,EMPac44ca48,Morrison-Davis,Discovery,106394.92,2025-03-20T13:51:17.248232,2025-11-30T13:51:17.248232,Email thread with Willie Curry on 2024-03-14
+OPP2d8cf7e1-2158-4621-b79f-3b37f0c0dc32,EMPac44ca48,"Baker, Sparks and Nguyen",Case Evaluation,115485.76,2025-05-09T13:51:17.248232,2025-11-30T13:51:17.248232,Email thread with Michael Payne on 2024-10-20
+OPP0ff34b4c-02f2-4a9e-a574-75fd1720b8b4,EMP099ec979,Cooper and Sons,Demo Conducted,101291.15,2025-02-07T13:51:17.249199,2025-11-30T13:51:17.249199,Email thread with Tammy Lawrence on 2024-05-07
+OPP7e41b9af-9ba7-4849-bb51-a1fa10c565d5,EMP099ec979,Sanchez-Savage,Case Evaluation,112336.52,2025-05-22T13:51:17.249199,2025-11-30T13:51:17.249199,Email thread with Gary Spence on 2024-08-05
+OPP01975d43-754c-47c0-b19e-9ea946ad6171,EMP099ec979,"Garrett, Gates and Navarro",Legal,149231.27,2025-01-21T13:51:17.249199,2025-11-30T13:51:17.249199,Email thread with Mrs. Natasha Kirk DDS on 2024-11-03
+OPP4593b102-f9ae-4048-91b4-a4fe63ba4dc3,EMP099ec979,Campbell-Sullivan,Legal,129469.71,2025-04-20T13:51:17.250196,2025-11-30T13:51:17.250196,Email thread with Taylor Shepherd on 2024-02-21
+OPP545dfd16-4cf2-4732-9190-78b1ce8af4d8,EMP099ec979,Lawson-Burns,Legal,88026.69,2025-04-12T13:51:17.250196,2025-11-30T13:51:17.250196,Email thread with Lee Solomon on 2024-06-09
+OPPd9f415ff-4c78-4b1e-86d3-41c5ceb885eb,EMP099ec979,Crane and Sons,Closed Lost,54080.97,2025-02-10T13:51:17.251217,2025-11-30T13:51:17.251217,Email thread with Sean Hunt on 2024-06-24
+OPP88c15972-ec73-4312-90a5-8c1fdeaf5252,EMP099ec979,"Osborne, Solomon and Underwood",Closed Lost,94128.83,2025-01-06T13:51:17.251217,2025-11-30T13:51:17.251217,Email thread with Michael Hoffman on 2024-08-17
+OPP17c98c2e-151a-4787-903e-6d922b243c58,EMP099ec979,Rodriguez Group,Proposal,99104.09,2025-03-05T13:51:17.251217,2025-11-30T13:51:17.251217,Email thread with Michelle Bruce DVM on 2024-01-11
+OPP546e8226-604f-44fe-9b69-0711cb1dad0d,EMP099ec979,Kelly-King,Proposal,77154.02,2025-04-10T13:51:17.251217,2025-11-30T13:51:17.251217,Email thread with Nicole Rush on 2024-04-30
+OPPe97a194e-6ef9-4741-b21e-4596dfa1084f,EMP099ec979,Liu Ltd,Discovery,117934.56,2025-05-19T13:51:17.252215,2025-11-30T13:51:17.252215,Email thread with Alexis Weiss on 2024-10-10
+OPPcccf980d-b6aa-46d2-bdab-0bc2654075ad,EMP099ec979,Lewis-Arellano,Demo Conducted,59800.87,2025-04-22T13:51:17.252215,2025-11-30T13:51:17.252215,Email thread with Robert Thompson on 2024-10-05
+OPPf85cfc9e-cf13-4e07-b31f-cd7247f559ef,EMP099ec979,Gomez Group,Demo Conducted,50000.0,2025-04-05T13:51:17.252215,2025-11-30T13:51:17.252215,Email thread with Robert Page on 2024-08-29
+OPP67ddf42d-dd76-4afc-aaee-0157d3e4df8f,EMP099ec979,Estrada Inc,Closed Won,118515.07,2025-03-22T13:51:17.253188,2025-11-30T13:51:17.253188,Email thread with Tammy Jenkins on 2024-01-30
+OPP892324d6-3ffd-431f-91c7-3e1dad358ffc,EMP0896c74d,Robinson Ltd,Proposal,146070.29,2025-05-03T13:51:17.253188,2025-11-30T13:51:17.253188,Email thread with Justin Franklin on 2024-02-08
+OPPe56a3078-cf7d-411b-ab67-5ae0c5d21579,EMP0896c74d,Cannon PLC,Demo Conducted,150000.0,2025-02-02T13:51:17.253188,2025-11-30T13:51:17.253188,Email thread with Shelly Kim on 2024-04-11
+OPP7e5c99ac-0f95-488a-8960-0a0436bbde06,EMP0896c74d,Smith Inc,Case Evaluation,110863.16,2025-03-01T13:51:17.254216,2025-11-30T13:51:17.254216,Email thread with Carolyn Fischer on 2024-03-18
+OPPbd9a324e-932b-49a5-8a78-9a0e855f27d4,EMP0896c74d,"Miller, Watson and Gardner",ROI,143475.78,2025-03-25T13:51:17.254216,2025-11-30T13:51:17.254216,Email thread with Sophia Oliver on 2024-09-11
+OPPcabfcd94-8bea-4e4d-a4f4-40284f4f2f74,EMP0896c74d,Carpenter Inc,Demo Conducted,109440.99,2025-04-27T13:51:17.255182,2025-11-30T13:51:17.255182,Email thread with Heather Murphy on 2024-04-18
+OPPd219c778-5891-4706-843b-5096d39e4b11,EMP0896c74d,Evans and Sons,Case Evaluation,120621.95,2025-05-26T13:51:17.255182,2025-11-30T13:51:17.255182,Email thread with Nathaniel Hood on 2024-08-19
+OPP022b6290-6685-454e-917d-4cc0e8bb1f29,EMP0896c74d,Hall-Jordan,Discovery,127954.44,2025-05-26T13:51:17.256180,2025-11-30T13:51:17.256180,Email thread with Robert Thompson on 2024-08-10

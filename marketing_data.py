@@ -2,82 +2,99 @@
 
 import os
 import pandas as pd
-from pydantic import BaseModel, Field
 from faker import Faker
 import random
-import utils
-from datetime import timedelta, datetime
+import uuid
+import asyncio
+import logging
+from datetime import datetime, timedelta
+from chatgpt import chat_with_instructor
 
 fake = Faker()
 Faker.seed(0)
 
-class Lead(BaseModel):
-    lead_id: str = Field(..., description="Unique identifier for the lead")
-    name: str = Field(..., description="Name of the lead")
-    email: str = Field(..., description="Email of the lead")
-    source: str = Field(..., description="Source channel of the lead")
-    campaign: str = Field(..., description="Marketing campaign associated")
-    ad_text: str = Field(..., description="Text of the ad clicked")
-    website_visits: int = Field(..., description="Number of website visits")
-    conversion: bool = Field(..., description="Whether the lead converted")
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filename='marketing_data.log')
+
+async def generate_brandbook(company_data):
+    prompt = f"""
+You are a brand strategist tasked with creating a brandbook for {company_data['company_name']}. The brandbook should include the company's mission, vision, core values, brand voice, visual guidelines, and messaging framework. Ensure the content is professional and aligns with a SaaS cloud service provider.
+"""
+    try:
+        brandbook_content = await asyncio.to_thread(chat_with_instructor, prompt, str)
+        return brandbook_content.strip() if brandbook_content else None
+    except Exception as e:
+        logging.error(f"Error generating brandbook: {e}")
+        return None
 
 def generate_marketing_data(company_data, customers):
-    sources = ['Google Ads', 'Facebook Ads', 'LinkedIn', 'Organic Search', 'Referral']
-    campaigns = ['Spring Sale', 'Summer Promo', 'Fall Discount', 'Winter Offer']
+    campaigns = []
     leads = []
+    num_campaigns = 20
 
-    for _ in range(500):
-        lead = Lead(
-            lead_id=f"LEAD{fake.uuid4()}",
-            name=fake.name(),
-            email=fake.email(),
-            source=random.choice(sources),
-            campaign=random.choice(campaigns),
-            ad_text=fake.sentence(nb_words=6),
-            website_visits=random.randint(1, 10),
-            conversion=fake.boolean(chance_of_getting_true=30)
-        )
-        leads.append(lead.dict())
+    for _ in range(num_campaigns):
+        campaign_id = f"CMP{str(uuid.uuid4())[:8]}"
+        campaign_name = f"{fake.bs().title()} Campaign"
+        start_date = fake.date_between(start_date='-6m', end_date='-3m')
+        end_date = start_date + timedelta(days=random.randint(30, 90))
+        budget = round(random.uniform(10000, 50000), 2)
 
-    # Save to CSV
-    df = pd.DataFrame(leads)
-    df.to_csv(os.path.join('data', 'leads.csv'), index=False)
-
-    # Generate Ads Data
-    ads_data = []
-    for source in sources:
-        for campaign in campaigns:
-            ad = {
-                'ad_id': f"AD{fake.uuid4()}",
-                'source': source,
-                'campaign': campaign,
-                'impressions': random.randint(1000, 10000),
-                'clicks': random.randint(100, 1000),
-                'ctr': round(random.uniform(1.0, 10.0), 2),
-                'cost': round(random.uniform(500.0, 5000.0), 2)
-            }
-            ads_data.append(ad)
-
-    df_ads = pd.DataFrame(ads_data)
-    df_ads.to_csv(os.path.join('data', 'ads_data.csv'), index=False)
-
-    # Generate Google Analytics Data
-    ga_data = []
-    for day in range(1, 31):
-        ga = {
-            'date': (datetime.now() - timedelta(days=day)).isoformat(),
-            'page_views': random.randint(1000, 5000),
-            'unique_visitors': random.randint(500, 2500),
-            'bounce_rate': round(random.uniform(30.0, 70.0), 2)
+        campaign = {
+            'campaign_id': campaign_id,
+            'campaign_name': campaign_name,
+            'start_date': start_date.isoformat(),
+            'end_date': end_date.isoformat(),
+            'budget': budget
         }
-        ga_data.append(ga)
+        campaigns.append(campaign)
 
-    df_ga = pd.DataFrame(ga_data)
-    df_ga.to_csv(os.path.join('data', 'google_analytics.csv'), index=False)
+        # Generate leads for the campaign
+        num_leads = random.randint(50, 200)
+        for _ in range(num_leads):
+            lead_id = f"LEAD{str(uuid.uuid4())[:8]}"
+            lead_name = fake.name()
+            company = fake.company()
+            email = fake.email()
+            phone = fake.phone_number()
+            status = random.choice(['New', 'Contacted', 'Qualified', 'Converted'])
 
-    # Generate Brand Book (Placeholder)
-    brand_book = "Brand guidelines content goes here."
-    with open(os.path.join('data', 'brand_book.txt'), 'w') as f:
-        f.write(brand_book)
+            lead = {
+                'lead_id': lead_id,
+                'campaign_id': campaign_id,
+                'lead_name': lead_name,
+                'company': company,
+                'email': email,
+                'phone': phone,
+                'status': status
+            }
+            leads.append(lead)
 
+    # Save campaigns to CSV
+    df_campaigns = pd.DataFrame(campaigns)
+    df_campaigns.to_csv(os.path.join('data', 'campaigns.csv'), index=False)
+
+    # Save leads to CSV
+    df_leads = pd.DataFrame(leads)
+    df_leads.to_csv(os.path.join('data', 'leads.csv'), index=False)
+
+    # Generate brandbook asynchronously
+    async def main():
+        brandbook_content = await generate_brandbook(company_data)
+        return brandbook_content
+
+    # Use asyncio.run() instead of get_event_loop()
+    brandbook_content = asyncio.run(main())
+
+    # Save brandbook to a text file
+    if brandbook_content:
+        with open(os.path.join('data', 'brandbook.txt'), 'w') as f:
+            f.write(brandbook_content)
+        logging.info("Brandbook generated.")
+        print("Brandbook generated.")
+    else:
+        logging.error("Brandbook generation failed.")
+        print("Brandbook generation failed.")
+
+    logging.info("Marketing data generated.")
     print("Marketing data generated.")
+    return campaigns, leads

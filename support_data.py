@@ -2,55 +2,77 @@
 
 import os
 import pandas as pd
-from pydantic import BaseModel, Field
 from faker import Faker
-import utils
 import random
+import uuid
+import asyncio
+import logging
+from chatgpt import chat_with_instructor
 
 fake = Faker()
 Faker.seed(0)
 
-class SupportTicket(BaseModel):
-    ticket_id: str = Field(..., description="Unique identifier for the support ticket")
-    customer_id: str = Field(..., description="Customer ID")
-    issue_summary: str = Field(..., description="Summary of the issue")
-    status: str = Field(..., description="Current status of the ticket")
-    tags: list = Field(..., description="Tags associated with the ticket")
-    kb_reference: bool = Field(..., description="Whether the issue is covered in the knowledge base")
-    email_conversations: str = Field(..., description="Summary of email conversations")
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filename='support_data.log')
 
-def generate_support_data(company_data, customers):
+async def generate_issue_summary(contact_name, customer_name, company_name):
+    prompt = f"""
+You are a customer named {contact_name} from {customer_name} using {company_name}'s services. Describe a technical issue you are experiencing in one sentence, related to common SaaS problems like login issues, performance problems, or feature malfunctions. Avoid using any personal data or disallowed content.
+"""
+    try:
+        issue_summary = await asyncio.to_thread(chat_with_instructor, prompt, str)
+        return issue_summary.strip() if issue_summary else None
+    except Exception as e:
+        logging.error(f"Error generating issue summary for {customer_name}: {e}")
+        return None
+
+async def generate_support_ticket(customer, company_name, statuses):
+    customer_id = customer['customer_id']
+    customer_name = customer['company_name']
+    contact_name = fake.name()
+    issue_summary = await generate_issue_summary(contact_name, customer_name, company_name)
+    if issue_summary is None:
+        return None
+
+    status = random.choice(statuses)
+    tags = [fake.word() for _ in range(3)]
+    kb_reference = random.choice([True, False])
+    email_date = fake.date_between(start_date='-1y', end_date='today').isoformat()
+    email_conversations = f"Email exchange with {contact_name} on {email_date}"
+
+    ticket = {
+        'ticket_id': f"TICK{str(uuid.uuid4())[:8]}",
+        'customer_id': customer_id,
+        'issue_summary': issue_summary,
+        'status': status,
+        'tags': tags,
+        'kb_reference': kb_reference,
+        'email_conversations': email_conversations
+    }
+    return ticket
+
+def generate_support_data(company_data, customers, knowledge_base):
+    support_tickets = []
     statuses = ['Open', 'Pending', 'Resolved', 'Closed']
-    tickets = []
+    num_tickets = 200
 
-    for _ in range(200):
-        customer = random.choice(customers)
-        ticket = SupportTicket(
-            ticket_id=f"TICK{fake.uuid4()}",
-            customer_id=customer['customer_id'],
-            issue_summary=fake.sentence(nb_words=6),
-            status=random.choice(statuses),
-            tags=fake.words(nb=3),
-            kb_reference=fake.boolean(chance_of_getting_true=70),
-            email_conversations=f"Email exchange with {fake.name()} on {fake.date_this_year().isoformat()}"
-        )
-        tickets.append(ticket.dict())
+    async def main():
+        tasks = [
+            generate_support_ticket(random.choice(customers), company_data['company_name'], statuses)
+            for _ in range(num_tickets)
+        ]
+        return await asyncio.gather(*tasks)
+
+    # Use asyncio.run() instead of get_event_loop()
+    results = asyncio.run(main())
+
+    # Filter out None results
+    support_tickets = [ticket for ticket in results if ticket is not None]
 
     # Save to CSV
-    df = pd.DataFrame(tickets)
-    df.to_csv(os.path.join('data', 'support_tickets.csv'), index=False)
+    df_tickets = pd.DataFrame(support_tickets)
+    df_tickets.to_csv(os.path.join('data', 'support_tickets.csv'), index=False)
 
-    # Generate Knowledge Base Articles
-    kb_articles = []
-    for i in range(1, 51):
-        article = {
-            "article_id": f"KB{str(i).zfill(4)}",
-            "title": fake.sentence(nb_words=6),
-            "content": fake.paragraph(nb_sentences=5),
-            "tags": fake.words(nb=3)
-        }
-        kb_articles.append(article)
-    df_kb = pd.DataFrame(kb_articles)
-    df_kb.to_csv(os.path.join('data', 'knowledge_base.csv'), index=False)
-
+    logging.info("Support data generated.")
     print("Support data generated.")
+    return support_tickets

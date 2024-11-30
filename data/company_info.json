@@ -1,14 +1,14 @@
 {
-    "company_name": "CloudEngine Solutions",
-    "description": "Founded in 2019, CloudEngine Solutions is a leading SaaS B2B company specializing in cloud infrastructure. We provide innovative solutions to businesses, enabling them to leverage the power of cloud technology to drive efficiency, scalability, and security in their operations.",
+    "company_name": "CloudScape Technologies",
+    "description": "CloudScape Technologies, established in 2019, is a leading provider of cloud infrastructure solutions aimed at optimizing and scaling business operations with state-of-the-art cloud technology.",
     "products": [
-        "CloudCompute Pro",
-        "SecureCloud Storage",
-        "NetworkOptimizer AI",
-        "DataSync Hub",
-        "CloudMonitor 360"
+        "CloudCompute Engine",
+        "SecureStorage Vault",
+        "NetworkConnect Hub",
+        "DataSync Plus",
+        "EcoAnalytics Suite"
     ],
-    "mission": "To empower businesses with cutting-edge cloud infrastructure solutions that enhance performance and secure data integrity.",
-    "vision": "To be the global leader in cloud infrastructure, transforming the way businesses operate with our innovative and reliable solutions.",
+    "mission": "To empower businesses by providing scalable and secure cloud infrastructure solutions that drive innovation and efficiency.",
+    "vision": "To be the global leader in cloud infrastructure, revolutionizing how businesses operate by making cloud adoption seamless and sustainable.",
     "cash_at_bank": 6000000.0
 }
