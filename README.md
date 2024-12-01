@@ -1,6 +1,6 @@
 # Synthetic Data Generator
 
-The Synthetic Data Generator is a Python-based tool designed to create realistic synthetic datasets for various departments of a fictional SaaS cloud service provider. This tool is ideal for testing, development, or educational purposes without compromising any real personal or sensitive information.
+The Synthetic Data Generator is a Python-based tool designed to create realistic synthetic datasets and documents for various departments of a fictional SaaS cloud service provider, **Advanced Cloud**. This tool is ideal for testing, development, or educational purposes without compromising any real personal or sensitive information.
 
 ## Table of Contents
 
@@ -16,12 +16,14 @@ The Synthetic Data Generator is a Python-based tool designed to create realistic
 ## Features
 
 - **Company Information**: Generates random company names, services, and mission statements.
-- **Human Resources Data**: Creates detailed employee records, including personal details, job information, payroll data, and performance reviews.
-- **Sales Data**: Generates sales opportunities, customers, sales targets, and email conversations replicating CRM data.
+- **Human Resources Data**: Creates detailed employee records, including personal details, job information, payroll data, performance reviews, and organizational charts.
+- **Sales Data**: Generates sales opportunities, customers, sales targets, sales plans, and email conversations replicating CRM data.
 - **Support Data**: Creates support tickets and issue summaries linked to customers.
 - **Finance Data**: Generates invoices, transactions, accounts payable, financial reports, and MRR files replicating accounting software data.
 - **Marketing Data**: Produces marketing campaigns, leads, and a company brand book similar to marketing automation tools.
 - **Knowledge Base**: Generates knowledge base articles on various topics relevant to the company.
+- **Documents**: Generates documents such as sales plans and Account Executive handbooks in multiple formats (TXT, DOCX, PDF).
+- **Organizational Charts**: Creates detailed organizational charts in multiple formats (TXT, DOCX, PDF).
 
 ## Installation
 
@@ -85,16 +87,15 @@ python main.py [options]
 ### Options
 
 - `--employee_count`: Number of employees to generate (default: 200)
-- `--account_executive_count`: Number of Account Executives (default: 50)
 - `--num_opportunities`: Number of sales opportunities (default: 200)
-- `--total_sales_target`: Total sales target (default: 6000000)
-- `--new_clients_percentage`: Percentage of sales target from new clients (default: 75.0)
+- `--total_sales_target`: Total sales target (default: 10000000)
+- `--new_clients_percentage`: Percentage of sales target from new clients (default: 60.0)
 - `--international_clients_percentage`: Percentage of international clients (default: 30.0)
 
 ### Example
 
 ```bash
-python main.py --employee_count 150 --account_executive_count 30 --num_opportunities 100
+python main.py --employee_count 150 --num_opportunities 100
 ```
 
 ## Configuration
@@ -102,7 +103,6 @@ python main.py --employee_count 150 --account_executive_count 30 --num_opportuni
 You can adjust various parameters to tweak the generated data:
 
 - **Employee Count**: Adjust the total number of employees to generate.
-- **Account Executive Count**: Set the number of Account Executives in the sales team.
 - **Sales Opportunities**: Define how many sales opportunities to create.
 - **Sales Targets**: Set the total sales target and the percentage expected from new clients.
 - **International Clients**: Specify the percentage of clients that are international.
@@ -113,20 +113,37 @@ These parameters can be modified via command-line arguments when running the `ma
 
 The generated data files are saved in the `data` directory:
 
-- `employees.csv`
-- `customers.csv`
-- `opportunities.csv`
-- `sales_targets.csv`
-- `support_tickets.csv`
-- `invoices.csv`
-- `transactions.csv`
-- `accounts_payable.csv`
-- `rolling_forecast.csv`
-- `mrr.csv`
-- `campaigns.csv`
-- `leads.csv`
-- `knowledge_base.csv`
-- `brandbook.txt`
+- **Employee Data**:
+  - `employees.csv`
+  - `hr_records.docx`
+- **Organizational Chart**:
+  - `org_chart.txt`
+  - `org_chart.docx`
+  - `org_chart.pdf`
+- **Sales Data**:
+  - `opportunities.csv`
+  - `sales_targets.csv`
+- **Sales Plan**:
+  - `sales_plan.txt`
+  - `sales_plan.docx`
+  - `sales_plan.pdf`
+- **Account Executive Handbook**:
+  - `ae_handbook.docx`
+  - `ae_handbook.pdf`
+- **Support Tickets**:
+  - `support_tickets.csv`
+- **Finance Data**:
+  - `invoices.csv`
+  - `transactions.csv`
+  - `accounts_payable.csv`
+  - `rolling_forecast.csv`
+  - `mrr.csv`
+- **Marketing Data**:
+  - `campaigns.csv`
+  - `leads.csv`
+  - `brandbook.txt`
+- **Knowledge Base**:
+  - `knowledge_base.csv`
 
 ## Dependencies
 
@@ -140,3 +157,5 @@ The generated data files are saved in the `data` directory:
 - **Logging**: The tool generates log files for each module to help with debugging and monitoring.
 - **Error Handling**: Extensive error handling has been implemented to ensure smooth execution.
 - **Rate Limiting**: Be cautious of API rate limits. The script includes mechanisms to handle rate limiting, but adjust the concurrency settings if necessary.
+- **Document Generation**: Generated documents are available in TXT, DOCX, and PDF formats for versatility and ease of use.
+- **Organizational Structure**: Ensure that employee data includes necessary fields like `manager_id` and `manager_name` for accurate organizational chart generation.

@@ -1,12 +1,28 @@
-sales_rep_id,sales_rep_name,total_sales_target,new_clients_target,existing_clients_target
-EMPc3f4c170,Samantha Gallegos,545454.55,409090.91,136363.64
-EMP29a2c997,Kelsey Fletcher,545454.55,409090.91,136363.64
-EMP1db3c71b,Sarah Parker,545454.55,409090.91,136363.64
-EMP812ea9a2,Shannon Rhodes,545454.55,409090.91,136363.64
-EMP92863be8,Jeffery Wilson,545454.55,409090.91,136363.64
-EMP03c52add,Renee Wallace,545454.55,409090.91,136363.64
-EMP23883c1d,Katrina Costa,545454.55,409090.91,136363.64
-EMP340411d3,Lisa Mclaughlin,545454.55,409090.91,136363.64
-EMPac44ca48,Joshua Greer,545454.55,409090.91,136363.64
-EMP099ec979,Joshua Duffy,545454.55,409090.91,136363.64
-EMP0896c74d,Christopher Thompson,545454.55,409090.91,136363.64
+sales_rep_id,sales_rep_name,role,total_sales_target,new_clients_target,existing_clients_target
+EMP0cbcce82,Jonathan Dixon,Vice President of Sales,370370.37,222222.22,148148.15
+EMPce75d80d,Chloe Tucker,Business Development Representative,185185.18,111111.11,74074.07
+EMP8d7e6071,Caleb Miles,Business Development Representative,185185.18,111111.11,74074.07
+EMP259d8bf8,Troy Collins,Sales Manager,370370.37,222222.22,148148.15
+EMPed60a8e1,Yvonne Schultz,Sales Associate,370370.37,222222.22,148148.15
+EMPf6d6f887,Dillon Nelson,Sales Associate,370370.37,222222.22,148148.15
+EMP3554925a,Danny Cross,Sales Associate,370370.37,222222.22,148148.15
+EMPcdcd102c,Angela Roberts,Account Executive,370370.37,222222.22,148148.15
+EMPf9e866e9,Shannon Rhodes,Sales Associate,370370.37,222222.22,148148.15
+EMPf2d41056,Rachel Butler,Account Executive,370370.37,222222.22,148148.15
+EMPf655995c,Sean Sherman,Account Executive,370370.37,222222.22,148148.15
+EMP325cf05d,Douglas Ford,Sales Associate,370370.37,222222.22,148148.15
+EMP43901485,Raymond Zamora,Business Development Representative,185185.18,111111.11,74074.07
+EMP58e859ba,Monica Chambers,Sales Associate,370370.37,222222.22,148148.15
+EMP1426bc8d,Jason Kelly,Sales Manager,370370.37,222222.22,148148.15
+EMP707689e8,Holly Acosta,Sales Manager,370370.37,222222.22,148148.15
+EMP65aba51c,Brenda Williams,Account Executive,370370.37,222222.22,148148.15
+EMP38548b01,Joseph Williams,Sales Manager,370370.37,222222.22,148148.15
+EMPd9debc38,John Daniel,Account Executive,370370.37,222222.22,148148.15
+EMP72e20ed9,Courtney Mitchell,Business Development Representative,185185.18,111111.11,74074.07
+EMPdbf96f55,Kathleen Gomez,Account Executive,370370.37,222222.22,148148.15
+EMP732c87ed,Frank Koch,Sales Manager,370370.37,222222.22,148148.15
+EMP9ac2b662,Lance Lester,Account Executive,370370.37,222222.22,148148.15
+EMPc7898a6d,Joshua Duffy,Sales Manager,370370.37,222222.22,148148.15
+EMPb3aed249,Patty Patrick,Business Development Representative,185185.18,111111.11,74074.07
+EMP6eaaae16,Sandra Cox,Sales Associate,370370.37,222222.22,148148.15
+EMPecda5981,Matthew Jenkins,Sales Associate,370370.37,222222.22,148148.15

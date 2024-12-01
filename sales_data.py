@@ -10,6 +10,8 @@ import asyncio
 import logging
 from datetime import datetime, timedelta
 from chatgpt import chat_with_instructor
+from docx import Document
+from fpdf import FPDF
 
 fake = Faker()
 Faker.seed(0)
@@ -79,7 +81,7 @@ def generate_customers_from_opportunities(opportunities):
         client_name = opp.client_name
         if client_name not in seen_clients:
             customer = {
-                'customer_id': f"CUST{str(uuid.uuid4())[:8]}",
+                'customer_id': f"CUST{str(uuid.uuid4())[:8].upper()}",
                 'company_name': client_name,
                 # Add other customer fields as needed
             }
@@ -92,11 +94,11 @@ def generate_sales_data(company_data, employees, num_opportunities=200):
     stages = ['Prospecting', 'Qualification', 'Proposal', 'Negotiation', 'Closed Won', 'Closed Lost']
 
     # Filter for sales representatives
-    sales_reps = [emp for emp in employees if emp['title'] == 'Account Executive']
+    sales_reps = [emp for emp in employees if emp['department'] == 'Sales']
 
     if not sales_reps:
-        logging.error("No Account Executives available to generate sales data.")
-        print("Error: No Account Executives available to generate sales data.")
+        logging.error("No Sales representatives available to generate sales data.")
+        print("Error: No Sales representatives available to generate sales data.")
         return [], [], []
 
     async def main():
@@ -126,6 +128,50 @@ def generate_sales_data(company_data, employees, num_opportunities=200):
     df_opportunities = pd.DataFrame([opp.dict() for opp in opportunities])
     df_opportunities.to_csv(os.path.join('data', 'opportunities.csv'), index=False)
 
+    # Generate Sales Opportunity Report
+    generate_sales_opportunity_report(opportunities, sales_team, company_data)
+
     logging.info("Sales data generated.")
     print("Sales data generated.")
     return customers, sales_team, opportunities
+
+def generate_sales_opportunity_report(opportunities, sales_team, company_data):
+    # Prepare Report Content
+    report_content = f"""
+Advanced Cloud Sales Opportunity Report
+
+Total Opportunities: {len(opportunities)}
+Stages Distribution:
+"""
+
+    stage_counts = {}
+    for opp in opportunities:
+        stage_counts[opp.stage] = stage_counts.get(opp.stage, 0) + 1
+
+    for stage, count in stage_counts.items():
+        # Replace '•' with '*' to avoid UnicodeEncodeError
+        report_content += f"* {stage}: {count}\n"
+
+    # Generate PDF
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_font("Arial", 'B', size=16)
+    pdf.cell(200, 10, txt="Advanced Cloud Sales Opportunity Report", ln=True, align='C')
+    pdf.set_font("Arial", size=12)
+    pdf.multi_cell(0, 10, txt=report_content)
+    pdf.output(os.path.join('data', 'sales_opportunity_report.pdf'))
+
+    # Generate DOCX
+    doc = Document()
+    doc.add_heading('Advanced Cloud Sales Opportunity Report', 0)
+    doc.add_paragraph(f"Total Opportunities: {len(opportunities)}")
+    doc.add_heading('Stages Distribution:', level=1)
+    for stage, count in stage_counts.items():
+        doc.add_paragraph(f"{stage}: {count}", style='List Bullet')
+    doc.save(os.path.join('data', 'sales_opportunity_report.docx'))
+
+    # Save Report as TXT
+    with open(os.path.join('data', 'sales_opportunity_report.txt'), 'w') as f:
+        f.write(report_content)
+
+    print("Sales Opportunity Report generated in PDF, DOCX, and TXT formats.")

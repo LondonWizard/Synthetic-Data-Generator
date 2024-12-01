@@ -6,6 +6,8 @@ from faker import Faker
 import random
 import uuid
 from datetime import datetime, timedelta
+from docx import Document
+from fpdf import FPDF
 
 fake = Faker()
 Faker.seed(0)
@@ -19,7 +21,7 @@ def generate_finance_data(company_data, customers, international_clients_percent
         # Determine if the customer is international based on the percentage
         is_international = random.uniform(0, 100) < international_clients_percentage
         for _ in range(random.randint(1, 5)):  # Each customer can have multiple invoices
-            invoice_id = f"INV{str(uuid.uuid4())[:8]}"
+            invoice_id = f"INV{str(uuid.uuid4())[:8].upper()}"
             customer_id = customer['customer_id']
             issue_date = fake.date_between(start_date='-1y', end_date='today')
             due_date = issue_date + timedelta(days=30)
@@ -56,7 +58,7 @@ def generate_finance_data(company_data, customers, international_clients_percent
             if status == 'Paid':
                 payment_date = issue_date + timedelta(days=random.randint(0, 30))
                 transaction = {
-                    'transaction_id': f"TRX{str(uuid.uuid4())[:8]}",
+                    'transaction_id': f"TRX{str(uuid.uuid4())[:8].upper()}",
                     'invoice_id': invoice_id,
                     'payment_date': payment_date.isoformat(),
                     'amount': amount,
@@ -66,7 +68,7 @@ def generate_finance_data(company_data, customers, international_clients_percent
 
     # Generate accounts payable and financial reports
     generate_accounts_payable(company_data)
-    generate_financial_reports()
+    generate_financial_reports_document()
 
     # Save invoices to CSV
     df_invoices = pd.DataFrame(invoices)
@@ -75,6 +77,9 @@ def generate_finance_data(company_data, customers, international_clients_percent
     # Save transactions to CSV
     df_transactions = pd.DataFrame(transactions)
     df_transactions.to_csv(os.path.join('data', 'transactions.csv'), index=False)
+
+    # Generate Financial Reports
+    generate_financial_reports_document()
 
     print("Finance data generated.")
     return invoices, transactions
@@ -85,7 +90,7 @@ def generate_accounts_payable(company_data):
 
     for _ in range(num_payables):
         vendor_name = fake.company()
-        invoice_id = f"AP{str(uuid.uuid4())[:8]}"
+        invoice_id = f"AP{str(uuid.uuid4())[:8].upper()}"
         issue_date = fake.date_between(start_date='-1y', end_date='today')
         due_date = issue_date + timedelta(days=30)
         amount = round(random.uniform(500, 20000), 2)
@@ -110,8 +115,8 @@ def generate_accounts_payable(company_data):
     print("Accounts payable data generated.")
     return payables
 
-def generate_financial_reports():
-    # Generate a 13-week rolling forecast
+def generate_financial_reports_document():
+    # Generate 13-week Rolling Forecast
     forecast = []
     current_date = datetime.now().date()
     for i in range(13):
@@ -146,5 +151,43 @@ def generate_financial_reports():
     df_mrr = pd.DataFrame(mrr)
     df_mrr.to_csv(os.path.join('data', 'mrr.csv'), index=False)
 
-    print("Financial reports generated.")
-    return forecast, mrr
+    # Prepare Financial Reports Content
+    reports_content = f"""
+Financial Reports
+
+13-Week Rolling Forecast
+-------------------------
+"""
+
+    for entry in forecast:
+        reports_content += f"Week of {entry['week_of']}: Revenue: ${entry['revenue']:,.2f}, Expenses: ${entry['expenses']:,.2f}, Net Income: ${entry['net_income']:,.2f}\n"
+
+    reports_content += "\nMRR (Monthly Recurring Revenue)\n-------------------------------\n"
+    for entry in mrr:
+        reports_content += f"{entry['month']}: ${entry['recurring_revenue']:,.2f}\n"
+
+    # Generate PDF
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_font("Arial", 'B', size=16)
+    pdf.cell(200, 10, txt="Financial Reports", ln=True, align='C')
+    pdf.set_font("Arial", size=12)
+    pdf.multi_cell(0, 10, txt=reports_content)
+    pdf.output(os.path.join('data', 'financial_reports.pdf'))
+
+    # Generate DOCX
+    doc = Document()
+    doc.add_heading('Financial Reports', 0)
+    doc.add_heading('13-Week Rolling Forecast', level=1)
+    for entry in forecast:
+        doc.add_paragraph(f"Week of {entry['week_of']}: Revenue: ${entry['revenue']:,.2f}, Expenses: ${entry['expenses']:,.2f}, Net Income: ${entry['net_income']:,.2f}", style='List Bullet')
+    doc.add_heading('MRR (Monthly Recurring Revenue)', level=1)
+    for entry in mrr:
+        doc.add_paragraph(f"{entry['month']}: ${entry['recurring_revenue']:,.2f}", style='List Bullet')
+    doc.save(os.path.join('data', 'financial_reports.docx'))
+
+    # Save Reports as TXT
+    with open(os.path.join('data', 'financial_reports.txt'), 'w') as f:
+        f.write(reports_content)
+
+    print("Financial reports generated in PDF, DOCX, and TXT formats.")

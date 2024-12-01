@@ -1,14 +1,14 @@
 {
-    "company_name": "CloudScape Technologies",
-    "description": "CloudScape Technologies, established in 2019, is a leading provider of cloud infrastructure solutions aimed at optimizing and scaling business operations with state-of-the-art cloud technology.",
+    "company_name": "Nimbus Infrastructure Solutions",
+    "description": "Nimbus Infrastructure Solutions is a leading provider of cloud infrastructure solutions for businesses, enabling scalable and secure operations. With a focus on innovation and customer-centric services, we provide cutting-edge tools to enhance the efficiency and effectiveness of business IT environments.",
     "products": [
-        "CloudCompute Engine",
-        "SecureStorage Vault",
-        "NetworkConnect Hub",
-        "DataSync Plus",
-        "EcoAnalytics Suite"
+        "NimbusCloud Compute",
+        "NimbusStorage Solutions",
+        "NimbusNetwork Security",
+        "NimbusData Analytics",
+        "NimbusDevOps Tools"
     ],
-    "mission": "To empower businesses by providing scalable and secure cloud infrastructure solutions that drive innovation and efficiency.",
-    "vision": "To be the global leader in cloud infrastructure, revolutionizing how businesses operate by making cloud adoption seamless and sustainable.",
+    "mission": "To empower businesses with robust and scalable cloud infrastructure solutions that drive innovation and efficiency.",
+    "vision": "To be the global leader in cloud infrastructure services, setting standards for quality, security, and technological advancement.",
     "cash_at_bank": 6000000.0
 }
