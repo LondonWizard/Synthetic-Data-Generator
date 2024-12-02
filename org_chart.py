@@ -17,7 +17,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 async def generate_org_chart_async(company_data):
     # Load employee data
     df_employees = pd.read_csv(os.path.join('data', 'employees.csv'))
-    employees = df_employees.to_dict('records')
+    simplified_employees = df_employees[['employee_id', 'first_name', 'last_name', 'title', 'department', 'manager_name', 'work_location', 'remote']]
+    employees = simplified_employees.to_dict('records')
 
     # Prepare the prompt
     prompt = f"""
@@ -36,7 +37,110 @@ Ensure that the chart includes:
 - Locations and remote status
 - Reporting lines
 
-Output the organizational chart as plain text.
+Here is an example of the expected format:
+
+Advanced Cloud Organizational Chart
+
+1. Executive Leadership
+Emily Smith (AC001)
+* Position: Chief Executive Officer (CEO)
+* Department: Executive
+* Location: San Francisco, CA
+* Remote: No
+* Reports To: Board of Directors (AC000)
+
+
+2. Direct Reports to the CEO
+A. James Garcia (AC008)
+* Position: Engineering Manager
+* Department: R&D/Product
+* Location: San Francisco, CA
+* Remote: No
+* Reports To: Emily Smith (AC001)
+B. Michael Johnson (AC002)
+* Position: Vice President of Sales
+* Department: Sales
+* Location: New York, NY
+* Remote: No
+* Reports To: Emily Smith (AC001)
+C. Linda Williams (AC003)
+* Position: Vice President of Support
+* Department: Support
+* Location: Seattle, WA
+* Remote: Yes
+* Reports To: Emily Smith (AC001)
+D. David Brown (AC004)
+* Position: Vice President of Customer Experience
+* Department: Customer Experience
+* Location: Austin, TX
+* Remote: No
+* Reports To: Emily Smith (AC001)
+E. Susan Jones (AC005)
+* Position: Vice President of Marketing
+* Department: Marketing
+* Location: Boston, MA
+* Remote: No
+* Reports To: Emily Smith (AC001)
+...
+
+3. Departmental Structure
+A. R&D/Product Department
+Led by James Garcia (AC008), Engineering Manager
+Team Members:
+1. Patricia Martinez (AC009)
+   * Position: Software Engineer II
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+2. John Lopez (AC010)
+   * Position: Software Engineer I
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+... (additional R&D team members)
+
+B. Sales Department
+Led by Michael Johnson (AC002), VP of Sales
+Direct Report:
+* Robert Miller (AC006)
+   * Position: Sales Operations Manager
+   * Location: Chicago, IL
+   * Remote: Yes
+   * Reports To: Michael Johnson (AC002)
+Sales Team:
+1. Richard Anderson (AC014)
+   * Position: Account Executive
+   * Location: New York, NY
+   * Remote: Yes
+   * Reports To: Michael Johnson (AC002)
+2. Mary Thomas (AC015)
+   * Position: Sales Associate
+   * Location: Chicago, IL
+   * Remote: No
+   * Reports To: Michael Johnson (AC002)
+... (additional sales team members)
+
+
+
+C. Support Department
+Led by Linda Williams (AC003), VP of Support
+Team Members:
+1. Daniel Martinez (AC024)
+   * Position: Support Engineer
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: Linda Williams (AC003)
+2. Ashley Robinson (AC025)
+   * Position: Support Engineer
+   * Location: Seattle, WA
+   * Remote: No
+   * Reports To: Linda Williams (AC003)
+... (additional support team members)
+
+
+... (additional departmental structures)
+
+Output the full organizational chart as plain text.
 """
 
     try:

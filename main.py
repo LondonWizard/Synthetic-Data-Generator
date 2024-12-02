@@ -30,7 +30,7 @@ def main():
     if not os.path.exists('data'):
         os.makedirs('data')
 
-    # Generate Company Info with more randomness
+    # Generate Company Info
     company_data = generate_company_info()
 
     # Generate HR data

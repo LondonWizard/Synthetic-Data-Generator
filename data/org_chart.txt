@@ -1,102 +1,157 @@
-Here is the organizational chart for CloudMinds Inc.:
+CloudScape Technologies Organizational Chart
 
-- **Sarah Chang (EMPc4fb697a)**
-  - *Chief Executive Officer*
-  - Department: Executive
-  - Reports to: Board of Directors
-  - Direct Reports:
-    - **Jonathan Dixon (EMPb48b48ca)**
-      - *Vice President of Sales*
-      - Department: Sales
-      - Reports to: Sarah Chang
-      - Team:
-        - **Lisa Fernandez (EMPa5b969f0)** – *Business Development Representative*, Sales, Manager: Jonathan Dixon
-        - **Timothy Acosta (EMP55721052)** – *Sales Manager*, Sales, Manager: Jonathan Dixon
-        - **Benjamin Garcia (EMP6e61af8c)** – *Account Executive*, Sales, Manager: Jonathan Dixon
-        - **Deanna Wilson (EMP0c362434)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Kevin Houston (EMPd558bfad)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Christine Smith (EMPe9be607c)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Cassandra Warner (EMPe1cbee78)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Leslie Burgess (EMPa92448ec)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Joshua Lambert (EMPb9f252ab)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Dale Fuller (EMPcad0de8e)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Raymond Zamora (EMP6507bbf7)** – *Sales Associate*, Sales, Manager: Jonathan Dixon
-        - **Gina Harmon (EMP3969190c)** – *Account Executive*, Sales, Manager: Jonathan Dixon
-        - **Sarah Flores (EMPb1d83760)** – *Account Executive*, Sales, Manager: Jonathan Dixon
-        - **Jennifer Waters (EMPd54fae76)** – *Account Executive*, Sales, Manager: Jonathan Dixon
-        - **Kristin Becker (EMP9c6aa742)** – *Sales Manager*, Sales, Manager: Jonathan Dixon
-        - **Michele Lopez (EMP17b58647)** – *Sales Manager*, Sales, Manager: Jonathan Dixon
-        - **Brenda Williams (EMPb04aa24c)** – *Sales Manager*, Sales, Manager: Jonathan Dixon
-        - **Joseph Maddox (EMP2dc44c2f)** – *Sales Manager*, Sales, Manager: Jonathan Dixon
-        - **Rachel Butler (EMP44f43510)** – *Business Development Representative*, Sales, Manager: Jonathan Dixon
-        - **Kristina Price (EMPcf869780)** – *Marketing Manager*, Sales, Manager: Jonathan Dixon
-        - **Brenda Williams (EMPc9361207)** – *Sales Manager*, Sales, Manager: Jonathan Dixon
-        - **John Olson (EMP4c803b0e)** – *Support Manager*, Sales, Manager: Jonathan Dixon
-        - **John Mckenzie (EMP0379f1fc)** – *HR Manager*, Sales, Manager: Jonathan Dixon
-    - **William Campbell (EMPeeeb2989)**
-      - *Vice President of Marketing*
-      - Department: Marketing
-      - Reports to: Sarah Chang
-      - Team:
-        - **Marcia Barnes (EMP9b6677f1)** – *Content Strategist*, Marketing, Manager: William Campbell
-        - **David Davis (EMPd65db7cd)** – *SEO Specialist*, Marketing, Manager: William Campbell
-        - **Chloe Tucker (EMPdd2cc9d2)** – *Product Manager*, Marketing, Manager: William Campbell
-        - **Deanna Wilson (EMP0c362434)** – *Business Development Representative*, Marketing, Manager: William Campbell
-        - **Erin Mccullough (EMPc606234e)** – *Finance Manager*, Marketing, Manager: William Campbell
-        - **Crystal Burton (EMP567a3144)** – *Customer Success Manager*, Marketing, Manager: William Campbell
-        - **Raven Bowman (EMP20dc6584)** – *Financial Analyst*, Marketing, Manager: William Campbell
-      
-    - **Rachel Collins (EMP702da0fb)**
-      - *Vice President of Support*
-      - Department: Support
-      - Reports to: Sarah Chang
-      - Team:
-        - **Christopher Todd (EMP7cf37c6e)** – *Support Specialist*, Support, Manager: Rachel Collins
-        - **John Castro (EMPe77af746)** – *Marketing Manager*, Support, Manager: Rachel Collins
-        - **James Patton (EMP30d25efc)** – *Support Specialist*, Support, Manager: Rachel Collins
-        - **Michael Walters (EMP8e201dec)** – *Support Specialist*, Support, Manager: Rachel Collins
-        - **Jessica Reed (EMPb779e15c)** – *Support Manager*, Support, Manager: Rachel Collins
-        - **Alejandro Mccann (EMP94079e6a)** – *Support Manager*, Support, Manager: Rachel Collins
-    
-    - **Michael Stewart (EMP9ecf4ca5)**
-      - *Vice President of Customer Experience*
-      - Department: Customer Experience
-      - Reports to: Sarah Chang
-      - Team:
-        - **Tyler Kim (EMP7af5edb7)** – *Customer Success Manager*, Customer Experience, Manager: Michael Stewart
-        - **Brenda Williams (EMP4ccf83e2)** – *Customer Success Manager*, Customer Experience, Manager: Michael Stewart
-        - **Tammy Bell (EMP0449ff52)** – *Finance Manager*, Customer Experience, Manager: Michael Stewart
-        - **Susan Garrett (EMPd1b1a3e)** – *Customer Success Manager*, Customer Experience, Manager: Michael Stewart
-    
-    - **Jorge Trujillo (EMP77c67bee)**
-      - *Finance Manager*
-      - Department: Finance
-      - Reports to: Sarah Chang
-      - Team:
-        - **Erin Grant (EMP619602f9)** – *Recruiter*, Finance, Manager: Jorge Trujillo
-        - **Jeffery Decker (EMPf242aa36)** – *Content Strategist*, Finance, Manager: Jorge Trujillo
-        - **Brenda Jackson (EMP8c496f81)** – *Accountant*, Finance, Manager: Jorge Trujillo
+1. Executive Leadership
+Sarah Chang (EMPa9e71147)
+* Position: Chief Executive Officer
+* Department: Executive
+* Location: San Francisco, CA
+* Remote: No
+* Reports To: Board of Directors
 
-    - **Aaron Snyder (EMPb84798a0)**
-      - *HR Manager*
-      - Department: HR
-      - Reports to: Sarah Chang
-      - Team:
-        - **Chad Jones (EMP796f569c)** – *Recruiter*, HR, Manager: Aaron Snyder
-        - **Megan Peterson (EMP9510f8b9)** – *Recruiter*, HR, Manager: Aaron Snyder
-        - **Zachary Sexton (EMP5b787720)** – *Financial Analyst*, HR, Manager: Aaron Snyder
 
-    - **James Bradley (EMP46fc1eca)**
-      - *Engineering Manager*
-      - Department: Engineering
-      - Reports to: Sarah Chang
-      - Team:
-        - **John White (EMP7149ac49)** – *Software Engineer II*, Engineering, Manager: James Bradley
-        - **Sarah Smith (EMP757df01a)** – *Software Engineer II*, Engineering, Manager: James Bradley
-        - **Victoria Golden (EMP2a0d5086)** – *Office Manager*, Engineering, Manager: James Bradley
-        - **Ethan Maxwell (EMP4edba654)** – *Product Manager*, Engineering, Manager: James Bradley
-    
-    - **Lisa Fernandez (EMPa5b969f0)**
-      - *Business Development Representative*
-      - Department: Sales
-      - Reports to: Jonathan Dixon
+2. Direct Reports to the CEO (Sarah Chang)
+A. Jonathan Dixon (EMPb8abf597)
+   * Position: Vice President of Sales
+   * Department: Sales
+   * Location: Tammystad, OR
+   * Remote: Yes
+   * Reports To: Sarah Chang (EMPa9e71147)
+B. William Campbell (EMP0d3ac171)
+   * Position: Vice President of Marketing
+   * Department: Marketing
+   * Location: New Laurenside, VT
+   * Remote: Yes
+   * Reports To: Sarah Chang (EMPa9e71147)
+C. Rachel Collins (EMPde9b5c13)
+   * Position: Vice President of Support
+   * Department: Support
+   * Location: Port Gabriellafort, OH
+   * Remote: No
+   * Reports To: Sarah Chang (EMPa9e71147)
+D. Michael Stewart (EMPa1eccca9)
+   * Position: Vice President of Customer Experience
+   * Department: Customer Experience
+   * Location: New Thomas, VI
+   * Remote: Yes
+   * Reports To: Sarah Chang (EMPa9e71147)
+E. Jorge Trujillo (EMPa1d403ce)
+   * Position: Finance Manager
+   * Department: Finance
+   * Location: North Jenniferfurt, VT
+   * Remote: No
+   * Reports To: Sarah Chang (EMPa9e71147)
+F. Aaron Snyder (EMPd90339b2)
+   * Position: HR Manager
+   * Department: HR
+   * Location: Lake Mark, VI
+   * Remote: No
+   * Reports To: Sarah Chang (EMPa9e71147)
+G. James Bradley (EMPf648ee40)
+   * Position: Engineering Manager
+   * Department: Engineering
+   * Location: Port Amy, CO
+   * Remote: No
+   * Reports To: Sarah Chang (EMPa9e71147)
+H. Victoria Golden (EMP46c6698c)
+   * Position: Office Manager
+   * Department: Administration
+   * Location: West Andreaville, OH
+   * Remote: No
+   * Reports To: Sarah Chang (EMPa9e71147)
+
+
+3. Departmental Structure
+
+A. Sales Department
+Led by Jonathan Dixon (EMPb8abf597), VP of Sales
+Team Members:
+1. Mary Warren (EMPb97da9de)
+   * Position: Sales Associate
+   * Location: Port Jason, TX
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMPb8abf597)
+2. Chloe Tucker (EMPf11dd212)
+   * Position: Sales Associate
+   * Location: East Allen, KY
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMPb8abf597)
+3. Chad Jones (EMPec58906b)
+   * Position: Sales Manager
+   * Location: Ryanton, NY
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMPb8abf597)
+4. Benjamin Garcia (EMPbec03f2a)
+   * Position: Sales Manager
+   * Location: West Michael, VA
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMPb8abf597)
+5. Sales Team:
+   * Additional members under the respective managers
+
+B. Marketing Department
+Led by William Campbell (EMP0d3ac171), VP of Marketing
+Team Members:
+1. Timothy Acosta (EMP3412b1c6)
+   * Position: SEO Specialist
+   * Location: New Ronaldville, MP
+   * Remote: No
+   * Reports To: William Campbell (EMP0d3ac171)
+2. Marketing Managers, Content Strategists, and Specialists
+   * Additional members under the respective managers
+
+C. Support Department
+Led by Rachel Collins (EMPde9b5c13), VP of Support
+Team Members:
+1. Erin Mccullough (EMPef1abf5e)
+   * Position: Support Specialist
+   * Location: Deborahfurt, MP
+   * Remote: Yes
+   * Reports To: Rachel Collins (EMPde9b5c13)
+2. Various Support Managers and Specialists
+   * Additional members under the respective managers
+
+D. Customer Experience Department
+Led by Michael Stewart (EMPa1eccca9), VP of Customer Experience
+Team Members:
+1. John White (EMP379d9c71)
+   * Position: Customer Success Manager
+   * Location: New Tinaview, NJ
+   * Remote: Yes
+   * Reports To: Michael Stewart (EMPa1eccca9)
+2. Various Customer Success Managers
+   * Additional members under the respective VP
+
+E. Engineering Department
+Led by James Bradley (EMPf648ee40), Engineering Manager
+Team Members:
+1. Lisa Fernandez (EMPef1a97d3)
+   * Position: Product Manager
+   * Location: Seanfurt, MD
+   * Remote: Yes
+   * Reports To: James Bradley (EMPf648ee40)
+2. Various Engineers and UX/UI Designers
+   * Additional members under the respective manager
+
+F. Finance Department
+Led by Jorge Trujillo (EMPa1d403ce), Finance Manager
+Team Members:
+1. Amy Taylor (EMPca8f19b0)
+   * Position: Finance Manager
+   * Location: Chelseastad, OR
+   * Remote: No
+   * Reports To: Jorge Trujillo (EMPa1d403ce)
+2. Various Financial Analysts and Accountants
+   * Additional members under the respective manager
+
+G. HR Department
+Led by Aaron Snyder (EMPd90339b2), HR Manager
+Team Members:
+1. Megan Peterson (EMP736367b2)
+   * Position: HR Manager
+   * Location: New Sandraburgh, AL
+   * Remote: Yes
+   * Reports To: Aaron Snyder (EMPd90339b2)
+2. Various Recruiters and HR Managers
+   * Additional members under the respective manager
+
+Note: This organizational chart is structured to capture the hierarchy, roles, locations, and reporting structures within CloudScape Technologies. Given the high volume of employees, only a select list of representatives from each department is highlighted. All departments are advised to maintain their internal hierarchies accordingly, reflecting the full team composition.

@@ -1,14 +1,14 @@
 {
-    "company_name": "Nimbus Infrastructure Solutions",
-    "description": "Nimbus Infrastructure Solutions is a leading provider of cloud infrastructure solutions for businesses, enabling scalable and secure operations. With a focus on innovation and customer-centric services, we provide cutting-edge tools to enhance the efficiency and effectiveness of business IT environments.",
+    "company_name": "CloudScape Technologies",
+    "description": "CloudScape Technologies is a leading provider of cloud infrastructure solutions, dedicated to empowering businesses with scalable and secure cloud services. With four years in the industry, the company has established itself as an innovator in cloud technology for B2B services.",
     "products": [
-        "NimbusCloud Compute",
-        "NimbusStorage Solutions",
-        "NimbusNetwork Security",
-        "NimbusData Analytics",
-        "NimbusDevOps Tools"
+        "Cloud Compute Engine",
+        "Secure Storage Solutions",
+        "Scalable Database Services",
+        "Integrated Network Security",
+        "DevOps Automation Tools"
     ],
-    "mission": "To empower businesses with robust and scalable cloud infrastructure solutions that drive innovation and efficiency.",
-    "vision": "To be the global leader in cloud infrastructure services, setting standards for quality, security, and technological advancement.",
+    "mission": "To empower businesses globally with cutting-edge cloud infrastructure solutions that drive efficiency, scalability, and innovation.",
+    "vision": "To be the most trusted partner for enterprises worldwide in their cloud transformation journey, fostering a more connected and efficient digital ecosystem.",
     "cash_at_bank": 6000000.0
 }

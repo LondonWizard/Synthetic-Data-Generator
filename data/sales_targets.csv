@@ -1,28 +1,27 @@
 sales_rep_id,sales_rep_name,role,total_sales_target,new_clients_target,existing_clients_target
-EMP0cbcce82,Jonathan Dixon,Vice President of Sales,370370.37,222222.22,148148.15
-EMPce75d80d,Chloe Tucker,Business Development Representative,185185.18,111111.11,74074.07
-EMP8d7e6071,Caleb Miles,Business Development Representative,185185.18,111111.11,74074.07
-EMP259d8bf8,Troy Collins,Sales Manager,370370.37,222222.22,148148.15
-EMPed60a8e1,Yvonne Schultz,Sales Associate,370370.37,222222.22,148148.15
-EMPf6d6f887,Dillon Nelson,Sales Associate,370370.37,222222.22,148148.15
-EMP3554925a,Danny Cross,Sales Associate,370370.37,222222.22,148148.15
-EMPcdcd102c,Angela Roberts,Account Executive,370370.37,222222.22,148148.15
-EMPf9e866e9,Shannon Rhodes,Sales Associate,370370.37,222222.22,148148.15
-EMPf2d41056,Rachel Butler,Account Executive,370370.37,222222.22,148148.15
-EMPf655995c,Sean Sherman,Account Executive,370370.37,222222.22,148148.15
-EMP325cf05d,Douglas Ford,Sales Associate,370370.37,222222.22,148148.15
-EMP43901485,Raymond Zamora,Business Development Representative,185185.18,111111.11,74074.07
-EMP58e859ba,Monica Chambers,Sales Associate,370370.37,222222.22,148148.15
-EMP1426bc8d,Jason Kelly,Sales Manager,370370.37,222222.22,148148.15
-EMP707689e8,Holly Acosta,Sales Manager,370370.37,222222.22,148148.15
-EMP65aba51c,Brenda Williams,Account Executive,370370.37,222222.22,148148.15
-EMP38548b01,Joseph Williams,Sales Manager,370370.37,222222.22,148148.15
-EMPd9debc38,John Daniel,Account Executive,370370.37,222222.22,148148.15
-EMP72e20ed9,Courtney Mitchell,Business Development Representative,185185.18,111111.11,74074.07
-EMPdbf96f55,Kathleen Gomez,Account Executive,370370.37,222222.22,148148.15
-EMP732c87ed,Frank Koch,Sales Manager,370370.37,222222.22,148148.15
-EMP9ac2b662,Lance Lester,Account Executive,370370.37,222222.22,148148.15
-EMPc7898a6d,Joshua Duffy,Sales Manager,370370.37,222222.22,148148.15
-EMPb3aed249,Patty Patrick,Business Development Representative,185185.18,111111.11,74074.07
-EMP6eaaae16,Sandra Cox,Sales Associate,370370.37,222222.22,148148.15
-EMPecda5981,Matthew Jenkins,Sales Associate,370370.37,222222.22,148148.15
+EMPb8abf597,Jonathan Dixon,Vice President of Sales,384615.38,230769.23,153846.15
+EMPb97da9de,Mary Warren,Sales Associate,384615.38,230769.23,153846.15
+EMPf11dd212,Chloe Tucker,Sales Associate,384615.38,230769.23,153846.15
+EMPec58906b,Chad Jones,Sales Manager,384615.38,230769.23,153846.15
+EMPbec03f2a,Benjamin Garcia,Sales Manager,384615.38,230769.23,153846.15
+EMPc65195b7,Troy Collins,Business Development Representative,192307.69,115384.62,76923.08
+EMP577255a4,Angela Roberts,Account Executive,384615.38,230769.23,153846.15
+EMP84dda756,Shannon Rhodes,Account Executive,384615.38,230769.23,153846.15
+EMP69e73dc3,Wayne Berry,Account Executive,384615.38,230769.23,153846.15
+EMP39ea071b,Danielle Anderson,Account Executive,384615.38,230769.23,153846.15
+EMPf72c685f,Christina Soto,Account Executive,384615.38,230769.23,153846.15
+EMPb17c6279,Jessica Johnson,Sales Associate,384615.38,230769.23,153846.15
+EMP205291c9,Carolyn Long,Sales Manager,384615.38,230769.23,153846.15
+EMP95cf45c6,Sarah Lopez,Business Development Representative,192307.69,115384.62,76923.08
+EMPa29aa3d5,Kelly Watson,Account Executive,384615.38,230769.23,153846.15
+EMP5c3c5556,Joseph Williams,Sales Associate,384615.38,230769.23,153846.15
+EMPa95c9eaa,John Daniel,Sales Associate,384615.38,230769.23,153846.15
+EMP9939823f,Chris Simmons,Sales Associate,384615.38,230769.23,153846.15
+EMP7f572fb5,Courtney Mitchell,Sales Manager,384615.38,230769.23,153846.15
+EMP2b8c78f4,Derek Clark,Sales Manager,384615.38,230769.23,153846.15
+EMPac18214c,James Patton,Sales Manager,384615.38,230769.23,153846.15
+EMP975eacc6,Crystal Burton,Business Development Representative,192307.69,115384.62,76923.08
+EMP8db0f707,Susan Garrett,Business Development Representative,192307.69,115384.62,76923.08
+EMPdffe1ae9,John Olson,Sales Associate,384615.38,230769.23,153846.15
+EMP9b3682e6,Matthew Jenkins,Sales Manager,384615.38,230769.23,153846.15
+EMP2f757c39,Raymond Jones,Business Development Representative,192307.69,115384.62,76923.08
