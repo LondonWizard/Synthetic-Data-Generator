@@ -1,157 +1,275 @@
-CloudScape Technologies Organizational Chart
+Advanced Cloud Organizational Chart
+________________
 
 1. Executive Leadership
-Sarah Chang (EMPa9e71147)
+Sarah Chang (EMPf9eb800b)
 * Position: Chief Executive Officer
 * Department: Executive
 * Location: San Francisco, CA
 * Remote: No
 * Reports To: Board of Directors
+________________
 
 
-2. Direct Reports to the CEO (Sarah Chang)
-A. Jonathan Dixon (EMPb8abf597)
-   * Position: Vice President of Sales
-   * Department: Sales
-   * Location: Tammystad, OR
-   * Remote: Yes
-   * Reports To: Sarah Chang (EMPa9e71147)
-B. William Campbell (EMP0d3ac171)
-   * Position: Vice President of Marketing
-   * Department: Marketing
-   * Location: New Laurenside, VT
-   * Remote: Yes
-   * Reports To: Sarah Chang (EMPa9e71147)
-C. Rachel Collins (EMPde9b5c13)
-   * Position: Vice President of Support
-   * Department: Support
-   * Location: Port Gabriellafort, OH
-   * Remote: No
-   * Reports To: Sarah Chang (EMPa9e71147)
-D. Michael Stewart (EMPa1eccca9)
-   * Position: Vice President of Customer Experience
-   * Department: Customer Experience
-   * Location: New Thomas, VI
-   * Remote: Yes
-   * Reports To: Sarah Chang (EMPa9e71147)
-E. Jorge Trujillo (EMPa1d403ce)
-   * Position: Finance Manager
-   * Department: Finance
-   * Location: North Jenniferfurt, VT
-   * Remote: No
-   * Reports To: Sarah Chang (EMPa9e71147)
-F. Aaron Snyder (EMPd90339b2)
-   * Position: HR Manager
-   * Department: HR
-   * Location: Lake Mark, VI
-   * Remote: No
-   * Reports To: Sarah Chang (EMPa9e71147)
-G. James Bradley (EMPf648ee40)
-   * Position: Engineering Manager
-   * Department: Engineering
-   * Location: Port Amy, CO
-   * Remote: No
-   * Reports To: Sarah Chang (EMPa9e71147)
-H. Victoria Golden (EMP46c6698c)
-   * Position: Office Manager
-   * Department: Administration
-   * Location: West Andreaville, OH
-   * Remote: No
-   * Reports To: Sarah Chang (EMPa9e71147)
+2. Direct Reports to the CEO
+A. Jonathan Dixon (EMP0e25aee7)
+* Position: Vice President of Sales
+* Department: Sales
+* Location: Tammystad, OR
+* Remote: No
+* Reports To: Sarah Chang (EMPf9eb800b)
+B. William Campbell (EMPa019ce05)
+* Position: Vice President of Marketing
+* Department: Marketing
+* Location: New Laurenside, VT
+* Remote: No
+* Reports To: Sarah Chang (EMPf9eb800b)
+C. Rachel Collins (EMPe1d01315)
+* Position: Vice President of Support
+* Department: Support
+* Location: Port Gabriellafort, OH
+* Remote: Yes
+* Reports To: Sarah Chang (EMPf9eb800b)
+D. Michael Stewart (EMP5bcffc8f)
+* Position: Vice President of Customer Experience
+* Department: Customer Experience
+* Location: New Thomas, VI
+* Remote: No
+* Reports To: Sarah Chang (EMPf9eb800b)
+E. Jorge Trujillo (EMP646d8847)
+* Position: Finance Manager
+* Department: Finance
+* Location: North Jenniferfurt, VT
+* Remote: No
+* Reports To: Sarah Chang (EMPf9eb800b)
+F. Aaron Snyder (EMP9978b674)
+* Position: HR Manager
+* Department: HR
+* Location: Lake Mark, VI
+* Remote: Yes
+* Reports To: Sarah Chang (EMPf9eb800b)
+G. James Bradley (EMP6308f908)
+* Position: Engineering Manager
+* Department: Engineering
+* Location: Port Amy, CO
+* Remote: No
+* Reports To: Sarah Chang (EMPf9eb800b)
+H. Victoria Golden (EMP167bb47b)
+* Position: Office Manager
+* Department: Administration
+* Location: West Andreaville, OH
+* Remote: Yes
+* Reports To: Sarah Chang (EMPf9eb800b)
+________________
 
 
 3. Departmental Structure
 
 A. Sales Department
-Led by Jonathan Dixon (EMPb8abf597), VP of Sales
-Team Members:
-1. Mary Warren (EMPb97da9de)
+Led by Jonathan Dixon (EMP0e25aee7), Vice President of Sales
+Sales Team:
+1. Timothy Acosta (EMP898e3238)
    * Position: Sales Associate
-   * Location: Port Jason, TX
+   * Location: New Ronaldville, MP
    * Remote: Yes
-   * Reports To: Jonathan Dixon (EMPb8abf597)
-2. Chloe Tucker (EMPf11dd212)
-   * Position: Sales Associate
-   * Location: East Allen, KY
-   * Remote: Yes
-   * Reports To: Jonathan Dixon (EMPb8abf597)
-3. Chad Jones (EMPec58906b)
-   * Position: Sales Manager
-   * Location: Ryanton, NY
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+2. Melissa Anderson (EMP5ba35ecd)
+   * Position: Account Executive
+   * Location: Goodmanland, AL
    * Remote: No
-   * Reports To: Jonathan Dixon (EMPb8abf597)
-4. Benjamin Garcia (EMPbec03f2a)
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+3. James Cook (EMP5762b9b0)
+   * Position: Business Development Representative
+   * Location: Lake Shane, VT
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+4. Nancy Johnson (EMP725c4b51)
+   * Position: Account Executive
+   * Location: Bartonton, GA
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+5. Dillon Nelson (EMPb9d51300)
    * Position: Sales Manager
-   * Location: West Michael, VA
+   * Location: Jennifermouth, WI
    * Remote: Yes
-   * Reports To: Jonathan Dixon (EMPb8abf597)
-5. Sales Team:
-   * Additional members under the respective managers
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+6. Thomas Randall (EMP79692843)
+   * Position: Sales Manager
+   * Location: South Darrenfort, NE
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+7. Joshua Good (EMPabb8dbde)
+   * Position: Business Development Representative
+   * Location: Nashfurt, SC
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+8. Eric Mccarthy (EMP9e49936c)
+   * Position: Sales Manager
+   * Location: Lake Tylerbury, ND
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+9. Joshua Riggs (EMP1081dbc4)
+   * Position: Sales Manager
+   * Location: Nicoleton, AL
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+10. Matthew Moreno (EMP262809ea)
+   * Position: Business Development Representative
+   * Location: North Robert, LA
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+11. Kelsey Andrade (EMPbd7f9cfc)
+   * Position: Business Development Representative
+   * Location: Brownhaven, TN
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+12. Stephanie Spears (EMPf249ecb3)
+   * Position: Business Development Representative
+   * Location: Henryfort, IL
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+13. Gina Harmon (EMP5a65638f)
+   * Position: Sales Manager
+   * Location: West Blaketown, KY
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+14. Holly Acosta (EMP04d5b4b4)
+   * Position: Sales Manager
+   * Location: Port Ashley, ID
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+15. Eric Black (EMPed896d30)
+   * Position: Business Development Representative
+   * Location: North Nicholasburgh, OH
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+16. Susan Garrett (EMP9487cbb5)
+   * Position: Business Development Representative
+   * Location: East Johnport, MA
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+17. Anthony Lang (EMP14ba46fe)
+   * Position: Sales Associate
+   * Location: Brownville, DE
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+18. Donna Dennis (EMP6ccc749e)
+   * Position: Business Development Representative
+   * Location: West Miketown, PA
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+19. Anthony Morris (EMP0a4f37ee)
+   * Position: Support Specialist
+   * Location: North Kimberlyville, OK
+   * Remote: Yes
+   * Reports To: Rachel Collins (EMPe1d01315)
+20. Melissa Anderson (EMP5ba35ecd)
+   * Position: Account Executive
+   * Department: Sales
+   * Location: Goodmanland, AL
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+21. Dillon Nelson (EMPb9d51300)
+   * Position: Sales Manager
+   * Department: Sales
+   * Location: Jennifermouth, WI
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+22. Thomas Randall (EMP79692843)
+   * Position: Sales Manager
+   * Department: Sales
+   * Location: South Darrenfort, NE
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+23. Joshua Riggs (EMP1081dbc4)
+   * Position: Sales Manager
+   * Department: Sales
+   * Location: Nicoleton, AL
+   * Remote: Yes
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+24. Gina Harmon (EMP5a65638f)
+   * Position: Sales Manager
+   * Department: Sales
+   * Location: West Blaketown, KY
+   * Remote: No
+   * Reports To: Jonathan Dixon (EMP0e25aee7)
+________________
+
 
 B. Marketing Department
-Led by William Campbell (EMP0d3ac171), VP of Marketing
-Team Members:
-1. Timothy Acosta (EMP3412b1c6)
-   * Position: SEO Specialist
-   * Location: New Ronaldville, MP
-   * Remote: No
-   * Reports To: William Campbell (EMP0d3ac171)
-2. Marketing Managers, Content Strategists, and Specialists
-   * Additional members under the respective managers
-
-C. Support Department
-Led by Rachel Collins (EMPde9b5c13), VP of Support
-Team Members:
-1. Erin Mccullough (EMPef1abf5e)
-   * Position: Support Specialist
-   * Location: Deborahfurt, MP
+Led by William Campbell (EMPa019ce05), Vice President of Marketing
+Marketing Team:
+1. Chloe Tucker (EMP88e9909a)
+   * Position: HR Manager
+   * Location: East Allen, KY
    * Remote: Yes
-   * Reports To: Rachel Collins (EMPde9b5c13)
-2. Various Support Managers and Specialists
-   * Additional members under the respective managers
+   * Reports To: Aaron Snyder (EMP9978b674)
+2. Deanna Wilson (EMP655889b7)
+   * Position: Financial Analyst
+   * Location: Melissaton, AZ
+   * Remote: Yes
+   * Reports To: Jorge Trujillo (EMP646d8847)
+3. Victoria Golden (EMP167bb47b)
+   * Position: Office Manager
+   * Department: Administration
+   * Location: West Andreaville, OH
+   * Remote: Yes
+   * Reports To: Sarah Chang (EMPf9eb800b)
+4. Aaron Snyder (EMP9978b674)
+   * Position: HR Manager
+   * Department: HR
+   * Location: Lake Mark, VI
+   * Remote: Yes
+   * Reports To: Sarah Chang (EMPf9eb800b)
+________________
 
-D. Customer Experience Department
-Led by Michael Stewart (EMPa1eccca9), VP of Customer Experience
+
+C. Customer Experience Department
+Led by Michael Stewart (EMP5bcffc8f), Vice President of Customer Experience
 Team Members:
-1. John White (EMP379d9c71)
+1. John White (EMPe2f101a8)
    * Position: Customer Success Manager
    * Location: New Tinaview, NJ
    * Remote: Yes
-   * Reports To: Michael Stewart (EMPa1eccca9)
-2. Various Customer Success Managers
-   * Additional members under the respective VP
-
-E. Engineering Department
-Led by James Bradley (EMPf648ee40), Engineering Manager
-Team Members:
-1. Lisa Fernandez (EMPef1a97d3)
-   * Position: Product Manager
-   * Location: Seanfurt, MD
+   * Reports To: Michael Stewart (EMP5bcffc8f)
+2. Angela Roberts (EMP179038b2)
+   * Position: Customer Success Manager
+   * Location: South Christopher, IN
    * Remote: Yes
-   * Reports To: James Bradley (EMPf648ee40)
-2. Various Engineers and UX/UI Designers
-   * Additional members under the respective manager
-
-F. Finance Department
-Led by Jorge Trujillo (EMPa1d403ce), Finance Manager
-Team Members:
-1. Amy Taylor (EMPca8f19b0)
-   * Position: Finance Manager
-   * Location: Chelseastad, OR
+   * Reports To: Michael Stewart (EMP5bcffc8f)
+3. Donald Wu (EMPeabe57fb)
+   * Position: Customer Success Manager
+   * Location: Port Valerie, MT
+   * Remote: Yes
+   * Reports To: Michael Stewart (EMP5bcffc8f)
+4. Ryan Moran (EMP21dabd12)
+   * Position: Customer Success Manager
+   * Location: West Robert, MH
+   * Remote: Yes
+   * Reports To: Michael Stewart (EMP5bcffc8f)
+5. Carolyn Long (EMP5f2213a9)
+   * Position: Customer Success Manager
+   * Location: South Kevin, MT
    * Remote: No
-   * Reports To: Jorge Trujillo (EMPa1d403ce)
-2. Various Financial Analysts and Accountants
-   * Additional members under the respective manager
-
-G. HR Department
-Led by Aaron Snyder (EMPd90339b2), HR Manager
-Team Members:
-1. Megan Peterson (EMP736367b2)
+   * Reports To: Michael Stewart (EMP5bcffc8f)
+6. Christina Soto (EMP8c17da5b)
+   * Position: Customer Success Manager
+   * Location: Jamesfort, DE
+   * Remote: No
+   * Reports To: Michael Stewart (EMP5bcffc8f)
+7. Lisa Fernandez (EMP9fa75e45)
+   * Position: Recruiter
+   * Department: HR
+   * Location: Seanfurt, MD
+   * Remote: No
+   * Reports To: Aaron Snyder (EMP9978b674)
+8. Aaron Snyder (EMP9978b674)
    * Position: HR Manager
-   * Location: New Sandraburgh, AL
+   * Department: HR
+   * Location: Lake Mark, VI
    * Remote: Yes
-   * Reports To: Aaron Snyder (EMPd90339b2)
-2. Various Recruiters and HR Managers
-   * Additional members under the respective manager
+   * Reports To: Sarah Chang (EMPf9eb800b)
+________________
 
-Note: This organizational chart is structured to capture the hierarchy, roles, locations, and reporting structures within CloudScape Technologies. Given the high volume of employees, only a select list of representatives from each department is highlighted. All departments are advised to maintain their internal hierarchies accordingly, reflecting the full team composition.
+
+This organizational chart provides a detailed hierarchical structure showing the roles, locations, and reporting lines of all employees in NimbusCloud Solutions. The structure includes every employee as outlined in the provided data and illustrates how each individual fits into the broader corporate framework.

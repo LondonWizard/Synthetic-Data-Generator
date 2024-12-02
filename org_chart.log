@@ -1,21 +1,7 @@
-2024-12-02 06:16:13,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:16:13,970 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:16:14,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:16:15,712 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:16:16,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:32,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:32,956 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:33,716 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:34,491 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:35,232 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:36,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:36,853 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:37,633 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:17:37,634 - ERROR - Error generating organizational chart: RetryError[<Future at 0x27e41a80f70 state=finished raised BadRequestError>]
-2024-12-02 06:18:32,881 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:18:33,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:18:34,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:18:35,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:18:36,105 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
-2024-12-02 06:22:44,713 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2024-12-02 06:22:44,720 - INFO - Organizational chart generated.
+2024-12-02 06:43:04,654 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 06:43:04,661 - INFO - Organizational chart generated.
+2024-12-02 06:44:24,995 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 06:44:25,003 - INFO - Organizational chart generated.
+2024-12-02 06:48:13,262 - INFO - Organizational chart generated.
+2024-12-02 06:48:35,779 - INFO - Organizational chart generated.
+2024-12-02 06:50:27,500 - INFO - Organizational chart generated.

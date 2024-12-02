@@ -40,6 +40,8 @@ Ensure that the chart includes:
 Here is an example of the expected format:
 
 Advanced Cloud Organizational Chart
+________________
+
 
 1. Executive Leadership
 Emily Smith (AC001)
@@ -48,6 +50,7 @@ Emily Smith (AC001)
 * Location: San Francisco, CA
 * Remote: No
 * Reports To: Board of Directors (AC000)
+________________
 
 
 2. Direct Reports to the CEO
@@ -81,7 +84,26 @@ E. Susan Jones (AC005)
 * Location: Boston, MA
 * Remote: No
 * Reports To: Emily Smith (AC001)
-...
+F. Donna Scott (AC039)
+* Position: Finance Manager
+* Department: Finance
+* Location: Chicago, IL
+* Remote: No
+* Reports To: Emily Smith (AC001)
+G. Michelle Adams (AC041)
+* Position: HR Manager
+* Department: Human Resources
+* Location: Boston, MA
+* Remote: No
+* Reports To: Emily Smith (AC001)
+H. Carol Nelson (AC043)
+* Position: Office Manager
+* Department: Administration
+* Location: San Francisco, CA
+* Remote: No
+* Reports To: Emily Smith (AC001)
+________________
+
 
 3. Departmental Structure
 A. R&D/Product Department
@@ -97,7 +119,78 @@ Team Members:
    * Location: Austin, TX
    * Remote: Yes
    * Reports To: James Garcia (AC008)
-... (additional R&D team members)
+3. Barbara Hernandez (AC011)
+   * Position: Product Manager
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+4. William Gonzalez (AC012)
+   * Position: QA Engineer
+   * Location: Seattle, WA
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+5. Lisa Wilson (AC013)
+   * Position: UX/UI Designer
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+6. Dorothy Martin (AC021)
+   * Position: Software Engineer II
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+7. Christopher Thompson (AC022)
+   * Position: QA Engineer
+   * Location: Seattle, WA
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+8. Jessica Garcia (AC023)
+   * Position: UX/UI Designer
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+9. Paul Walker (AC030)
+   * Position: Software Engineer I
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+10. Laura Hall (AC031)
+   * Position: Product Manager
+   * Location: Seattle, WA
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+11. Mark Allen (AC032)
+   * Position: Software Engineer II
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+12. Elizabeth Young (AC033)
+   * Position: QA Engineer
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+13. Deborah Mitchell (AC045)
+   * Position: Software Engineer I
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+14. Ronald Perez (AC046)
+   * Position: Software Engineer II
+   * Location: Seattle, WA
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+15. Sharon Roberts (AC047)
+   * Position: UX/UI Designer
+   * Location: San Francisco, CA
+   * Remote: No
+   * Reports To: James Garcia (AC008)
+16. Anthony Turner (AC048)
+   * Position: QA Engineer
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: James Garcia (AC008)
+________________
+
 
 B. Sales Department
 Led by Michael Johnson (AC002), VP of Sales
@@ -118,8 +211,52 @@ Sales Team:
    * Location: Chicago, IL
    * Remote: No
    * Reports To: Michael Johnson (AC002)
-... (additional sales team members)
-
+3. Joseph Taylor (AC016)
+   * Position: Account Executive
+   * Location: Boston, MA
+   * Remote: Yes
+   * Reports To: Michael Johnson (AC002)
+4. Charles Harris (AC020)
+   * Position: Account Executive
+   * Location: Chicago, IL
+   * Remote: No
+   * Reports To: Michael Johnson (AC002)
+5. Steven Lewis (AC028)
+   * Position: Sales Associate
+   * Location: New York, NY
+   * Remote: Yes
+   * Reports To: Michael Johnson (AC002)
+6. Michelle Lee (AC029)
+   * Position: Account Executive
+   * Location: Austin, TX
+   * Remote: No
+   * Reports To: Michael Johnson (AC002)
+7. Donald Hernandez (AC034)
+   * Position: Sales Associate
+   * Location: Chicago, IL
+   * Remote: No
+   * Reports To: Michael Johnson (AC002)
+8. Jennifer King (AC035)
+   * Position: Account Executive
+   * Location: Boston, MA
+   * Remote: Yes
+   * Reports To: Michael Johnson (AC002)
+9. George Wright (AC036)
+   * Position: Sales Associate
+   * Location: New York, NY
+   * Remote: No
+   * Reports To: Michael Johnson (AC002)
+10. Laura Phillips (AC049)
+   * Position: Account Executive
+   * Location: Chicago, IL
+   * Remote: No
+   * Reports To: Michael Johnson (AC002)
+11. Jason Campbell (AC050)
+   * Position: Sales Associate
+   * Location: Boston, MA
+   * Remote: Yes
+   * Reports To: Michael Johnson (AC002)
+________________
 
 
 C. Support Department
@@ -135,12 +272,94 @@ Team Members:
    * Location: Seattle, WA
    * Remote: No
    * Reports To: Linda Williams (AC003)
-... (additional support team members)
+________________
 
 
-... (additional departmental structures)
+D. Customer Experience Department
+Led by David Brown (AC004), VP of Customer Experience
+Team Members:
+1. Matthew Clark (AC026)
+   * Position: Customer Success Manager
+   * Location: Chicago, IL
+   * Remote: Yes
+   * Reports To: David Brown (AC004)
+2. Amy Rodriguez (AC027)
+   * Position: Customer Success Associate
+   * Location: Boston, MA
+   * Remote: No
+   * Reports To: David Brown (AC004)
+________________
 
-Output the full organizational chart as plain text.
+
+E. Marketing Department
+Led by Susan Jones (AC005), VP of Marketing
+Direct Report:
+* Karen Davis (AC007)
+   * Position: Marketing Operations Manager
+   * Location: New York, NY
+   * Remote: Yes
+   * Reports To: Susan Jones (AC005)
+Marketing Team:
+1. Sarah Moore (AC017)
+   * Position: Marketing Specialist
+   * Location: New York, NY
+   * Remote: No
+   * Reports To: Susan Jones (AC005)
+2. Thomas Jackson (AC018)
+   * Position: Content Strategist
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: Susan Jones (AC005)
+3. Margaret White (AC019)
+   * Position: SEO Analyst
+   * Location: Boston, MA
+   * Remote: No
+   * Reports To: Susan Jones (AC005)
+4. Sandra Lopez (AC037)
+   * Position: Marketing Specialist
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: Susan Jones (AC005)
+5. Kenneth Hill (AC038)
+   * Position: Content Strategist
+   * Location: Boston, MA
+   * Remote: No
+   * Reports To: Susan Jones (AC005)
+________________
+
+
+F. Finance Department
+Led by Donna Scott (AC039), Finance Manager
+Team Members:
+1. Edward Green (AC040)
+   * Position: Accountant
+   * Location: Seattle, WA
+   * Remote: Yes
+   * Reports To: Donna Scott (AC039)
+________________
+
+
+G. Human Resources Department
+Led by Michelle Adams (AC041), HR Manager
+Team Members:
+1. Kevin Baker (AC042)
+   * Position: Recruiter
+   * Location: New York, NY
+   * Remote: Yes
+   * Reports To: Michelle Adams (AC041)
+________________
+
+
+H. Administration Department
+Led by Carol Nelson (AC043), Office Manager
+Team Members:
+1. Brian Carter (AC044)
+   * Position: Administrative Assistant
+   * Location: Austin, TX
+   * Remote: Yes
+   * Reports To: Carol Nelson (AC043)
+
+Output the full organizational chart as plain text. Do not trim the list of any employee, and provide the full org chart outline. Include all employees that are inputted in this prompt in the output
 """
 
     try:

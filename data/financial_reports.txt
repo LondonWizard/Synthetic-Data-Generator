@@ -3,32 +3,32 @@ Financial Reports
 
 13-Week Rolling Forecast
 -------------------------
-Week of 2024-12-02: Revenue: $180,013.76, Expenses: $113,526.54, Net Income: $66,487.22
-Week of 2024-12-09: Revenue: $183,259.44, Expenses: $65,842.81, Net Income: $117,416.63
-Week of 2024-12-16: Revenue: $180,610.46, Expenses: $95,680.52, Net Income: $84,929.94
-Week of 2024-12-23: Revenue: $183,258.43, Expenses: $78,648.07, Net Income: $104,610.36
-Week of 2024-12-30: Revenue: $138,795.57, Expenses: $66,232.53, Net Income: $72,563.04
-Week of 2025-01-06: Revenue: $143,663.50, Expenses: $105,660.18, Net Income: $38,003.32
-Week of 2025-01-13: Revenue: $153,843.85, Expenses: $57,810.17, Net Income: $96,033.68
-Week of 2025-01-20: Revenue: $142,106.20, Expenses: $145,491.34, Net Income: $-3,385.14
-Week of 2025-01-27: Revenue: $138,494.68, Expenses: $52,095.10, Net Income: $86,399.58
-Week of 2025-02-03: Revenue: $179,054.54, Expenses: $104,429.19, Net Income: $74,625.35
-Week of 2025-02-10: Revenue: $166,838.84, Expenses: $138,135.50, Net Income: $28,703.34
-Week of 2025-02-17: Revenue: $149,343.58, Expenses: $134,882.47, Net Income: $14,461.11
-Week of 2025-02-24: Revenue: $110,876.03, Expenses: $86,288.90, Net Income: $24,587.13
+Week of 2024-12-02: Revenue: $111,918.50, Expenses: $111,911.43, Net Income: $7.07
+Week of 2024-12-09: Revenue: $176,933.08, Expenses: $106,449.95, Net Income: $70,483.13
+Week of 2024-12-16: Revenue: $128,926.17, Expenses: $137,201.17, Net Income: $-8,275.00
+Week of 2024-12-23: Revenue: $172,242.24, Expenses: $84,583.52, Net Income: $87,658.72
+Week of 2024-12-30: Revenue: $158,917.09, Expenses: $127,168.77, Net Income: $31,748.32
+Week of 2025-01-06: Revenue: $128,777.96, Expenses: $146,021.11, Net Income: $-17,243.15
+Week of 2025-01-13: Revenue: $165,156.65, Expenses: $109,076.28, Net Income: $56,080.37
+Week of 2025-01-20: Revenue: $176,648.98, Expenses: $99,497.19, Net Income: $77,151.79
+Week of 2025-01-27: Revenue: $175,298.85, Expenses: $58,170.24, Net Income: $117,128.61
+Week of 2025-02-03: Revenue: $180,134.75, Expenses: $131,602.87, Net Income: $48,531.88
+Week of 2025-02-10: Revenue: $143,676.82, Expenses: $140,871.35, Net Income: $2,805.47
+Week of 2025-02-17: Revenue: $129,172.90, Expenses: $143,759.25, Net Income: $-14,586.35
+Week of 2025-02-24: Revenue: $173,188.78, Expenses: $99,419.44, Net Income: $73,769.34
 
 MRR (Monthly Recurring Revenue)
 -------------------------------
-2023-12: $416,631.46
-2024-01: $418,550.27
-2024-02: $484,990.48
-2024-03: $446,202.09
-2024-04: $547,537.42
-2024-05: $569,148.96
-2024-06: $563,279.44
-2024-07: $586,035.48
-2024-08: $530,688.69
-2024-09: $516,272.20
-2024-10: $459,220.57
-2024-11: $416,234.47
-2024-12: $462,481.41
+2023-12: $586,928.60
+2024-01: $572,870.22
+2024-02: $507,160.42
+2024-03: $402,238.19
+2024-04: $569,678.24
+2024-05: $529,672.38
+2024-06: $562,966.88
+2024-07: $403,561.33
+2024-08: $424,552.29
+2024-09: $434,810.36
+2024-10: $554,473.83
+2024-11: $584,761.18
+2024-12: $452,852.85

@@ -1,14 +1,14 @@
 {
-    "company_name": "CloudScape Technologies",
-    "description": "CloudScape Technologies is a leading provider of cloud infrastructure solutions, dedicated to empowering businesses with scalable and secure cloud services. With four years in the industry, the company has established itself as an innovator in cloud technology for B2B services.",
+    "company_name": "NimbusCloud Solutions",
+    "description": "NimbusCloud Solutions is a cutting-edge SaaS B2B company that provides innovative cloud infrastructure solutions to businesses worldwide. Founded four years ago, we specialize in delivering scalable, secure, and efficient cloud services tailored to meet the needs of modern enterprises.",
     "products": [
-        "Cloud Compute Engine",
-        "Secure Storage Solutions",
-        "Scalable Database Services",
-        "Integrated Network Security",
-        "DevOps Automation Tools"
+        "NimbusCompute Engine",
+        "StratoStorage Service",
+        "CloudNet Networking",
+        "SkySecure Identity Management",
+        "CumulusAnalytics Platform"
     ],
-    "mission": "To empower businesses globally with cutting-edge cloud infrastructure solutions that drive efficiency, scalability, and innovation.",
-    "vision": "To be the most trusted partner for enterprises worldwide in their cloud transformation journey, fostering a more connected and efficient digital ecosystem.",
+    "mission": "To empower businesses with seamless and reliable cloud infrastructure, fostering innovation and scalability in a digital-first world.",
+    "vision": "To be the global leader in cloud infrastructure solutions, enabling a future where businesses can thrive with unlimited access to cloud technology.",
     "cash_at_bank": 6000000.0
 }

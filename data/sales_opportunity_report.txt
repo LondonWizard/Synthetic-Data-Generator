@@ -3,9 +3,9 @@ Advanced Cloud Sales Opportunity Report
 
 Total Opportunities: 200
 Stages Distribution:
-* Closed Lost: 30
-* Negotiation: 37
-* Closed Won: 39
-* Prospecting: 29
-* Proposal: 35
-* Qualification: 30
+* Qualification: 38
+* Proposal: 30
+* Negotiation: 40
+* Prospecting: 35
+* Closed Won: 34
+* Closed Lost: 23

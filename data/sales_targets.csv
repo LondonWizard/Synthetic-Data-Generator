@@ -1,27 +1,30 @@
 sales_rep_id,sales_rep_name,role,total_sales_target,new_clients_target,existing_clients_target
-EMPb8abf597,Jonathan Dixon,Vice President of Sales,384615.38,230769.23,153846.15
-EMPb97da9de,Mary Warren,Sales Associate,384615.38,230769.23,153846.15
-EMPf11dd212,Chloe Tucker,Sales Associate,384615.38,230769.23,153846.15
-EMPec58906b,Chad Jones,Sales Manager,384615.38,230769.23,153846.15
-EMPbec03f2a,Benjamin Garcia,Sales Manager,384615.38,230769.23,153846.15
-EMPc65195b7,Troy Collins,Business Development Representative,192307.69,115384.62,76923.08
-EMP577255a4,Angela Roberts,Account Executive,384615.38,230769.23,153846.15
-EMP84dda756,Shannon Rhodes,Account Executive,384615.38,230769.23,153846.15
-EMP69e73dc3,Wayne Berry,Account Executive,384615.38,230769.23,153846.15
-EMP39ea071b,Danielle Anderson,Account Executive,384615.38,230769.23,153846.15
-EMPf72c685f,Christina Soto,Account Executive,384615.38,230769.23,153846.15
-EMPb17c6279,Jessica Johnson,Sales Associate,384615.38,230769.23,153846.15
-EMP205291c9,Carolyn Long,Sales Manager,384615.38,230769.23,153846.15
-EMP95cf45c6,Sarah Lopez,Business Development Representative,192307.69,115384.62,76923.08
-EMPa29aa3d5,Kelly Watson,Account Executive,384615.38,230769.23,153846.15
-EMP5c3c5556,Joseph Williams,Sales Associate,384615.38,230769.23,153846.15
-EMPa95c9eaa,John Daniel,Sales Associate,384615.38,230769.23,153846.15
-EMP9939823f,Chris Simmons,Sales Associate,384615.38,230769.23,153846.15
-EMP7f572fb5,Courtney Mitchell,Sales Manager,384615.38,230769.23,153846.15
-EMP2b8c78f4,Derek Clark,Sales Manager,384615.38,230769.23,153846.15
-EMPac18214c,James Patton,Sales Manager,384615.38,230769.23,153846.15
-EMP975eacc6,Crystal Burton,Business Development Representative,192307.69,115384.62,76923.08
-EMP8db0f707,Susan Garrett,Business Development Representative,192307.69,115384.62,76923.08
-EMPdffe1ae9,John Olson,Sales Associate,384615.38,230769.23,153846.15
-EMP9b3682e6,Matthew Jenkins,Sales Manager,384615.38,230769.23,153846.15
-EMP2f757c39,Raymond Jones,Business Development Representative,192307.69,115384.62,76923.08
+EMP0e25aee7,Jonathan Dixon,Vice President of Sales,344827.59,206896.55,137931.03
+EMP898e3238,Timothy Acosta,Sales Associate,344827.59,206896.55,137931.03
+EMP5ba35ecd,Melissa Anderson,Account Executive,344827.59,206896.55,137931.03
+EMP5762b9b0,James Cook,Business Development Representative,172413.8,103448.28,68965.52
+EMP725c4b51,Nancy Johnson,Account Executive,344827.59,206896.55,137931.03
+EMPabb8dbde,Joshua Good,Business Development Representative,172413.8,103448.28,68965.52
+EMPb9d51300,Dillon Nelson,Sales Manager,344827.59,206896.55,137931.03
+EMP79692843,Thomas Randall,Sales Manager,344827.59,206896.55,137931.03
+EMP282f7c78,Trevor Green,Account Executive,344827.59,206896.55,137931.03
+EMP6ccc749e,Donna Dennis,Business Development Representative,172413.8,103448.28,68965.52
+EMP9e49936c,Eric Mccarthy,Sales Manager,344827.59,206896.55,137931.03
+EMP1081dbc4,Joshua Riggs,Sales Manager,344827.59,206896.55,137931.03
+EMP262809ea,Matthew Moreno,Business Development Representative,172413.8,103448.28,68965.52
+EMP5a65638f,Gina Harmon,Sales Manager,344827.59,206896.55,137931.03
+EMP04d5b4b4,Holly Acosta,Sales Manager,344827.59,206896.55,137931.03
+EMPbd7f9cfc,Kelsey Andrade,Business Development Representative,172413.8,103448.28,68965.52
+EMPf249ecb3,Stephanie Spears,Business Development Representative,172413.8,103448.28,68965.52
+EMP76730cb2,John Johnson,Sales Manager,344827.59,206896.55,137931.03
+EMPa9a28170,Jennifer Murphy,Sales Associate,344827.59,206896.55,137931.03
+EMPe68f4044,David Anderson,Sales Associate,344827.59,206896.55,137931.03
+EMP28930df4,Hayley Terry,Sales Manager,344827.59,206896.55,137931.03
+EMP14ba46fe,Anthony Lang,Sales Associate,344827.59,206896.55,137931.03
+EMPed896d30,Eric Black,Business Development Representative,172413.8,103448.28,68965.52
+EMP9487cbb5,Susan Garrett,Business Development Representative,172413.8,103448.28,68965.52
+EMP1bc05de7,Dylan Hernandez,Business Development Representative,172413.8,103448.28,68965.52
+EMP4f99816f,John Olson,Sales Associate,344827.59,206896.55,137931.03
+EMP4ad6138e,Matthew Jenkins,Sales Associate,344827.59,206896.55,137931.03
+EMP5ee99810,Tracey Manning,Sales Associate,344827.59,206896.55,137931.03
+EMP7513655c,Carrie Palmer,Sales Associate,344827.59,206896.55,137931.03
