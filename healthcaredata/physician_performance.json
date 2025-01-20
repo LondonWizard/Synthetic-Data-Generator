@@ -1,0 +1,3720 @@
+{
+  "dataset_name": "Physician Performance (Q4 2024)",
+  "description": "Daily performance metrics for physicians from Oct 1 to Dec 31, 2024",
+  "fields": [
+    {
+      "name": "employee_id",
+      "description": "Unique employee code"
+    },
+    {
+      "name": "name",
+      "description": "Employee's full name"
+    },
+    {
+      "name": "role",
+      "description": "Job role (Physician)"
+    },
+    {
+      "name": "record_date",
+      "description": "Date of record (YYYY-MM-DD)"
+    },
+    {
+      "name": "complication_rate",
+      "description": "Complications (%)"
+    },
+    {
+      "name": "readmission_rate",
+      "description": "Readmission (%)"
+    },
+    {
+      "name": "follow_up_adherence",
+      "description": "Follow-up adherence (%)"
+    },
+    {
+      "name": "patient_outcomes_score",
+      "description": "Overall patient outcomes (0-100)"
+    }
+  ],
+  "data": [
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-01",
+      "complication_rate": 8.53,
+      "readmission_rate": 6.89,
+      "follow_up_adherence": 77.56,
+      "patient_outcomes_score": 70.9
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-02",
+      "complication_rate": 0.99,
+      "readmission_rate": 0.24,
+      "follow_up_adherence": 89.02,
+      "patient_outcomes_score": 52.32
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-03",
+      "complication_rate": 4.17,
+      "readmission_rate": 4.3,
+      "follow_up_adherence": 78.4,
+      "patient_outcomes_score": 76.6
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-04",
+      "complication_rate": 6.17,
+      "readmission_rate": 4.32,
+      "follow_up_adherence": 90.43,
+      "patient_outcomes_score": 73.44
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-05",
+      "complication_rate": 8.79,
+      "readmission_rate": 1.34,
+      "follow_up_adherence": 73.96,
+      "patient_outcomes_score": 95.1
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-06",
+      "complication_rate": 0.32,
+      "readmission_rate": 6.7,
+      "follow_up_adherence": 76.29,
+      "patient_outcomes_score": 50.85
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-07",
+      "complication_rate": 3.21,
+      "readmission_rate": 6.98,
+      "follow_up_adherence": 97.52,
+      "patient_outcomes_score": 67.82
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-08",
+      "complication_rate": 3.71,
+      "readmission_rate": 5.69,
+      "follow_up_adherence": 79.9,
+      "patient_outcomes_score": 81.04
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-09",
+      "complication_rate": 7.53,
+      "readmission_rate": 4.04,
+      "follow_up_adherence": 83.21,
+      "patient_outcomes_score": 74.45
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-10",
+      "complication_rate": 4.82,
+      "readmission_rate": 4.15,
+      "follow_up_adherence": 80.87,
+      "patient_outcomes_score": 68.99
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-11",
+      "complication_rate": 9.27,
+      "readmission_rate": 5.29,
+      "follow_up_adherence": 79.15,
+      "patient_outcomes_score": 92.65
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-12",
+      "complication_rate": 2.76,
+      "readmission_rate": 2.49,
+      "follow_up_adherence": 85.8,
+      "patient_outcomes_score": 58.77
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-13",
+      "complication_rate": 5.53,
+      "readmission_rate": 5.9,
+      "follow_up_adherence": 95.47,
+      "patient_outcomes_score": 81.71
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-14",
+      "complication_rate": 5.24,
+      "readmission_rate": 5.81,
+      "follow_up_adherence": 87.94,
+      "patient_outcomes_score": 65.64
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-15",
+      "complication_rate": 8.82,
+      "readmission_rate": 3.96,
+      "follow_up_adherence": 89.63,
+      "patient_outcomes_score": 83.9
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-16",
+      "complication_rate": 4.54,
+      "readmission_rate": 3.0,
+      "follow_up_adherence": 82.86,
+      "patient_outcomes_score": 52.96
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-17",
+      "complication_rate": 9.32,
+      "readmission_rate": 5.44,
+      "follow_up_adherence": 74.78,
+      "patient_outcomes_score": 83.12
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-18",
+      "complication_rate": 7.83,
+      "readmission_rate": 5.29,
+      "follow_up_adherence": 75.3,
+      "patient_outcomes_score": 55.62
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-19",
+      "complication_rate": 2.11,
+      "readmission_rate": 5.35,
+      "follow_up_adherence": 95.07,
+      "patient_outcomes_score": 91.52
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-20",
+      "complication_rate": 5.95,
+      "readmission_rate": 1.22,
+      "follow_up_adherence": 96.82,
+      "patient_outcomes_score": 58.6
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-21",
+      "complication_rate": 5.01,
+      "readmission_rate": 5.9,
+      "follow_up_adherence": 76.98,
+      "patient_outcomes_score": 85.7
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-22",
+      "complication_rate": 8.92,
+      "readmission_rate": 0.9,
+      "follow_up_adherence": 96.06,
+      "patient_outcomes_score": 88.24
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-23",
+      "complication_rate": 0.32,
+      "readmission_rate": 0.08,
+      "follow_up_adherence": 94.13,
+      "patient_outcomes_score": 56.78
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-24",
+      "complication_rate": 7.15,
+      "readmission_rate": 3.6,
+      "follow_up_adherence": 94.45,
+      "patient_outcomes_score": 51.08
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-25",
+      "complication_rate": 6.79,
+      "readmission_rate": 1.0,
+      "follow_up_adherence": 95.31,
+      "patient_outcomes_score": 62.13
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-26",
+      "complication_rate": 6.08,
+      "readmission_rate": 4.9,
+      "follow_up_adherence": 76.48,
+      "patient_outcomes_score": 97.17
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-27",
+      "complication_rate": 8.37,
+      "readmission_rate": 3.12,
+      "follow_up_adherence": 89.01,
+      "patient_outcomes_score": 53.92
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-28",
+      "complication_rate": 3.15,
+      "readmission_rate": 0.94,
+      "follow_up_adherence": 97.7,
+      "patient_outcomes_score": 57.99
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-29",
+      "complication_rate": 1.88,
+      "readmission_rate": 7.75,
+      "follow_up_adherence": 98.7,
+      "patient_outcomes_score": 51.07
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-30",
+      "complication_rate": 4.28,
+      "readmission_rate": 6.0,
+      "follow_up_adherence": 91.18,
+      "patient_outcomes_score": 76.95
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-10-31",
+      "complication_rate": 3.09,
+      "readmission_rate": 4.12,
+      "follow_up_adherence": 70.26,
+      "patient_outcomes_score": 57.83
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-01",
+      "complication_rate": 3.88,
+      "readmission_rate": 0.39,
+      "follow_up_adherence": 81.49,
+      "patient_outcomes_score": 51.57
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-02",
+      "complication_rate": 5.21,
+      "readmission_rate": 3.91,
+      "follow_up_adherence": 94.53,
+      "patient_outcomes_score": 70.25
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-03",
+      "complication_rate": 9.22,
+      "readmission_rate": 6.72,
+      "follow_up_adherence": 89.19,
+      "patient_outcomes_score": 79.88
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-04",
+      "complication_rate": 4.65,
+      "readmission_rate": 0.67,
+      "follow_up_adherence": 94.4,
+      "patient_outcomes_score": 76.94
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-05",
+      "complication_rate": 3.82,
+      "readmission_rate": 3.08,
+      "follow_up_adherence": 99.16,
+      "patient_outcomes_score": 63.64
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-06",
+      "complication_rate": 3.45,
+      "readmission_rate": 5.85,
+      "follow_up_adherence": 99.63,
+      "patient_outcomes_score": 53.12
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-07",
+      "complication_rate": 6.36,
+      "readmission_rate": 4.36,
+      "follow_up_adherence": 97.07,
+      "patient_outcomes_score": 97.89
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-08",
+      "complication_rate": 8.57,
+      "readmission_rate": 7.12,
+      "follow_up_adherence": 77.24,
+      "patient_outcomes_score": 58.54
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-09",
+      "complication_rate": 8.85,
+      "readmission_rate": 0.89,
+      "follow_up_adherence": 85.52,
+      "patient_outcomes_score": 75.85
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-10",
+      "complication_rate": 3.76,
+      "readmission_rate": 6.12,
+      "follow_up_adherence": 84.63,
+      "patient_outcomes_score": 60.11
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-11",
+      "complication_rate": 5.72,
+      "readmission_rate": 0.29,
+      "follow_up_adherence": 77.13,
+      "patient_outcomes_score": 82.74
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-12",
+      "complication_rate": 0.53,
+      "readmission_rate": 6.85,
+      "follow_up_adherence": 82.05,
+      "patient_outcomes_score": 89.74
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-13",
+      "complication_rate": 8.36,
+      "readmission_rate": 1.41,
+      "follow_up_adherence": 72.79,
+      "patient_outcomes_score": 99.18
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-14",
+      "complication_rate": 7.58,
+      "readmission_rate": 1.06,
+      "follow_up_adherence": 81.9,
+      "patient_outcomes_score": 82.71
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-15",
+      "complication_rate": 2.57,
+      "readmission_rate": 2.14,
+      "follow_up_adherence": 92.4,
+      "patient_outcomes_score": 86.72
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-16",
+      "complication_rate": 1.69,
+      "readmission_rate": 5.42,
+      "follow_up_adherence": 96.91,
+      "patient_outcomes_score": 67.68
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-17",
+      "complication_rate": 3.96,
+      "readmission_rate": 6.3,
+      "follow_up_adherence": 92.88,
+      "patient_outcomes_score": 88.26
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-18",
+      "complication_rate": 3.07,
+      "readmission_rate": 5.68,
+      "follow_up_adherence": 89.77,
+      "patient_outcomes_score": 59.43
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-19",
+      "complication_rate": 1.9,
+      "readmission_rate": 0.79,
+      "follow_up_adherence": 83.7,
+      "patient_outcomes_score": 61.79
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-20",
+      "complication_rate": 8.47,
+      "readmission_rate": 1.95,
+      "follow_up_adherence": 74.73,
+      "patient_outcomes_score": 83.77
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-21",
+      "complication_rate": 9.35,
+      "readmission_rate": 7.98,
+      "follow_up_adherence": 77.12,
+      "patient_outcomes_score": 83.09
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-22",
+      "complication_rate": 2.0,
+      "readmission_rate": 2.78,
+      "follow_up_adherence": 90.8,
+      "patient_outcomes_score": 80.82
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-23",
+      "complication_rate": 0.61,
+      "readmission_rate": 6.44,
+      "follow_up_adherence": 75.55,
+      "patient_outcomes_score": 81.94
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-24",
+      "complication_rate": 8.66,
+      "readmission_rate": 7.5,
+      "follow_up_adherence": 95.95,
+      "patient_outcomes_score": 84.22
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-25",
+      "complication_rate": 1.34,
+      "readmission_rate": 4.09,
+      "follow_up_adherence": 81.06,
+      "patient_outcomes_score": 68.51
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-26",
+      "complication_rate": 7.58,
+      "readmission_rate": 7.97,
+      "follow_up_adherence": 84.15,
+      "patient_outcomes_score": 98.9
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-27",
+      "complication_rate": 7.69,
+      "readmission_rate": 5.67,
+      "follow_up_adherence": 97.34,
+      "patient_outcomes_score": 92.47
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-28",
+      "complication_rate": 9.74,
+      "readmission_rate": 5.98,
+      "follow_up_adherence": 77.68,
+      "patient_outcomes_score": 98.05
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-29",
+      "complication_rate": 4.81,
+      "readmission_rate": 0.01,
+      "follow_up_adherence": 96.66,
+      "patient_outcomes_score": 88.53
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-11-30",
+      "complication_rate": 7.92,
+      "readmission_rate": 6.45,
+      "follow_up_adherence": 76.81,
+      "patient_outcomes_score": 54.73
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-01",
+      "complication_rate": 4.99,
+      "readmission_rate": 6.77,
+      "follow_up_adherence": 96.97,
+      "patient_outcomes_score": 86.69
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-02",
+      "complication_rate": 4.49,
+      "readmission_rate": 1.02,
+      "follow_up_adherence": 79.26,
+      "patient_outcomes_score": 96.78
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-03",
+      "complication_rate": 7.47,
+      "readmission_rate": 3.08,
+      "follow_up_adherence": 80.01,
+      "patient_outcomes_score": 84.37
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-04",
+      "complication_rate": 0.56,
+      "readmission_rate": 2.28,
+      "follow_up_adherence": 76.18,
+      "patient_outcomes_score": 81.02
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-05",
+      "complication_rate": 4.17,
+      "readmission_rate": 0.87,
+      "follow_up_adherence": 90.88,
+      "patient_outcomes_score": 84.75
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-06",
+      "complication_rate": 9.25,
+      "readmission_rate": 4.06,
+      "follow_up_adherence": 80.91,
+      "patient_outcomes_score": 67.8
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-07",
+      "complication_rate": 9.96,
+      "readmission_rate": 5.14,
+      "follow_up_adherence": 89.14,
+      "patient_outcomes_score": 79.92
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-08",
+      "complication_rate": 3.45,
+      "readmission_rate": 0.17,
+      "follow_up_adherence": 70.13,
+      "patient_outcomes_score": 74.77
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-09",
+      "complication_rate": 6.97,
+      "readmission_rate": 0.15,
+      "follow_up_adherence": 97.43,
+      "patient_outcomes_score": 66.54
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-10",
+      "complication_rate": 1.1,
+      "readmission_rate": 3.38,
+      "follow_up_adherence": 70.62,
+      "patient_outcomes_score": 79.72
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-11",
+      "complication_rate": 0.96,
+      "readmission_rate": 1.8,
+      "follow_up_adherence": 79.77,
+      "patient_outcomes_score": 65.17
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-12",
+      "complication_rate": 1.83,
+      "readmission_rate": 5.46,
+      "follow_up_adherence": 94.97,
+      "patient_outcomes_score": 91.53
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-13",
+      "complication_rate": 5.64,
+      "readmission_rate": 3.86,
+      "follow_up_adherence": 88.21,
+      "patient_outcomes_score": 77.11
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-14",
+      "complication_rate": 3.24,
+      "readmission_rate": 7.62,
+      "follow_up_adherence": 72.08,
+      "patient_outcomes_score": 60.14
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-15",
+      "complication_rate": 5.68,
+      "readmission_rate": 4.49,
+      "follow_up_adherence": 84.09,
+      "patient_outcomes_score": 92.08
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-16",
+      "complication_rate": 2.56,
+      "readmission_rate": 0.97,
+      "follow_up_adherence": 76.54,
+      "patient_outcomes_score": 93.39
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-17",
+      "complication_rate": 9.15,
+      "readmission_rate": 5.73,
+      "follow_up_adherence": 72.08,
+      "patient_outcomes_score": 77.39
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-18",
+      "complication_rate": 9.51,
+      "readmission_rate": 6.63,
+      "follow_up_adherence": 89.87,
+      "patient_outcomes_score": 75.17
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-19",
+      "complication_rate": 9.74,
+      "readmission_rate": 4.53,
+      "follow_up_adherence": 77.17,
+      "patient_outcomes_score": 95.73
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-20",
+      "complication_rate": 7.23,
+      "readmission_rate": 2.25,
+      "follow_up_adherence": 88.29,
+      "patient_outcomes_score": 78.08
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-21",
+      "complication_rate": 7.8,
+      "readmission_rate": 4.48,
+      "follow_up_adherence": 91.95,
+      "patient_outcomes_score": 82.9
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-22",
+      "complication_rate": 6.25,
+      "readmission_rate": 2.63,
+      "follow_up_adherence": 94.86,
+      "patient_outcomes_score": 62.1
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-23",
+      "complication_rate": 8.14,
+      "readmission_rate": 0.85,
+      "follow_up_adherence": 90.58,
+      "patient_outcomes_score": 66.93
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-24",
+      "complication_rate": 5.93,
+      "readmission_rate": 2.81,
+      "follow_up_adherence": 76.99,
+      "patient_outcomes_score": 54.78
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-25",
+      "complication_rate": 5.41,
+      "readmission_rate": 4.38,
+      "follow_up_adherence": 96.6,
+      "patient_outcomes_score": 70.26
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-26",
+      "complication_rate": 1.95,
+      "readmission_rate": 1.82,
+      "follow_up_adherence": 99.93,
+      "patient_outcomes_score": 91.06
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-27",
+      "complication_rate": 0.08,
+      "readmission_rate": 2.98,
+      "follow_up_adherence": 81.39,
+      "patient_outcomes_score": 95.96
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-28",
+      "complication_rate": 1.48,
+      "readmission_rate": 0.93,
+      "follow_up_adherence": 91.04,
+      "patient_outcomes_score": 86.59
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-29",
+      "complication_rate": 1.26,
+      "readmission_rate": 2.53,
+      "follow_up_adherence": 81.79,
+      "patient_outcomes_score": 60.13
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-30",
+      "complication_rate": 4.89,
+      "readmission_rate": 1.87,
+      "follow_up_adherence": 84.37,
+      "patient_outcomes_score": 90.26
+    },
+    {
+      "employee_id": "EID006",
+      "name": "Jackson Hall",
+      "role": "Physician",
+      "record_date": "2024-12-31",
+      "complication_rate": 3.09,
+      "readmission_rate": 7.46,
+      "follow_up_adherence": 76.44,
+      "patient_outcomes_score": 78.94
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-01",
+      "complication_rate": 9.27,
+      "readmission_rate": 4.52,
+      "follow_up_adherence": 71.42,
+      "patient_outcomes_score": 72.09
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-02",
+      "complication_rate": 2.37,
+      "readmission_rate": 1.95,
+      "follow_up_adherence": 84.22,
+      "patient_outcomes_score": 69.53
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-03",
+      "complication_rate": 0.82,
+      "readmission_rate": 0.47,
+      "follow_up_adherence": 72.48,
+      "patient_outcomes_score": 91.12
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-04",
+      "complication_rate": 8.31,
+      "readmission_rate": 3.37,
+      "follow_up_adherence": 91.7,
+      "patient_outcomes_score": 68.27
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-05",
+      "complication_rate": 3.4,
+      "readmission_rate": 4.81,
+      "follow_up_adherence": 75.62,
+      "patient_outcomes_score": 54.16
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-06",
+      "complication_rate": 9.79,
+      "readmission_rate": 7.8,
+      "follow_up_adherence": 72.58,
+      "patient_outcomes_score": 90.89
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-07",
+      "complication_rate": 4.44,
+      "readmission_rate": 1.7,
+      "follow_up_adherence": 70.02,
+      "patient_outcomes_score": 84.56
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-08",
+      "complication_rate": 9.64,
+      "readmission_rate": 3.48,
+      "follow_up_adherence": 82.95,
+      "patient_outcomes_score": 89.87
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-09",
+      "complication_rate": 1.68,
+      "readmission_rate": 1.19,
+      "follow_up_adherence": 72.37,
+      "patient_outcomes_score": 85.47
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-10",
+      "complication_rate": 3.53,
+      "readmission_rate": 7.61,
+      "follow_up_adherence": 80.33,
+      "patient_outcomes_score": 89.43
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-11",
+      "complication_rate": 3.78,
+      "readmission_rate": 6.07,
+      "follow_up_adherence": 72.65,
+      "patient_outcomes_score": 66.49
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-12",
+      "complication_rate": 9.88,
+      "readmission_rate": 3.84,
+      "follow_up_adherence": 89.81,
+      "patient_outcomes_score": 80.38
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-13",
+      "complication_rate": 2.59,
+      "readmission_rate": 5.88,
+      "follow_up_adherence": 97.33,
+      "patient_outcomes_score": 51.86
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-14",
+      "complication_rate": 0.04,
+      "readmission_rate": 3.54,
+      "follow_up_adherence": 87.21,
+      "patient_outcomes_score": 58.81
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-15",
+      "complication_rate": 7.95,
+      "readmission_rate": 0.34,
+      "follow_up_adherence": 87.74,
+      "patient_outcomes_score": 71.72
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-16",
+      "complication_rate": 9.46,
+      "readmission_rate": 1.89,
+      "follow_up_adherence": 86.72,
+      "patient_outcomes_score": 81.81
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-17",
+      "complication_rate": 3.41,
+      "readmission_rate": 7.29,
+      "follow_up_adherence": 83.61,
+      "patient_outcomes_score": 52.32
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-18",
+      "complication_rate": 9.97,
+      "readmission_rate": 6.47,
+      "follow_up_adherence": 81.64,
+      "patient_outcomes_score": 59.94
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-19",
+      "complication_rate": 1.81,
+      "readmission_rate": 1.28,
+      "follow_up_adherence": 93.06,
+      "patient_outcomes_score": 62.2
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-20",
+      "complication_rate": 9.53,
+      "readmission_rate": 3.65,
+      "follow_up_adherence": 75.43,
+      "patient_outcomes_score": 60.61
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-21",
+      "complication_rate": 2.72,
+      "readmission_rate": 4.63,
+      "follow_up_adherence": 98.43,
+      "patient_outcomes_score": 59.46
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-22",
+      "complication_rate": 2.62,
+      "readmission_rate": 6.29,
+      "follow_up_adherence": 86.36,
+      "patient_outcomes_score": 54.16
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-23",
+      "complication_rate": 1.95,
+      "readmission_rate": 6.0,
+      "follow_up_adherence": 99.6,
+      "patient_outcomes_score": 55.44
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-24",
+      "complication_rate": 7.16,
+      "readmission_rate": 6.2,
+      "follow_up_adherence": 78.13,
+      "patient_outcomes_score": 83.96
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-25",
+      "complication_rate": 9.48,
+      "readmission_rate": 2.5,
+      "follow_up_adherence": 86.61,
+      "patient_outcomes_score": 88.64
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-26",
+      "complication_rate": 9.15,
+      "readmission_rate": 5.78,
+      "follow_up_adherence": 78.36,
+      "patient_outcomes_score": 99.13
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-27",
+      "complication_rate": 0.17,
+      "readmission_rate": 0.95,
+      "follow_up_adherence": 88.6,
+      "patient_outcomes_score": 62.51
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-28",
+      "complication_rate": 0.23,
+      "readmission_rate": 5.57,
+      "follow_up_adherence": 86.27,
+      "patient_outcomes_score": 91.11
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-29",
+      "complication_rate": 9.97,
+      "readmission_rate": 3.53,
+      "follow_up_adherence": 85.41,
+      "patient_outcomes_score": 81.2
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-30",
+      "complication_rate": 4.24,
+      "readmission_rate": 5.62,
+      "follow_up_adherence": 91.45,
+      "patient_outcomes_score": 70.62
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-10-31",
+      "complication_rate": 4.52,
+      "readmission_rate": 4.68,
+      "follow_up_adherence": 81.66,
+      "patient_outcomes_score": 84.44
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-01",
+      "complication_rate": 6.91,
+      "readmission_rate": 4.7,
+      "follow_up_adherence": 78.55,
+      "patient_outcomes_score": 95.88
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-02",
+      "complication_rate": 0.72,
+      "readmission_rate": 3.45,
+      "follow_up_adherence": 81.22,
+      "patient_outcomes_score": 74.28
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-03",
+      "complication_rate": 9.53,
+      "readmission_rate": 7.24,
+      "follow_up_adherence": 70.63,
+      "patient_outcomes_score": 68.08
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-04",
+      "complication_rate": 9.67,
+      "readmission_rate": 2.81,
+      "follow_up_adherence": 78.43,
+      "patient_outcomes_score": 95.68
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-05",
+      "complication_rate": 8.12,
+      "readmission_rate": 4.72,
+      "follow_up_adherence": 77.8,
+      "patient_outcomes_score": 65.55
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-06",
+      "complication_rate": 8.63,
+      "readmission_rate": 5.96,
+      "follow_up_adherence": 75.29,
+      "patient_outcomes_score": 71.42
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-07",
+      "complication_rate": 6.34,
+      "readmission_rate": 4.19,
+      "follow_up_adherence": 88.96,
+      "patient_outcomes_score": 73.94
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-08",
+      "complication_rate": 0.68,
+      "readmission_rate": 7.3,
+      "follow_up_adherence": 82.0,
+      "patient_outcomes_score": 83.65
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-09",
+      "complication_rate": 3.24,
+      "readmission_rate": 5.62,
+      "follow_up_adherence": 97.85,
+      "patient_outcomes_score": 99.56
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-10",
+      "complication_rate": 5.57,
+      "readmission_rate": 7.26,
+      "follow_up_adherence": 84.71,
+      "patient_outcomes_score": 88.23
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-11",
+      "complication_rate": 7.97,
+      "readmission_rate": 0.73,
+      "follow_up_adherence": 73.65,
+      "patient_outcomes_score": 70.28
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-12",
+      "complication_rate": 7.34,
+      "readmission_rate": 0.08,
+      "follow_up_adherence": 85.13,
+      "patient_outcomes_score": 79.34
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-13",
+      "complication_rate": 5.07,
+      "readmission_rate": 4.34,
+      "follow_up_adherence": 74.55,
+      "patient_outcomes_score": 90.44
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-14",
+      "complication_rate": 0.91,
+      "readmission_rate": 6.06,
+      "follow_up_adherence": 87.05,
+      "patient_outcomes_score": 83.89
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-15",
+      "complication_rate": 9.52,
+      "readmission_rate": 0.86,
+      "follow_up_adherence": 73.39,
+      "patient_outcomes_score": 91.15
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-16",
+      "complication_rate": 9.3,
+      "readmission_rate": 3.82,
+      "follow_up_adherence": 95.65,
+      "patient_outcomes_score": 58.22
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-17",
+      "complication_rate": 1.36,
+      "readmission_rate": 0.93,
+      "follow_up_adherence": 78.89,
+      "patient_outcomes_score": 87.08
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-18",
+      "complication_rate": 1.15,
+      "readmission_rate": 1.44,
+      "follow_up_adherence": 99.83,
+      "patient_outcomes_score": 91.19
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-19",
+      "complication_rate": 3.96,
+      "readmission_rate": 1.4,
+      "follow_up_adherence": 92.55,
+      "patient_outcomes_score": 70.64
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-20",
+      "complication_rate": 9.85,
+      "readmission_rate": 0.52,
+      "follow_up_adherence": 77.49,
+      "patient_outcomes_score": 83.97
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-21",
+      "complication_rate": 6.21,
+      "readmission_rate": 4.02,
+      "follow_up_adherence": 97.85,
+      "patient_outcomes_score": 68.27
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-22",
+      "complication_rate": 4.94,
+      "readmission_rate": 2.18,
+      "follow_up_adherence": 83.01,
+      "patient_outcomes_score": 87.57
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-23",
+      "complication_rate": 4.97,
+      "readmission_rate": 6.98,
+      "follow_up_adherence": 83.7,
+      "patient_outcomes_score": 92.35
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-24",
+      "complication_rate": 8.09,
+      "readmission_rate": 5.14,
+      "follow_up_adherence": 91.64,
+      "patient_outcomes_score": 98.48
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-25",
+      "complication_rate": 4.42,
+      "readmission_rate": 4.84,
+      "follow_up_adherence": 82.65,
+      "patient_outcomes_score": 69.92
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-26",
+      "complication_rate": 4.67,
+      "readmission_rate": 2.95,
+      "follow_up_adherence": 77.22,
+      "patient_outcomes_score": 84.12
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-27",
+      "complication_rate": 0.35,
+      "readmission_rate": 2.4,
+      "follow_up_adherence": 74.19,
+      "patient_outcomes_score": 94.24
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-28",
+      "complication_rate": 3.93,
+      "readmission_rate": 6.93,
+      "follow_up_adherence": 70.95,
+      "patient_outcomes_score": 58.29
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-29",
+      "complication_rate": 2.44,
+      "readmission_rate": 0.51,
+      "follow_up_adherence": 92.31,
+      "patient_outcomes_score": 53.53
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-11-30",
+      "complication_rate": 4.39,
+      "readmission_rate": 5.12,
+      "follow_up_adherence": 87.45,
+      "patient_outcomes_score": 67.61
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-01",
+      "complication_rate": 5.5,
+      "readmission_rate": 2.04,
+      "follow_up_adherence": 89.46,
+      "patient_outcomes_score": 77.54
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-02",
+      "complication_rate": 6.87,
+      "readmission_rate": 3.1,
+      "follow_up_adherence": 95.82,
+      "patient_outcomes_score": 63.27
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-03",
+      "complication_rate": 7.66,
+      "readmission_rate": 2.8,
+      "follow_up_adherence": 96.53,
+      "patient_outcomes_score": 86.13
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-04",
+      "complication_rate": 0.2,
+      "readmission_rate": 1.12,
+      "follow_up_adherence": 71.05,
+      "patient_outcomes_score": 54.59
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-05",
+      "complication_rate": 0.56,
+      "readmission_rate": 7.44,
+      "follow_up_adherence": 91.26,
+      "patient_outcomes_score": 66.13
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-06",
+      "complication_rate": 3.7,
+      "readmission_rate": 4.28,
+      "follow_up_adherence": 84.34,
+      "patient_outcomes_score": 70.04
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-07",
+      "complication_rate": 7.78,
+      "readmission_rate": 1.46,
+      "follow_up_adherence": 98.56,
+      "patient_outcomes_score": 96.39
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-08",
+      "complication_rate": 0.45,
+      "readmission_rate": 5.84,
+      "follow_up_adherence": 93.22,
+      "patient_outcomes_score": 77.52
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-09",
+      "complication_rate": 8.7,
+      "readmission_rate": 0.05,
+      "follow_up_adherence": 97.9,
+      "patient_outcomes_score": 57.79
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-10",
+      "complication_rate": 9.51,
+      "readmission_rate": 3.1,
+      "follow_up_adherence": 85.35,
+      "patient_outcomes_score": 76.99
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-11",
+      "complication_rate": 8.19,
+      "readmission_rate": 3.07,
+      "follow_up_adherence": 89.18,
+      "patient_outcomes_score": 53.0
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-12",
+      "complication_rate": 6.91,
+      "readmission_rate": 7.11,
+      "follow_up_adherence": 85.11,
+      "patient_outcomes_score": 62.17
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-13",
+      "complication_rate": 1.49,
+      "readmission_rate": 3.06,
+      "follow_up_adherence": 81.48,
+      "patient_outcomes_score": 68.8
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-14",
+      "complication_rate": 7.54,
+      "readmission_rate": 1.92,
+      "follow_up_adherence": 87.95,
+      "patient_outcomes_score": 72.19
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-15",
+      "complication_rate": 0.22,
+      "readmission_rate": 4.14,
+      "follow_up_adherence": 99.37,
+      "patient_outcomes_score": 88.16
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-16",
+      "complication_rate": 4.72,
+      "readmission_rate": 5.92,
+      "follow_up_adherence": 82.72,
+      "patient_outcomes_score": 94.25
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-17",
+      "complication_rate": 1.06,
+      "readmission_rate": 4.37,
+      "follow_up_adherence": 98.36,
+      "patient_outcomes_score": 57.9
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-18",
+      "complication_rate": 0.41,
+      "readmission_rate": 2.38,
+      "follow_up_adherence": 88.38,
+      "patient_outcomes_score": 56.67
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-19",
+      "complication_rate": 5.47,
+      "readmission_rate": 4.76,
+      "follow_up_adherence": 97.31,
+      "patient_outcomes_score": 91.78
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-20",
+      "complication_rate": 6.69,
+      "readmission_rate": 6.06,
+      "follow_up_adherence": 74.24,
+      "patient_outcomes_score": 57.14
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-21",
+      "complication_rate": 5.58,
+      "readmission_rate": 3.66,
+      "follow_up_adherence": 86.12,
+      "patient_outcomes_score": 82.16
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-22",
+      "complication_rate": 1.23,
+      "readmission_rate": 3.45,
+      "follow_up_adherence": 86.89,
+      "patient_outcomes_score": 53.93
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-23",
+      "complication_rate": 7.79,
+      "readmission_rate": 2.19,
+      "follow_up_adherence": 74.36,
+      "patient_outcomes_score": 75.01
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-24",
+      "complication_rate": 0.27,
+      "readmission_rate": 1.31,
+      "follow_up_adherence": 77.94,
+      "patient_outcomes_score": 63.2
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-25",
+      "complication_rate": 9.48,
+      "readmission_rate": 4.3,
+      "follow_up_adherence": 86.59,
+      "patient_outcomes_score": 67.81
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-26",
+      "complication_rate": 1.13,
+      "readmission_rate": 3.88,
+      "follow_up_adherence": 78.4,
+      "patient_outcomes_score": 91.47
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-27",
+      "complication_rate": 0.06,
+      "readmission_rate": 2.77,
+      "follow_up_adherence": 77.31,
+      "patient_outcomes_score": 87.28
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-28",
+      "complication_rate": 4.34,
+      "readmission_rate": 2.79,
+      "follow_up_adherence": 74.99,
+      "patient_outcomes_score": 97.27
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-29",
+      "complication_rate": 4.08,
+      "readmission_rate": 3.81,
+      "follow_up_adherence": 97.0,
+      "patient_outcomes_score": 67.52
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-30",
+      "complication_rate": 7.08,
+      "readmission_rate": 4.68,
+      "follow_up_adherence": 76.29,
+      "patient_outcomes_score": 78.17
+    },
+    {
+      "employee_id": "EID007",
+      "name": "Eric Young",
+      "role": "Physician",
+      "record_date": "2024-12-31",
+      "complication_rate": 8.97,
+      "readmission_rate": 0.28,
+      "follow_up_adherence": 95.73,
+      "patient_outcomes_score": 88.15
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-01",
+      "complication_rate": 9.15,
+      "readmission_rate": 6.94,
+      "follow_up_adherence": 79.61,
+      "patient_outcomes_score": 60.72
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-02",
+      "complication_rate": 3.3,
+      "readmission_rate": 5.04,
+      "follow_up_adherence": 82.96,
+      "patient_outcomes_score": 87.73
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-03",
+      "complication_rate": 9.38,
+      "readmission_rate": 7.96,
+      "follow_up_adherence": 96.09,
+      "patient_outcomes_score": 63.52
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-04",
+      "complication_rate": 2.47,
+      "readmission_rate": 4.85,
+      "follow_up_adherence": 99.27,
+      "patient_outcomes_score": 84.01
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-05",
+      "complication_rate": 7.49,
+      "readmission_rate": 0.26,
+      "follow_up_adherence": 73.16,
+      "patient_outcomes_score": 95.63
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-06",
+      "complication_rate": 3.85,
+      "readmission_rate": 3.8,
+      "follow_up_adherence": 79.06,
+      "patient_outcomes_score": 51.26
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-07",
+      "complication_rate": 9.55,
+      "readmission_rate": 6.7,
+      "follow_up_adherence": 96.98,
+      "patient_outcomes_score": 97.44
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-08",
+      "complication_rate": 0.57,
+      "readmission_rate": 7.33,
+      "follow_up_adherence": 88.68,
+      "patient_outcomes_score": 51.0
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-09",
+      "complication_rate": 7.99,
+      "readmission_rate": 6.35,
+      "follow_up_adherence": 81.59,
+      "patient_outcomes_score": 72.75
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-10",
+      "complication_rate": 7.95,
+      "readmission_rate": 0.13,
+      "follow_up_adherence": 90.98,
+      "patient_outcomes_score": 60.14
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-11",
+      "complication_rate": 4.32,
+      "readmission_rate": 7.46,
+      "follow_up_adherence": 74.19,
+      "patient_outcomes_score": 91.93
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-12",
+      "complication_rate": 5.8,
+      "readmission_rate": 1.48,
+      "follow_up_adherence": 89.01,
+      "patient_outcomes_score": 84.84
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-13",
+      "complication_rate": 5.77,
+      "readmission_rate": 2.62,
+      "follow_up_adherence": 94.55,
+      "patient_outcomes_score": 78.66
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-14",
+      "complication_rate": 9.19,
+      "readmission_rate": 4.38,
+      "follow_up_adherence": 89.6,
+      "patient_outcomes_score": 76.8
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-15",
+      "complication_rate": 4.43,
+      "readmission_rate": 6.15,
+      "follow_up_adherence": 73.85,
+      "patient_outcomes_score": 68.69
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-16",
+      "complication_rate": 0.77,
+      "readmission_rate": 6.75,
+      "follow_up_adherence": 86.2,
+      "patient_outcomes_score": 91.06
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-17",
+      "complication_rate": 0.96,
+      "readmission_rate": 7.2,
+      "follow_up_adherence": 72.87,
+      "patient_outcomes_score": 77.87
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-18",
+      "complication_rate": 6.38,
+      "readmission_rate": 6.27,
+      "follow_up_adherence": 86.1,
+      "patient_outcomes_score": 96.65
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-19",
+      "complication_rate": 6.05,
+      "readmission_rate": 0.75,
+      "follow_up_adherence": 73.76,
+      "patient_outcomes_score": 82.81
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-20",
+      "complication_rate": 7.38,
+      "readmission_rate": 1.67,
+      "follow_up_adherence": 75.7,
+      "patient_outcomes_score": 99.42
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-21",
+      "complication_rate": 6.14,
+      "readmission_rate": 4.15,
+      "follow_up_adherence": 96.62,
+      "patient_outcomes_score": 51.38
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-22",
+      "complication_rate": 7.93,
+      "readmission_rate": 3.66,
+      "follow_up_adherence": 86.88,
+      "patient_outcomes_score": 61.96
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-23",
+      "complication_rate": 2.92,
+      "readmission_rate": 0.47,
+      "follow_up_adherence": 80.81,
+      "patient_outcomes_score": 80.24
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-24",
+      "complication_rate": 1.11,
+      "readmission_rate": 1.06,
+      "follow_up_adherence": 77.66,
+      "patient_outcomes_score": 56.42
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-25",
+      "complication_rate": 9.25,
+      "readmission_rate": 1.6,
+      "follow_up_adherence": 70.73,
+      "patient_outcomes_score": 68.69
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-26",
+      "complication_rate": 2.98,
+      "readmission_rate": 3.41,
+      "follow_up_adherence": 74.5,
+      "patient_outcomes_score": 81.74
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-27",
+      "complication_rate": 9.52,
+      "readmission_rate": 6.88,
+      "follow_up_adherence": 93.34,
+      "patient_outcomes_score": 66.41
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-28",
+      "complication_rate": 4.03,
+      "readmission_rate": 7.54,
+      "follow_up_adherence": 81.38,
+      "patient_outcomes_score": 50.91
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-29",
+      "complication_rate": 0.34,
+      "readmission_rate": 5.49,
+      "follow_up_adherence": 81.92,
+      "patient_outcomes_score": 54.98
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-30",
+      "complication_rate": 0.53,
+      "readmission_rate": 7.76,
+      "follow_up_adherence": 87.97,
+      "patient_outcomes_score": 66.05
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-10-31",
+      "complication_rate": 0.11,
+      "readmission_rate": 2.4,
+      "follow_up_adherence": 94.76,
+      "patient_outcomes_score": 57.85
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-01",
+      "complication_rate": 6.22,
+      "readmission_rate": 0.91,
+      "follow_up_adherence": 98.25,
+      "patient_outcomes_score": 64.82
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-02",
+      "complication_rate": 1.9,
+      "readmission_rate": 0.57,
+      "follow_up_adherence": 95.05,
+      "patient_outcomes_score": 53.9
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-03",
+      "complication_rate": 8.51,
+      "readmission_rate": 7.24,
+      "follow_up_adherence": 85.71,
+      "patient_outcomes_score": 75.57
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-04",
+      "complication_rate": 4.03,
+      "readmission_rate": 0.83,
+      "follow_up_adherence": 73.68,
+      "patient_outcomes_score": 69.18
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-05",
+      "complication_rate": 8.09,
+      "readmission_rate": 1.38,
+      "follow_up_adherence": 80.86,
+      "patient_outcomes_score": 81.41
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-06",
+      "complication_rate": 3.04,
+      "readmission_rate": 5.08,
+      "follow_up_adherence": 82.57,
+      "patient_outcomes_score": 90.97
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-07",
+      "complication_rate": 8.93,
+      "readmission_rate": 4.3,
+      "follow_up_adherence": 79.95,
+      "patient_outcomes_score": 50.57
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-08",
+      "complication_rate": 5.51,
+      "readmission_rate": 3.78,
+      "follow_up_adherence": 94.47,
+      "patient_outcomes_score": 50.51
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-09",
+      "complication_rate": 0.17,
+      "readmission_rate": 2.89,
+      "follow_up_adherence": 83.22,
+      "patient_outcomes_score": 91.43
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-10",
+      "complication_rate": 9.12,
+      "readmission_rate": 6.46,
+      "follow_up_adherence": 81.11,
+      "patient_outcomes_score": 70.6
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-11",
+      "complication_rate": 5.82,
+      "readmission_rate": 4.09,
+      "follow_up_adherence": 80.37,
+      "patient_outcomes_score": 89.34
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-12",
+      "complication_rate": 7.32,
+      "readmission_rate": 6.3,
+      "follow_up_adherence": 78.29,
+      "patient_outcomes_score": 53.27
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-13",
+      "complication_rate": 7.13,
+      "readmission_rate": 1.43,
+      "follow_up_adherence": 77.5,
+      "patient_outcomes_score": 70.03
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-14",
+      "complication_rate": 9.91,
+      "readmission_rate": 3.96,
+      "follow_up_adherence": 96.19,
+      "patient_outcomes_score": 68.03
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-15",
+      "complication_rate": 0.05,
+      "readmission_rate": 4.17,
+      "follow_up_adherence": 80.11,
+      "patient_outcomes_score": 78.33
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-16",
+      "complication_rate": 5.66,
+      "readmission_rate": 5.08,
+      "follow_up_adherence": 83.78,
+      "patient_outcomes_score": 72.25
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-17",
+      "complication_rate": 1.36,
+      "readmission_rate": 5.11,
+      "follow_up_adherence": 81.79,
+      "patient_outcomes_score": 74.97
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-18",
+      "complication_rate": 9.98,
+      "readmission_rate": 6.17,
+      "follow_up_adherence": 97.53,
+      "patient_outcomes_score": 65.51
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-19",
+      "complication_rate": 1.38,
+      "readmission_rate": 1.24,
+      "follow_up_adherence": 97.58,
+      "patient_outcomes_score": 69.82
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-20",
+      "complication_rate": 2.37,
+      "readmission_rate": 6.25,
+      "follow_up_adherence": 81.46,
+      "patient_outcomes_score": 64.09
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-21",
+      "complication_rate": 8.05,
+      "readmission_rate": 1.08,
+      "follow_up_adherence": 72.56,
+      "patient_outcomes_score": 85.77
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-22",
+      "complication_rate": 3.88,
+      "readmission_rate": 6.74,
+      "follow_up_adherence": 74.38,
+      "patient_outcomes_score": 84.47
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-23",
+      "complication_rate": 5.61,
+      "readmission_rate": 2.45,
+      "follow_up_adherence": 94.81,
+      "patient_outcomes_score": 60.78
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-24",
+      "complication_rate": 0.61,
+      "readmission_rate": 5.61,
+      "follow_up_adherence": 99.81,
+      "patient_outcomes_score": 62.79
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-25",
+      "complication_rate": 1.91,
+      "readmission_rate": 5.15,
+      "follow_up_adherence": 77.09,
+      "patient_outcomes_score": 85.44
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-26",
+      "complication_rate": 9.58,
+      "readmission_rate": 2.2,
+      "follow_up_adherence": 95.06,
+      "patient_outcomes_score": 94.21
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-27",
+      "complication_rate": 0.08,
+      "readmission_rate": 7.96,
+      "follow_up_adherence": 79.08,
+      "patient_outcomes_score": 76.15
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-28",
+      "complication_rate": 2.84,
+      "readmission_rate": 5.0,
+      "follow_up_adherence": 75.2,
+      "patient_outcomes_score": 60.36
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-29",
+      "complication_rate": 8.54,
+      "readmission_rate": 6.73,
+      "follow_up_adherence": 93.93,
+      "patient_outcomes_score": 59.09
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-11-30",
+      "complication_rate": 9.7,
+      "readmission_rate": 0.17,
+      "follow_up_adherence": 81.48,
+      "patient_outcomes_score": 91.32
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-01",
+      "complication_rate": 0.14,
+      "readmission_rate": 4.73,
+      "follow_up_adherence": 99.07,
+      "patient_outcomes_score": 53.06
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-02",
+      "complication_rate": 7.37,
+      "readmission_rate": 0.97,
+      "follow_up_adherence": 88.37,
+      "patient_outcomes_score": 71.84
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-03",
+      "complication_rate": 7.63,
+      "readmission_rate": 5.19,
+      "follow_up_adherence": 82.33,
+      "patient_outcomes_score": 68.52
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-04",
+      "complication_rate": 2.08,
+      "readmission_rate": 1.49,
+      "follow_up_adherence": 76.37,
+      "patient_outcomes_score": 98.56
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-05",
+      "complication_rate": 7.31,
+      "readmission_rate": 2.86,
+      "follow_up_adherence": 91.17,
+      "patient_outcomes_score": 93.3
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-06",
+      "complication_rate": 1.5,
+      "readmission_rate": 7.36,
+      "follow_up_adherence": 80.06,
+      "patient_outcomes_score": 67.89
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-07",
+      "complication_rate": 2.33,
+      "readmission_rate": 4.26,
+      "follow_up_adherence": 77.76,
+      "patient_outcomes_score": 54.69
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-08",
+      "complication_rate": 9.85,
+      "readmission_rate": 4.65,
+      "follow_up_adherence": 74.47,
+      "patient_outcomes_score": 62.11
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-09",
+      "complication_rate": 8.31,
+      "readmission_rate": 4.75,
+      "follow_up_adherence": 81.11,
+      "patient_outcomes_score": 86.28
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-10",
+      "complication_rate": 8.75,
+      "readmission_rate": 0.19,
+      "follow_up_adherence": 94.04,
+      "patient_outcomes_score": 61.58
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-11",
+      "complication_rate": 5.9,
+      "readmission_rate": 4.63,
+      "follow_up_adherence": 71.86,
+      "patient_outcomes_score": 78.72
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-12",
+      "complication_rate": 4.08,
+      "readmission_rate": 6.94,
+      "follow_up_adherence": 82.92,
+      "patient_outcomes_score": 89.38
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-13",
+      "complication_rate": 1.08,
+      "readmission_rate": 4.65,
+      "follow_up_adherence": 81.08,
+      "patient_outcomes_score": 72.33
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-14",
+      "complication_rate": 2.9,
+      "readmission_rate": 7.8,
+      "follow_up_adherence": 88.84,
+      "patient_outcomes_score": 82.66
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-15",
+      "complication_rate": 5.58,
+      "readmission_rate": 5.01,
+      "follow_up_adherence": 75.78,
+      "patient_outcomes_score": 83.11
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-16",
+      "complication_rate": 4.85,
+      "readmission_rate": 3.12,
+      "follow_up_adherence": 85.01,
+      "patient_outcomes_score": 84.19
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-17",
+      "complication_rate": 1.13,
+      "readmission_rate": 6.43,
+      "follow_up_adherence": 96.49,
+      "patient_outcomes_score": 58.92
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-18",
+      "complication_rate": 6.96,
+      "readmission_rate": 3.05,
+      "follow_up_adherence": 85.39,
+      "patient_outcomes_score": 58.19
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-19",
+      "complication_rate": 1.33,
+      "readmission_rate": 0.05,
+      "follow_up_adherence": 84.63,
+      "patient_outcomes_score": 70.36
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-20",
+      "complication_rate": 7.46,
+      "readmission_rate": 0.63,
+      "follow_up_adherence": 83.93,
+      "patient_outcomes_score": 61.94
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-21",
+      "complication_rate": 6.86,
+      "readmission_rate": 4.9,
+      "follow_up_adherence": 78.7,
+      "patient_outcomes_score": 86.49
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-22",
+      "complication_rate": 4.99,
+      "readmission_rate": 2.28,
+      "follow_up_adherence": 96.87,
+      "patient_outcomes_score": 51.68
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-23",
+      "complication_rate": 5.63,
+      "readmission_rate": 0.47,
+      "follow_up_adherence": 95.98,
+      "patient_outcomes_score": 81.72
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-24",
+      "complication_rate": 5.99,
+      "readmission_rate": 1.26,
+      "follow_up_adherence": 70.93,
+      "patient_outcomes_score": 89.11
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-25",
+      "complication_rate": 2.96,
+      "readmission_rate": 6.7,
+      "follow_up_adherence": 93.36,
+      "patient_outcomes_score": 96.19
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-26",
+      "complication_rate": 0.95,
+      "readmission_rate": 1.19,
+      "follow_up_adherence": 94.16,
+      "patient_outcomes_score": 87.66
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-27",
+      "complication_rate": 5.23,
+      "readmission_rate": 1.05,
+      "follow_up_adherence": 96.88,
+      "patient_outcomes_score": 98.07
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-28",
+      "complication_rate": 8.43,
+      "readmission_rate": 5.4,
+      "follow_up_adherence": 95.35,
+      "patient_outcomes_score": 59.79
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-29",
+      "complication_rate": 7.82,
+      "readmission_rate": 4.24,
+      "follow_up_adherence": 76.31,
+      "patient_outcomes_score": 75.46
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-30",
+      "complication_rate": 9.61,
+      "readmission_rate": 7.82,
+      "follow_up_adherence": 99.62,
+      "patient_outcomes_score": 99.26
+    },
+    {
+      "employee_id": "EID008",
+      "name": "Vanessa Simpson",
+      "role": "Physician",
+      "record_date": "2024-12-31",
+      "complication_rate": 3.8,
+      "readmission_rate": 5.44,
+      "follow_up_adherence": 99.64,
+      "patient_outcomes_score": 51.03
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-01",
+      "complication_rate": 3.96,
+      "readmission_rate": 4.73,
+      "follow_up_adherence": 93.3,
+      "patient_outcomes_score": 87.24
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-02",
+      "complication_rate": 1.28,
+      "readmission_rate": 6.97,
+      "follow_up_adherence": 93.05,
+      "patient_outcomes_score": 87.36
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-03",
+      "complication_rate": 6.42,
+      "readmission_rate": 2.97,
+      "follow_up_adherence": 94.0,
+      "patient_outcomes_score": 82.62
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-04",
+      "complication_rate": 5.86,
+      "readmission_rate": 4.56,
+      "follow_up_adherence": 90.43,
+      "patient_outcomes_score": 54.06
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-05",
+      "complication_rate": 7.2,
+      "readmission_rate": 5.34,
+      "follow_up_adherence": 96.57,
+      "patient_outcomes_score": 72.61
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-06",
+      "complication_rate": 4.34,
+      "readmission_rate": 4.4,
+      "follow_up_adherence": 76.36,
+      "patient_outcomes_score": 99.22
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-07",
+      "complication_rate": 8.75,
+      "readmission_rate": 5.62,
+      "follow_up_adherence": 77.09,
+      "patient_outcomes_score": 63.31
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-08",
+      "complication_rate": 0.16,
+      "readmission_rate": 5.16,
+      "follow_up_adherence": 92.03,
+      "patient_outcomes_score": 85.33
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-09",
+      "complication_rate": 9.57,
+      "readmission_rate": 2.35,
+      "follow_up_adherence": 99.39,
+      "patient_outcomes_score": 66.77
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-10",
+      "complication_rate": 5.01,
+      "readmission_rate": 7.71,
+      "follow_up_adherence": 83.84,
+      "patient_outcomes_score": 80.17
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-11",
+      "complication_rate": 6.92,
+      "readmission_rate": 0.93,
+      "follow_up_adherence": 86.89,
+      "patient_outcomes_score": 99.56
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-12",
+      "complication_rate": 2.27,
+      "readmission_rate": 6.71,
+      "follow_up_adherence": 72.74,
+      "patient_outcomes_score": 53.3
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-13",
+      "complication_rate": 0.14,
+      "readmission_rate": 4.88,
+      "follow_up_adherence": 88.7,
+      "patient_outcomes_score": 50.68
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-14",
+      "complication_rate": 5.41,
+      "readmission_rate": 6.89,
+      "follow_up_adherence": 87.2,
+      "patient_outcomes_score": 79.03
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-15",
+      "complication_rate": 9.75,
+      "readmission_rate": 2.15,
+      "follow_up_adherence": 77.46,
+      "patient_outcomes_score": 60.89
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-16",
+      "complication_rate": 4.55,
+      "readmission_rate": 1.44,
+      "follow_up_adherence": 74.82,
+      "patient_outcomes_score": 99.43
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-17",
+      "complication_rate": 4.31,
+      "readmission_rate": 5.32,
+      "follow_up_adherence": 75.26,
+      "patient_outcomes_score": 86.4
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-18",
+      "complication_rate": 6.6,
+      "readmission_rate": 5.22,
+      "follow_up_adherence": 78.86,
+      "patient_outcomes_score": 62.04
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-19",
+      "complication_rate": 3.82,
+      "readmission_rate": 3.62,
+      "follow_up_adherence": 90.29,
+      "patient_outcomes_score": 51.08
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-20",
+      "complication_rate": 7.18,
+      "readmission_rate": 1.14,
+      "follow_up_adherence": 94.55,
+      "patient_outcomes_score": 57.73
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-21",
+      "complication_rate": 9.81,
+      "readmission_rate": 1.63,
+      "follow_up_adherence": 83.51,
+      "patient_outcomes_score": 74.24
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-22",
+      "complication_rate": 2.01,
+      "readmission_rate": 4.16,
+      "follow_up_adherence": 88.23,
+      "patient_outcomes_score": 83.15
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-23",
+      "complication_rate": 3.12,
+      "readmission_rate": 5.17,
+      "follow_up_adherence": 77.05,
+      "patient_outcomes_score": 91.66
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-24",
+      "complication_rate": 6.55,
+      "readmission_rate": 3.19,
+      "follow_up_adherence": 80.12,
+      "patient_outcomes_score": 78.01
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-25",
+      "complication_rate": 1.63,
+      "readmission_rate": 2.11,
+      "follow_up_adherence": 90.24,
+      "patient_outcomes_score": 60.16
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-26",
+      "complication_rate": 6.1,
+      "readmission_rate": 5.36,
+      "follow_up_adherence": 97.25,
+      "patient_outcomes_score": 82.21
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-27",
+      "complication_rate": 0.67,
+      "readmission_rate": 4.76,
+      "follow_up_adherence": 81.55,
+      "patient_outcomes_score": 85.64
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-28",
+      "complication_rate": 2.55,
+      "readmission_rate": 0.11,
+      "follow_up_adherence": 76.11,
+      "patient_outcomes_score": 95.18
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-29",
+      "complication_rate": 1.23,
+      "readmission_rate": 0.72,
+      "follow_up_adherence": 90.24,
+      "patient_outcomes_score": 78.91
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-30",
+      "complication_rate": 2.04,
+      "readmission_rate": 5.12,
+      "follow_up_adherence": 98.18,
+      "patient_outcomes_score": 87.72
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-10-31",
+      "complication_rate": 5.23,
+      "readmission_rate": 7.71,
+      "follow_up_adherence": 95.72,
+      "patient_outcomes_score": 60.15
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-01",
+      "complication_rate": 9.54,
+      "readmission_rate": 7.02,
+      "follow_up_adherence": 91.77,
+      "patient_outcomes_score": 73.18
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-02",
+      "complication_rate": 5.33,
+      "readmission_rate": 0.92,
+      "follow_up_adherence": 88.68,
+      "patient_outcomes_score": 88.13
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-03",
+      "complication_rate": 7.37,
+      "readmission_rate": 4.85,
+      "follow_up_adherence": 99.79,
+      "patient_outcomes_score": 51.52
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-04",
+      "complication_rate": 9.45,
+      "readmission_rate": 2.04,
+      "follow_up_adherence": 81.26,
+      "patient_outcomes_score": 67.02
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-05",
+      "complication_rate": 2.17,
+      "readmission_rate": 4.35,
+      "follow_up_adherence": 87.49,
+      "patient_outcomes_score": 65.69
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-06",
+      "complication_rate": 3.51,
+      "readmission_rate": 7.99,
+      "follow_up_adherence": 89.21,
+      "patient_outcomes_score": 76.64
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-07",
+      "complication_rate": 0.85,
+      "readmission_rate": 6.32,
+      "follow_up_adherence": 90.59,
+      "patient_outcomes_score": 61.18
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-08",
+      "complication_rate": 8.88,
+      "readmission_rate": 0.15,
+      "follow_up_adherence": 87.52,
+      "patient_outcomes_score": 56.38
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-09",
+      "complication_rate": 0.08,
+      "readmission_rate": 1.64,
+      "follow_up_adherence": 73.35,
+      "patient_outcomes_score": 70.2
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-10",
+      "complication_rate": 9.41,
+      "readmission_rate": 3.12,
+      "follow_up_adherence": 70.74,
+      "patient_outcomes_score": 81.19
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-11",
+      "complication_rate": 2.92,
+      "readmission_rate": 7.47,
+      "follow_up_adherence": 76.1,
+      "patient_outcomes_score": 62.88
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-12",
+      "complication_rate": 2.66,
+      "readmission_rate": 4.53,
+      "follow_up_adherence": 76.82,
+      "patient_outcomes_score": 55.99
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-13",
+      "complication_rate": 5.97,
+      "readmission_rate": 0.13,
+      "follow_up_adherence": 79.41,
+      "patient_outcomes_score": 59.84
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-14",
+      "complication_rate": 9.31,
+      "readmission_rate": 7.78,
+      "follow_up_adherence": 76.74,
+      "patient_outcomes_score": 62.27
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-15",
+      "complication_rate": 7.71,
+      "readmission_rate": 7.89,
+      "follow_up_adherence": 79.1,
+      "patient_outcomes_score": 58.69
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-16",
+      "complication_rate": 6.1,
+      "readmission_rate": 6.09,
+      "follow_up_adherence": 87.84,
+      "patient_outcomes_score": 98.48
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-17",
+      "complication_rate": 3.57,
+      "readmission_rate": 1.33,
+      "follow_up_adherence": 86.18,
+      "patient_outcomes_score": 58.16
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-18",
+      "complication_rate": 1.7,
+      "readmission_rate": 4.68,
+      "follow_up_adherence": 99.83,
+      "patient_outcomes_score": 68.75
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-19",
+      "complication_rate": 4.25,
+      "readmission_rate": 3.41,
+      "follow_up_adherence": 89.06,
+      "patient_outcomes_score": 89.75
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-20",
+      "complication_rate": 1.3,
+      "readmission_rate": 5.93,
+      "follow_up_adherence": 93.42,
+      "patient_outcomes_score": 79.88
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-21",
+      "complication_rate": 4.29,
+      "readmission_rate": 6.99,
+      "follow_up_adherence": 75.9,
+      "patient_outcomes_score": 53.0
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-22",
+      "complication_rate": 3.92,
+      "readmission_rate": 5.24,
+      "follow_up_adherence": 96.98,
+      "patient_outcomes_score": 58.96
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-23",
+      "complication_rate": 9.14,
+      "readmission_rate": 2.32,
+      "follow_up_adherence": 89.8,
+      "patient_outcomes_score": 84.57
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-24",
+      "complication_rate": 5.96,
+      "readmission_rate": 2.25,
+      "follow_up_adherence": 87.46,
+      "patient_outcomes_score": 91.1
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-25",
+      "complication_rate": 0.18,
+      "readmission_rate": 3.4,
+      "follow_up_adherence": 96.28,
+      "patient_outcomes_score": 99.02
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-26",
+      "complication_rate": 2.38,
+      "readmission_rate": 5.79,
+      "follow_up_adherence": 93.35,
+      "patient_outcomes_score": 66.84
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-27",
+      "complication_rate": 9.98,
+      "readmission_rate": 6.88,
+      "follow_up_adherence": 70.16,
+      "patient_outcomes_score": 51.15
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-28",
+      "complication_rate": 4.74,
+      "readmission_rate": 5.79,
+      "follow_up_adherence": 99.83,
+      "patient_outcomes_score": 76.2
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-29",
+      "complication_rate": 6.11,
+      "readmission_rate": 2.56,
+      "follow_up_adherence": 87.06,
+      "patient_outcomes_score": 66.04
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-11-30",
+      "complication_rate": 5.71,
+      "readmission_rate": 3.15,
+      "follow_up_adherence": 86.0,
+      "patient_outcomes_score": 95.74
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-01",
+      "complication_rate": 0.66,
+      "readmission_rate": 7.62,
+      "follow_up_adherence": 99.3,
+      "patient_outcomes_score": 97.38
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-02",
+      "complication_rate": 2.41,
+      "readmission_rate": 4.85,
+      "follow_up_adherence": 99.03,
+      "patient_outcomes_score": 68.78
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-03",
+      "complication_rate": 0.67,
+      "readmission_rate": 2.72,
+      "follow_up_adherence": 99.79,
+      "patient_outcomes_score": 96.97
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-04",
+      "complication_rate": 5.32,
+      "readmission_rate": 1.95,
+      "follow_up_adherence": 77.98,
+      "patient_outcomes_score": 55.73
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-05",
+      "complication_rate": 8.96,
+      "readmission_rate": 4.04,
+      "follow_up_adherence": 89.93,
+      "patient_outcomes_score": 65.58
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-06",
+      "complication_rate": 2.89,
+      "readmission_rate": 0.47,
+      "follow_up_adherence": 87.39,
+      "patient_outcomes_score": 83.76
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-07",
+      "complication_rate": 6.63,
+      "readmission_rate": 1.41,
+      "follow_up_adherence": 88.74,
+      "patient_outcomes_score": 52.04
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-08",
+      "complication_rate": 7.93,
+      "readmission_rate": 7.85,
+      "follow_up_adherence": 97.54,
+      "patient_outcomes_score": 58.73
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-09",
+      "complication_rate": 6.8,
+      "readmission_rate": 4.56,
+      "follow_up_adherence": 73.56,
+      "patient_outcomes_score": 50.82
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-10",
+      "complication_rate": 0.49,
+      "readmission_rate": 0.52,
+      "follow_up_adherence": 96.96,
+      "patient_outcomes_score": 62.63
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-11",
+      "complication_rate": 6.6,
+      "readmission_rate": 3.81,
+      "follow_up_adherence": 87.3,
+      "patient_outcomes_score": 69.18
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-12",
+      "complication_rate": 3.38,
+      "readmission_rate": 5.0,
+      "follow_up_adherence": 95.84,
+      "patient_outcomes_score": 64.44
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-13",
+      "complication_rate": 2.79,
+      "readmission_rate": 7.24,
+      "follow_up_adherence": 87.39,
+      "patient_outcomes_score": 66.3
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-14",
+      "complication_rate": 7.04,
+      "readmission_rate": 1.28,
+      "follow_up_adherence": 74.42,
+      "patient_outcomes_score": 83.36
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-15",
+      "complication_rate": 2.8,
+      "readmission_rate": 4.83,
+      "follow_up_adherence": 75.69,
+      "patient_outcomes_score": 65.87
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-16",
+      "complication_rate": 0.95,
+      "readmission_rate": 4.14,
+      "follow_up_adherence": 72.21,
+      "patient_outcomes_score": 95.37
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-17",
+      "complication_rate": 8.76,
+      "readmission_rate": 1.02,
+      "follow_up_adherence": 81.59,
+      "patient_outcomes_score": 53.68
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-18",
+      "complication_rate": 3.9,
+      "readmission_rate": 1.71,
+      "follow_up_adherence": 83.96,
+      "patient_outcomes_score": 94.94
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-19",
+      "complication_rate": 8.91,
+      "readmission_rate": 6.09,
+      "follow_up_adherence": 93.51,
+      "patient_outcomes_score": 99.36
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-20",
+      "complication_rate": 3.16,
+      "readmission_rate": 6.37,
+      "follow_up_adherence": 90.23,
+      "patient_outcomes_score": 90.61
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-21",
+      "complication_rate": 8.37,
+      "readmission_rate": 3.26,
+      "follow_up_adherence": 90.01,
+      "patient_outcomes_score": 66.07
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-22",
+      "complication_rate": 0.48,
+      "readmission_rate": 6.6,
+      "follow_up_adherence": 80.25,
+      "patient_outcomes_score": 72.36
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-23",
+      "complication_rate": 7.88,
+      "readmission_rate": 1.96,
+      "follow_up_adherence": 85.67,
+      "patient_outcomes_score": 91.86
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-24",
+      "complication_rate": 5.58,
+      "readmission_rate": 3.12,
+      "follow_up_adherence": 95.25,
+      "patient_outcomes_score": 93.2
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-25",
+      "complication_rate": 7.66,
+      "readmission_rate": 7.76,
+      "follow_up_adherence": 78.6,
+      "patient_outcomes_score": 72.97
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-26",
+      "complication_rate": 1.86,
+      "readmission_rate": 5.38,
+      "follow_up_adherence": 75.65,
+      "patient_outcomes_score": 92.54
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-27",
+      "complication_rate": 0.18,
+      "readmission_rate": 1.85,
+      "follow_up_adherence": 74.76,
+      "patient_outcomes_score": 72.24
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-28",
+      "complication_rate": 8.85,
+      "readmission_rate": 1.89,
+      "follow_up_adherence": 94.64,
+      "patient_outcomes_score": 88.78
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-29",
+      "complication_rate": 4.3,
+      "readmission_rate": 2.9,
+      "follow_up_adherence": 92.23,
+      "patient_outcomes_score": 51.42
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-30",
+      "complication_rate": 6.39,
+      "readmission_rate": 0.92,
+      "follow_up_adherence": 99.07,
+      "patient_outcomes_score": 85.91
+    },
+    {
+      "employee_id": "EID009",
+      "name": "Jacob Hernandez",
+      "role": "Physician",
+      "record_date": "2024-12-31",
+      "complication_rate": 7.53,
+      "readmission_rate": 2.07,
+      "follow_up_adherence": 95.0,
+      "patient_outcomes_score": 89.17
+    }
+  ]
+}

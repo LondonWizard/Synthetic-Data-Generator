@@ -1,0 +1,4640 @@
+{
+  "dataset_name": "Nurse Performance (Q4 2024)",
+  "description": "Daily performance metrics for nurses from Oct 1 to Dec 31, 2024",
+  "fields": [
+    {
+      "name": "employee_id",
+      "description": "Unique employee code"
+    },
+    {
+      "name": "name",
+      "description": "Employee's full name"
+    },
+    {
+      "name": "role",
+      "description": "Job role (Nurse)"
+    },
+    {
+      "name": "record_date",
+      "description": "Date of record (YYYY-MM-DD)"
+    },
+    {
+      "name": "patient_satisfaction_score",
+      "description": "Patient satisfaction (%)"
+    },
+    {
+      "name": "readmission_rate",
+      "description": "Readmission (%)"
+    },
+    {
+      "name": "compliance_score",
+      "description": "Compliance logs (%)"
+    },
+    {
+      "name": "charting_timeliness",
+      "description": "Chart completion timeliness (%)"
+    }
+  ],
+  "data": [
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-01",
+      "patient_satisfaction_score": 92.79,
+      "readmission_rate": 0.4,
+      "compliance_score": 90.73,
+      "charting_timeliness": 70.98
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-02",
+      "patient_satisfaction_score": 97.17,
+      "readmission_rate": 4.6,
+      "compliance_score": 85.35,
+      "charting_timeliness": 98.32
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-03",
+      "patient_satisfaction_score": 99.85,
+      "readmission_rate": 0.88,
+      "compliance_score": 82.17,
+      "charting_timeliness": 93.91
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-04",
+      "patient_satisfaction_score": 73.45,
+      "readmission_rate": 1.98,
+      "compliance_score": 91.58,
+      "charting_timeliness": 92.46
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-05",
+      "patient_satisfaction_score": 91.0,
+      "readmission_rate": 3.74,
+      "compliance_score": 98.1,
+      "charting_timeliness": 86.84
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-06",
+      "patient_satisfaction_score": 91.05,
+      "readmission_rate": 2.4,
+      "compliance_score": 96.09,
+      "charting_timeliness": 71.23
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-07",
+      "patient_satisfaction_score": 98.4,
+      "readmission_rate": 0.28,
+      "compliance_score": 94.83,
+      "charting_timeliness": 85.48
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-08",
+      "patient_satisfaction_score": 94.92,
+      "readmission_rate": 0.26,
+      "compliance_score": 90.14,
+      "charting_timeliness": 81.98
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-09",
+      "patient_satisfaction_score": 75.67,
+      "readmission_rate": 3.0,
+      "compliance_score": 85.8,
+      "charting_timeliness": 77.07
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-10",
+      "patient_satisfaction_score": 82.56,
+      "readmission_rate": 1.48,
+      "compliance_score": 92.53,
+      "charting_timeliness": 88.12
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-11",
+      "patient_satisfaction_score": 91.58,
+      "readmission_rate": 4.91,
+      "compliance_score": 82.15,
+      "charting_timeliness": 97.58
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-12",
+      "patient_satisfaction_score": 70.33,
+      "readmission_rate": 0.89,
+      "compliance_score": 81.33,
+      "charting_timeliness": 96.98
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-13",
+      "patient_satisfaction_score": 82.27,
+      "readmission_rate": 0.85,
+      "compliance_score": 97.88,
+      "charting_timeliness": 95.67
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-14",
+      "patient_satisfaction_score": 89.94,
+      "readmission_rate": 3.51,
+      "compliance_score": 81.74,
+      "charting_timeliness": 74.17
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-15",
+      "patient_satisfaction_score": 90.98,
+      "readmission_rate": 4.57,
+      "compliance_score": 80.16,
+      "charting_timeliness": 95.18
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-16",
+      "patient_satisfaction_score": 77.18,
+      "readmission_rate": 2.37,
+      "compliance_score": 98.09,
+      "charting_timeliness": 97.25
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-17",
+      "patient_satisfaction_score": 74.29,
+      "readmission_rate": 2.57,
+      "compliance_score": 93.41,
+      "charting_timeliness": 79.06
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-18",
+      "patient_satisfaction_score": 94.08,
+      "readmission_rate": 1.95,
+      "compliance_score": 85.82,
+      "charting_timeliness": 97.63
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-19",
+      "patient_satisfaction_score": 77.14,
+      "readmission_rate": 3.79,
+      "compliance_score": 95.2,
+      "charting_timeliness": 83.8
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-20",
+      "patient_satisfaction_score": 88.71,
+      "readmission_rate": 3.49,
+      "compliance_score": 97.42,
+      "charting_timeliness": 96.95
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-21",
+      "patient_satisfaction_score": 75.34,
+      "readmission_rate": 4.06,
+      "compliance_score": 82.16,
+      "charting_timeliness": 84.25
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-22",
+      "patient_satisfaction_score": 80.93,
+      "readmission_rate": 3.19,
+      "compliance_score": 84.19,
+      "charting_timeliness": 91.65
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-23",
+      "patient_satisfaction_score": 92.73,
+      "readmission_rate": 3.42,
+      "compliance_score": 89.62,
+      "charting_timeliness": 95.67
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-24",
+      "patient_satisfaction_score": 78.25,
+      "readmission_rate": 0.37,
+      "compliance_score": 84.47,
+      "charting_timeliness": 80.12
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-25",
+      "patient_satisfaction_score": 85.38,
+      "readmission_rate": 4.83,
+      "compliance_score": 80.26,
+      "charting_timeliness": 86.79
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-26",
+      "patient_satisfaction_score": 76.59,
+      "readmission_rate": 4.24,
+      "compliance_score": 82.55,
+      "charting_timeliness": 78.53
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-27",
+      "patient_satisfaction_score": 73.02,
+      "readmission_rate": 4.71,
+      "compliance_score": 92.11,
+      "charting_timeliness": 83.37
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-28",
+      "patient_satisfaction_score": 87.69,
+      "readmission_rate": 0.96,
+      "compliance_score": 99.7,
+      "charting_timeliness": 73.39
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-29",
+      "patient_satisfaction_score": 83.5,
+      "readmission_rate": 0.14,
+      "compliance_score": 95.69,
+      "charting_timeliness": 91.23
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-30",
+      "patient_satisfaction_score": 71.46,
+      "readmission_rate": 2.83,
+      "compliance_score": 98.3,
+      "charting_timeliness": 80.16
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-10-31",
+      "patient_satisfaction_score": 78.26,
+      "readmission_rate": 3.2,
+      "compliance_score": 91.54,
+      "charting_timeliness": 72.42
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-01",
+      "patient_satisfaction_score": 73.86,
+      "readmission_rate": 0.8,
+      "compliance_score": 80.11,
+      "charting_timeliness": 82.18
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-02",
+      "patient_satisfaction_score": 75.5,
+      "readmission_rate": 4.68,
+      "compliance_score": 99.32,
+      "charting_timeliness": 79.15
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-03",
+      "patient_satisfaction_score": 78.23,
+      "readmission_rate": 4.23,
+      "compliance_score": 89.45,
+      "charting_timeliness": 88.68
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-04",
+      "patient_satisfaction_score": 87.33,
+      "readmission_rate": 0.45,
+      "compliance_score": 84.5,
+      "charting_timeliness": 71.51
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-05",
+      "patient_satisfaction_score": 91.95,
+      "readmission_rate": 2.91,
+      "compliance_score": 97.1,
+      "charting_timeliness": 88.35
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-06",
+      "patient_satisfaction_score": 77.45,
+      "readmission_rate": 2.69,
+      "compliance_score": 86.27,
+      "charting_timeliness": 88.73
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-07",
+      "patient_satisfaction_score": 88.96,
+      "readmission_rate": 1.24,
+      "compliance_score": 97.87,
+      "charting_timeliness": 84.6
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-08",
+      "patient_satisfaction_score": 78.19,
+      "readmission_rate": 1.72,
+      "compliance_score": 84.08,
+      "charting_timeliness": 96.86
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-09",
+      "patient_satisfaction_score": 73.77,
+      "readmission_rate": 1.44,
+      "compliance_score": 99.1,
+      "charting_timeliness": 89.49
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-10",
+      "patient_satisfaction_score": 90.64,
+      "readmission_rate": 2.82,
+      "compliance_score": 83.47,
+      "charting_timeliness": 94.56
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-11",
+      "patient_satisfaction_score": 79.47,
+      "readmission_rate": 0.81,
+      "compliance_score": 94.02,
+      "charting_timeliness": 81.43
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-12",
+      "patient_satisfaction_score": 70.07,
+      "readmission_rate": 0.09,
+      "compliance_score": 90.0,
+      "charting_timeliness": 74.29
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-13",
+      "patient_satisfaction_score": 78.37,
+      "readmission_rate": 0.79,
+      "compliance_score": 93.74,
+      "charting_timeliness": 85.9
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-14",
+      "patient_satisfaction_score": 74.67,
+      "readmission_rate": 0.11,
+      "compliance_score": 81.83,
+      "charting_timeliness": 72.82
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-15",
+      "patient_satisfaction_score": 92.93,
+      "readmission_rate": 1.53,
+      "compliance_score": 93.87,
+      "charting_timeliness": 85.1
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-16",
+      "patient_satisfaction_score": 73.76,
+      "readmission_rate": 2.63,
+      "compliance_score": 96.96,
+      "charting_timeliness": 82.32
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-17",
+      "patient_satisfaction_score": 97.24,
+      "readmission_rate": 0.66,
+      "compliance_score": 98.5,
+      "charting_timeliness": 84.65
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-18",
+      "patient_satisfaction_score": 79.57,
+      "readmission_rate": 4.32,
+      "compliance_score": 81.09,
+      "charting_timeliness": 89.66
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-19",
+      "patient_satisfaction_score": 95.66,
+      "readmission_rate": 1.1,
+      "compliance_score": 90.43,
+      "charting_timeliness": 72.76
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-20",
+      "patient_satisfaction_score": 86.86,
+      "readmission_rate": 4.19,
+      "compliance_score": 94.45,
+      "charting_timeliness": 79.54
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-21",
+      "patient_satisfaction_score": 70.94,
+      "readmission_rate": 2.2,
+      "compliance_score": 90.36,
+      "charting_timeliness": 87.1
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-22",
+      "patient_satisfaction_score": 91.51,
+      "readmission_rate": 1.3,
+      "compliance_score": 99.53,
+      "charting_timeliness": 91.05
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-23",
+      "patient_satisfaction_score": 83.87,
+      "readmission_rate": 1.38,
+      "compliance_score": 98.72,
+      "charting_timeliness": 96.13
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-24",
+      "patient_satisfaction_score": 99.8,
+      "readmission_rate": 2.36,
+      "compliance_score": 88.61,
+      "charting_timeliness": 79.41
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-25",
+      "patient_satisfaction_score": 90.2,
+      "readmission_rate": 4.5,
+      "compliance_score": 93.1,
+      "charting_timeliness": 86.43
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-26",
+      "patient_satisfaction_score": 73.13,
+      "readmission_rate": 1.67,
+      "compliance_score": 96.01,
+      "charting_timeliness": 74.57
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-27",
+      "patient_satisfaction_score": 99.8,
+      "readmission_rate": 2.07,
+      "compliance_score": 92.45,
+      "charting_timeliness": 99.14
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-28",
+      "patient_satisfaction_score": 81.71,
+      "readmission_rate": 1.5,
+      "compliance_score": 98.18,
+      "charting_timeliness": 74.2
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-29",
+      "patient_satisfaction_score": 85.09,
+      "readmission_rate": 1.15,
+      "compliance_score": 92.51,
+      "charting_timeliness": 87.44
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-11-30",
+      "patient_satisfaction_score": 95.28,
+      "readmission_rate": 2.24,
+      "compliance_score": 88.03,
+      "charting_timeliness": 74.34
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-01",
+      "patient_satisfaction_score": 81.58,
+      "readmission_rate": 0.68,
+      "compliance_score": 83.88,
+      "charting_timeliness": 76.72
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-02",
+      "patient_satisfaction_score": 95.18,
+      "readmission_rate": 3.53,
+      "compliance_score": 81.88,
+      "charting_timeliness": 84.06
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-03",
+      "patient_satisfaction_score": 74.94,
+      "readmission_rate": 2.81,
+      "compliance_score": 84.08,
+      "charting_timeliness": 71.97
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-04",
+      "patient_satisfaction_score": 74.97,
+      "readmission_rate": 4.24,
+      "compliance_score": 85.51,
+      "charting_timeliness": 74.75
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-05",
+      "patient_satisfaction_score": 89.61,
+      "readmission_rate": 1.11,
+      "compliance_score": 99.51,
+      "charting_timeliness": 97.55
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-06",
+      "patient_satisfaction_score": 95.76,
+      "readmission_rate": 1.1,
+      "compliance_score": 87.73,
+      "charting_timeliness": 91.53
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-07",
+      "patient_satisfaction_score": 71.91,
+      "readmission_rate": 1.96,
+      "compliance_score": 80.74,
+      "charting_timeliness": 82.78
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-08",
+      "patient_satisfaction_score": 97.77,
+      "readmission_rate": 1.47,
+      "compliance_score": 94.1,
+      "charting_timeliness": 89.49
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-09",
+      "patient_satisfaction_score": 90.61,
+      "readmission_rate": 3.69,
+      "compliance_score": 98.17,
+      "charting_timeliness": 72.1
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-10",
+      "patient_satisfaction_score": 72.45,
+      "readmission_rate": 4.88,
+      "compliance_score": 94.21,
+      "charting_timeliness": 78.05
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-11",
+      "patient_satisfaction_score": 96.28,
+      "readmission_rate": 4.74,
+      "compliance_score": 85.23,
+      "charting_timeliness": 97.64
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-12",
+      "patient_satisfaction_score": 74.53,
+      "readmission_rate": 2.6,
+      "compliance_score": 91.18,
+      "charting_timeliness": 93.05
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-13",
+      "patient_satisfaction_score": 97.92,
+      "readmission_rate": 1.05,
+      "compliance_score": 92.03,
+      "charting_timeliness": 82.95
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-14",
+      "patient_satisfaction_score": 80.27,
+      "readmission_rate": 0.06,
+      "compliance_score": 89.06,
+      "charting_timeliness": 88.82
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-15",
+      "patient_satisfaction_score": 87.29,
+      "readmission_rate": 1.9,
+      "compliance_score": 86.97,
+      "charting_timeliness": 85.08
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-16",
+      "patient_satisfaction_score": 70.44,
+      "readmission_rate": 0.86,
+      "compliance_score": 97.5,
+      "charting_timeliness": 79.35
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-17",
+      "patient_satisfaction_score": 88.9,
+      "readmission_rate": 1.2,
+      "compliance_score": 87.85,
+      "charting_timeliness": 86.74
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-18",
+      "patient_satisfaction_score": 79.6,
+      "readmission_rate": 1.35,
+      "compliance_score": 87.66,
+      "charting_timeliness": 94.52
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-19",
+      "patient_satisfaction_score": 85.51,
+      "readmission_rate": 1.73,
+      "compliance_score": 96.71,
+      "charting_timeliness": 73.34
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-20",
+      "patient_satisfaction_score": 81.52,
+      "readmission_rate": 1.75,
+      "compliance_score": 81.47,
+      "charting_timeliness": 76.73
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-21",
+      "patient_satisfaction_score": 93.82,
+      "readmission_rate": 2.73,
+      "compliance_score": 80.82,
+      "charting_timeliness": 92.48
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-22",
+      "patient_satisfaction_score": 87.2,
+      "readmission_rate": 2.62,
+      "compliance_score": 97.21,
+      "charting_timeliness": 71.84
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-23",
+      "patient_satisfaction_score": 81.64,
+      "readmission_rate": 0.12,
+      "compliance_score": 96.82,
+      "charting_timeliness": 79.62
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-24",
+      "patient_satisfaction_score": 73.27,
+      "readmission_rate": 0.45,
+      "compliance_score": 92.2,
+      "charting_timeliness": 92.7
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-25",
+      "patient_satisfaction_score": 72.12,
+      "readmission_rate": 4.73,
+      "compliance_score": 96.88,
+      "charting_timeliness": 76.9
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-26",
+      "patient_satisfaction_score": 92.2,
+      "readmission_rate": 0.5,
+      "compliance_score": 99.05,
+      "charting_timeliness": 79.57
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-27",
+      "patient_satisfaction_score": 70.24,
+      "readmission_rate": 3.33,
+      "compliance_score": 94.87,
+      "charting_timeliness": 87.12
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-28",
+      "patient_satisfaction_score": 95.31,
+      "readmission_rate": 4.83,
+      "compliance_score": 81.01,
+      "charting_timeliness": 85.71
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-29",
+      "patient_satisfaction_score": 80.97,
+      "readmission_rate": 4.75,
+      "compliance_score": 99.44,
+      "charting_timeliness": 80.66
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-30",
+      "patient_satisfaction_score": 95.15,
+      "readmission_rate": 1.5,
+      "compliance_score": 80.05,
+      "charting_timeliness": 90.53
+    },
+    {
+      "employee_id": "EID001",
+      "name": "Laura Swanson",
+      "role": "Nurse",
+      "record_date": "2024-12-31",
+      "patient_satisfaction_score": 71.59,
+      "readmission_rate": 3.52,
+      "compliance_score": 80.95,
+      "charting_timeliness": 95.67
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-01",
+      "patient_satisfaction_score": 70.01,
+      "readmission_rate": 2.1,
+      "compliance_score": 85.57,
+      "charting_timeliness": 92.35
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-02",
+      "patient_satisfaction_score": 74.57,
+      "readmission_rate": 2.82,
+      "compliance_score": 97.87,
+      "charting_timeliness": 70.05
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-03",
+      "patient_satisfaction_score": 84.84,
+      "readmission_rate": 4.78,
+      "compliance_score": 97.95,
+      "charting_timeliness": 71.57
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-04",
+      "patient_satisfaction_score": 90.28,
+      "readmission_rate": 2.54,
+      "compliance_score": 90.82,
+      "charting_timeliness": 81.49
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-05",
+      "patient_satisfaction_score": 92.02,
+      "readmission_rate": 4.18,
+      "compliance_score": 93.95,
+      "charting_timeliness": 84.31
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-06",
+      "patient_satisfaction_score": 81.64,
+      "readmission_rate": 1.65,
+      "compliance_score": 90.02,
+      "charting_timeliness": 99.92
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-07",
+      "patient_satisfaction_score": 81.34,
+      "readmission_rate": 2.92,
+      "compliance_score": 95.63,
+      "charting_timeliness": 96.76
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-08",
+      "patient_satisfaction_score": 92.56,
+      "readmission_rate": 0.27,
+      "compliance_score": 82.05,
+      "charting_timeliness": 71.04
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-09",
+      "patient_satisfaction_score": 86.92,
+      "readmission_rate": 0.63,
+      "compliance_score": 94.25,
+      "charting_timeliness": 90.69
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-10",
+      "patient_satisfaction_score": 95.39,
+      "readmission_rate": 4.53,
+      "compliance_score": 95.14,
+      "charting_timeliness": 97.07
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-11",
+      "patient_satisfaction_score": 71.26,
+      "readmission_rate": 4.3,
+      "compliance_score": 90.43,
+      "charting_timeliness": 86.42
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-12",
+      "patient_satisfaction_score": 71.02,
+      "readmission_rate": 1.82,
+      "compliance_score": 83.38,
+      "charting_timeliness": 88.27
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-13",
+      "patient_satisfaction_score": 87.96,
+      "readmission_rate": 4.59,
+      "compliance_score": 97.86,
+      "charting_timeliness": 98.01
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-14",
+      "patient_satisfaction_score": 82.53,
+      "readmission_rate": 4.61,
+      "compliance_score": 92.64,
+      "charting_timeliness": 83.67
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-15",
+      "patient_satisfaction_score": 91.25,
+      "readmission_rate": 3.23,
+      "compliance_score": 97.87,
+      "charting_timeliness": 82.56
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-16",
+      "patient_satisfaction_score": 77.58,
+      "readmission_rate": 3.86,
+      "compliance_score": 84.95,
+      "charting_timeliness": 81.88
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-17",
+      "patient_satisfaction_score": 77.64,
+      "readmission_rate": 0.68,
+      "compliance_score": 99.83,
+      "charting_timeliness": 96.16
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-18",
+      "patient_satisfaction_score": 84.3,
+      "readmission_rate": 2.92,
+      "compliance_score": 96.74,
+      "charting_timeliness": 73.82
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-19",
+      "patient_satisfaction_score": 94.3,
+      "readmission_rate": 3.97,
+      "compliance_score": 82.82,
+      "charting_timeliness": 80.57
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-20",
+      "patient_satisfaction_score": 97.25,
+      "readmission_rate": 0.63,
+      "compliance_score": 87.61,
+      "charting_timeliness": 94.41
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-21",
+      "patient_satisfaction_score": 88.26,
+      "readmission_rate": 3.7,
+      "compliance_score": 98.71,
+      "charting_timeliness": 86.83
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-22",
+      "patient_satisfaction_score": 87.89,
+      "readmission_rate": 2.07,
+      "compliance_score": 83.28,
+      "charting_timeliness": 86.61
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-23",
+      "patient_satisfaction_score": 87.88,
+      "readmission_rate": 4.54,
+      "compliance_score": 91.18,
+      "charting_timeliness": 81.81
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-24",
+      "patient_satisfaction_score": 85.51,
+      "readmission_rate": 2.76,
+      "compliance_score": 99.97,
+      "charting_timeliness": 91.86
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-25",
+      "patient_satisfaction_score": 85.25,
+      "readmission_rate": 3.94,
+      "compliance_score": 88.48,
+      "charting_timeliness": 92.49
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-26",
+      "patient_satisfaction_score": 82.81,
+      "readmission_rate": 0.23,
+      "compliance_score": 80.37,
+      "charting_timeliness": 97.16
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-27",
+      "patient_satisfaction_score": 95.97,
+      "readmission_rate": 0.0,
+      "compliance_score": 92.37,
+      "charting_timeliness": 80.53
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-28",
+      "patient_satisfaction_score": 74.69,
+      "readmission_rate": 1.78,
+      "compliance_score": 90.72,
+      "charting_timeliness": 82.14
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-29",
+      "patient_satisfaction_score": 87.73,
+      "readmission_rate": 0.85,
+      "compliance_score": 93.84,
+      "charting_timeliness": 85.57
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-30",
+      "patient_satisfaction_score": 98.9,
+      "readmission_rate": 3.49,
+      "compliance_score": 98.54,
+      "charting_timeliness": 97.71
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-10-31",
+      "patient_satisfaction_score": 80.92,
+      "readmission_rate": 3.58,
+      "compliance_score": 87.58,
+      "charting_timeliness": 73.3
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-01",
+      "patient_satisfaction_score": 96.55,
+      "readmission_rate": 1.78,
+      "compliance_score": 85.98,
+      "charting_timeliness": 90.22
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-02",
+      "patient_satisfaction_score": 78.29,
+      "readmission_rate": 3.42,
+      "compliance_score": 80.86,
+      "charting_timeliness": 93.52
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-03",
+      "patient_satisfaction_score": 84.03,
+      "readmission_rate": 3.73,
+      "compliance_score": 99.77,
+      "charting_timeliness": 91.15
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-04",
+      "patient_satisfaction_score": 80.14,
+      "readmission_rate": 0.32,
+      "compliance_score": 80.16,
+      "charting_timeliness": 91.23
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-05",
+      "patient_satisfaction_score": 96.96,
+      "readmission_rate": 4.49,
+      "compliance_score": 91.56,
+      "charting_timeliness": 79.46
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-06",
+      "patient_satisfaction_score": 84.56,
+      "readmission_rate": 1.97,
+      "compliance_score": 85.86,
+      "charting_timeliness": 87.88
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-07",
+      "patient_satisfaction_score": 83.36,
+      "readmission_rate": 4.78,
+      "compliance_score": 98.19,
+      "charting_timeliness": 85.54
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-08",
+      "patient_satisfaction_score": 83.57,
+      "readmission_rate": 2.19,
+      "compliance_score": 80.36,
+      "charting_timeliness": 93.35
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-09",
+      "patient_satisfaction_score": 73.74,
+      "readmission_rate": 2.71,
+      "compliance_score": 93.93,
+      "charting_timeliness": 78.81
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-10",
+      "patient_satisfaction_score": 94.13,
+      "readmission_rate": 3.95,
+      "compliance_score": 88.15,
+      "charting_timeliness": 72.39
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-11",
+      "patient_satisfaction_score": 72.09,
+      "readmission_rate": 3.0,
+      "compliance_score": 96.63,
+      "charting_timeliness": 96.21
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-12",
+      "patient_satisfaction_score": 97.24,
+      "readmission_rate": 3.47,
+      "compliance_score": 93.77,
+      "charting_timeliness": 96.2
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-13",
+      "patient_satisfaction_score": 99.34,
+      "readmission_rate": 3.99,
+      "compliance_score": 98.11,
+      "charting_timeliness": 73.24
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-14",
+      "patient_satisfaction_score": 95.04,
+      "readmission_rate": 2.21,
+      "compliance_score": 82.71,
+      "charting_timeliness": 82.11
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-15",
+      "patient_satisfaction_score": 90.54,
+      "readmission_rate": 0.82,
+      "compliance_score": 97.47,
+      "charting_timeliness": 70.48
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-16",
+      "patient_satisfaction_score": 89.56,
+      "readmission_rate": 2.75,
+      "compliance_score": 93.7,
+      "charting_timeliness": 95.36
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-17",
+      "patient_satisfaction_score": 80.07,
+      "readmission_rate": 0.86,
+      "compliance_score": 98.13,
+      "charting_timeliness": 96.77
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-18",
+      "patient_satisfaction_score": 84.1,
+      "readmission_rate": 1.9,
+      "compliance_score": 96.1,
+      "charting_timeliness": 71.98
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-19",
+      "patient_satisfaction_score": 94.41,
+      "readmission_rate": 2.41,
+      "compliance_score": 85.26,
+      "charting_timeliness": 88.47
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-20",
+      "patient_satisfaction_score": 74.12,
+      "readmission_rate": 0.75,
+      "compliance_score": 87.16,
+      "charting_timeliness": 93.95
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-21",
+      "patient_satisfaction_score": 82.42,
+      "readmission_rate": 0.68,
+      "compliance_score": 83.77,
+      "charting_timeliness": 77.36
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-22",
+      "patient_satisfaction_score": 74.0,
+      "readmission_rate": 4.0,
+      "compliance_score": 81.74,
+      "charting_timeliness": 81.76
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-23",
+      "patient_satisfaction_score": 70.0,
+      "readmission_rate": 0.77,
+      "compliance_score": 88.17,
+      "charting_timeliness": 84.0
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-24",
+      "patient_satisfaction_score": 93.73,
+      "readmission_rate": 4.36,
+      "compliance_score": 98.35,
+      "charting_timeliness": 91.75
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-25",
+      "patient_satisfaction_score": 75.56,
+      "readmission_rate": 1.3,
+      "compliance_score": 88.2,
+      "charting_timeliness": 75.3
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-26",
+      "patient_satisfaction_score": 92.84,
+      "readmission_rate": 2.12,
+      "compliance_score": 84.56,
+      "charting_timeliness": 84.69
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-27",
+      "patient_satisfaction_score": 84.63,
+      "readmission_rate": 2.48,
+      "compliance_score": 84.9,
+      "charting_timeliness": 96.57
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-28",
+      "patient_satisfaction_score": 94.12,
+      "readmission_rate": 4.29,
+      "compliance_score": 91.84,
+      "charting_timeliness": 81.21
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-29",
+      "patient_satisfaction_score": 80.09,
+      "readmission_rate": 1.76,
+      "compliance_score": 95.58,
+      "charting_timeliness": 80.4
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-11-30",
+      "patient_satisfaction_score": 84.6,
+      "readmission_rate": 4.75,
+      "compliance_score": 98.11,
+      "charting_timeliness": 98.82
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-01",
+      "patient_satisfaction_score": 91.49,
+      "readmission_rate": 2.63,
+      "compliance_score": 96.51,
+      "charting_timeliness": 99.95
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-02",
+      "patient_satisfaction_score": 72.8,
+      "readmission_rate": 2.42,
+      "compliance_score": 86.28,
+      "charting_timeliness": 89.41
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-03",
+      "patient_satisfaction_score": 73.98,
+      "readmission_rate": 2.07,
+      "compliance_score": 84.46,
+      "charting_timeliness": 86.98
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-04",
+      "patient_satisfaction_score": 88.86,
+      "readmission_rate": 0.2,
+      "compliance_score": 81.29,
+      "charting_timeliness": 78.95
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-05",
+      "patient_satisfaction_score": 70.88,
+      "readmission_rate": 2.89,
+      "compliance_score": 93.41,
+      "charting_timeliness": 98.29
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-06",
+      "patient_satisfaction_score": 91.88,
+      "readmission_rate": 3.53,
+      "compliance_score": 83.15,
+      "charting_timeliness": 91.49
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-07",
+      "patient_satisfaction_score": 88.48,
+      "readmission_rate": 2.26,
+      "compliance_score": 84.09,
+      "charting_timeliness": 76.04
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-08",
+      "patient_satisfaction_score": 85.57,
+      "readmission_rate": 1.65,
+      "compliance_score": 89.82,
+      "charting_timeliness": 84.69
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-09",
+      "patient_satisfaction_score": 77.79,
+      "readmission_rate": 4.45,
+      "compliance_score": 99.42,
+      "charting_timeliness": 90.82
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-10",
+      "patient_satisfaction_score": 89.83,
+      "readmission_rate": 2.83,
+      "compliance_score": 93.47,
+      "charting_timeliness": 95.32
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-11",
+      "patient_satisfaction_score": 93.25,
+      "readmission_rate": 4.49,
+      "compliance_score": 90.53,
+      "charting_timeliness": 83.07
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-12",
+      "patient_satisfaction_score": 76.34,
+      "readmission_rate": 1.36,
+      "compliance_score": 82.04,
+      "charting_timeliness": 83.33
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-13",
+      "patient_satisfaction_score": 89.92,
+      "readmission_rate": 1.13,
+      "compliance_score": 83.63,
+      "charting_timeliness": 88.7
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-14",
+      "patient_satisfaction_score": 86.9,
+      "readmission_rate": 0.62,
+      "compliance_score": 83.44,
+      "charting_timeliness": 90.93
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-15",
+      "patient_satisfaction_score": 84.65,
+      "readmission_rate": 2.0,
+      "compliance_score": 82.62,
+      "charting_timeliness": 92.03
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-16",
+      "patient_satisfaction_score": 96.5,
+      "readmission_rate": 3.1,
+      "compliance_score": 80.19,
+      "charting_timeliness": 72.63
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-17",
+      "patient_satisfaction_score": 81.14,
+      "readmission_rate": 2.43,
+      "compliance_score": 93.72,
+      "charting_timeliness": 88.66
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-18",
+      "patient_satisfaction_score": 98.84,
+      "readmission_rate": 4.69,
+      "compliance_score": 97.37,
+      "charting_timeliness": 85.31
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-19",
+      "patient_satisfaction_score": 81.04,
+      "readmission_rate": 1.88,
+      "compliance_score": 98.14,
+      "charting_timeliness": 98.24
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-20",
+      "patient_satisfaction_score": 86.08,
+      "readmission_rate": 3.09,
+      "compliance_score": 82.1,
+      "charting_timeliness": 83.19
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-21",
+      "patient_satisfaction_score": 94.17,
+      "readmission_rate": 0.32,
+      "compliance_score": 84.68,
+      "charting_timeliness": 81.23
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-22",
+      "patient_satisfaction_score": 83.61,
+      "readmission_rate": 3.3,
+      "compliance_score": 84.5,
+      "charting_timeliness": 76.22
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-23",
+      "patient_satisfaction_score": 89.51,
+      "readmission_rate": 2.58,
+      "compliance_score": 83.64,
+      "charting_timeliness": 91.34
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-24",
+      "patient_satisfaction_score": 96.92,
+      "readmission_rate": 2.01,
+      "compliance_score": 89.65,
+      "charting_timeliness": 83.86
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-25",
+      "patient_satisfaction_score": 73.62,
+      "readmission_rate": 1.85,
+      "compliance_score": 81.07,
+      "charting_timeliness": 94.37
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-26",
+      "patient_satisfaction_score": 79.77,
+      "readmission_rate": 4.78,
+      "compliance_score": 83.42,
+      "charting_timeliness": 86.27
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-27",
+      "patient_satisfaction_score": 93.65,
+      "readmission_rate": 3.88,
+      "compliance_score": 80.57,
+      "charting_timeliness": 93.12
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-28",
+      "patient_satisfaction_score": 70.82,
+      "readmission_rate": 0.63,
+      "compliance_score": 81.18,
+      "charting_timeliness": 84.7
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-29",
+      "patient_satisfaction_score": 70.08,
+      "readmission_rate": 2.36,
+      "compliance_score": 89.44,
+      "charting_timeliness": 77.07
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-30",
+      "patient_satisfaction_score": 95.65,
+      "readmission_rate": 3.22,
+      "compliance_score": 95.0,
+      "charting_timeliness": 70.19
+    },
+    {
+      "employee_id": "EID002",
+      "name": "Mark Burke",
+      "role": "Nurse",
+      "record_date": "2024-12-31",
+      "patient_satisfaction_score": 71.43,
+      "readmission_rate": 3.39,
+      "compliance_score": 85.77,
+      "charting_timeliness": 76.23
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-01",
+      "patient_satisfaction_score": 70.41,
+      "readmission_rate": 0.17,
+      "compliance_score": 86.22,
+      "charting_timeliness": 83.97
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-02",
+      "patient_satisfaction_score": 95.59,
+      "readmission_rate": 3.23,
+      "compliance_score": 83.7,
+      "charting_timeliness": 82.47
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-03",
+      "patient_satisfaction_score": 96.14,
+      "readmission_rate": 1.35,
+      "compliance_score": 90.25,
+      "charting_timeliness": 80.9
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-04",
+      "patient_satisfaction_score": 78.41,
+      "readmission_rate": 2.21,
+      "compliance_score": 93.82,
+      "charting_timeliness": 99.85
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-05",
+      "patient_satisfaction_score": 85.04,
+      "readmission_rate": 3.97,
+      "compliance_score": 87.26,
+      "charting_timeliness": 79.84
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-06",
+      "patient_satisfaction_score": 93.57,
+      "readmission_rate": 4.42,
+      "compliance_score": 88.08,
+      "charting_timeliness": 87.63
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-07",
+      "patient_satisfaction_score": 85.92,
+      "readmission_rate": 3.49,
+      "compliance_score": 99.69,
+      "charting_timeliness": 94.81
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-08",
+      "patient_satisfaction_score": 80.81,
+      "readmission_rate": 2.0,
+      "compliance_score": 84.38,
+      "charting_timeliness": 91.9
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-09",
+      "patient_satisfaction_score": 84.89,
+      "readmission_rate": 4.73,
+      "compliance_score": 88.37,
+      "charting_timeliness": 82.09
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-10",
+      "patient_satisfaction_score": 75.05,
+      "readmission_rate": 2.36,
+      "compliance_score": 81.45,
+      "charting_timeliness": 80.65
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-11",
+      "patient_satisfaction_score": 87.81,
+      "readmission_rate": 0.41,
+      "compliance_score": 82.07,
+      "charting_timeliness": 91.77
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-12",
+      "patient_satisfaction_score": 98.09,
+      "readmission_rate": 3.46,
+      "compliance_score": 99.09,
+      "charting_timeliness": 87.78
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-13",
+      "patient_satisfaction_score": 76.51,
+      "readmission_rate": 2.9,
+      "compliance_score": 91.91,
+      "charting_timeliness": 73.09
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-14",
+      "patient_satisfaction_score": 75.91,
+      "readmission_rate": 1.36,
+      "compliance_score": 93.76,
+      "charting_timeliness": 89.1
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-15",
+      "patient_satisfaction_score": 87.05,
+      "readmission_rate": 3.03,
+      "compliance_score": 89.21,
+      "charting_timeliness": 79.34
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-16",
+      "patient_satisfaction_score": 91.06,
+      "readmission_rate": 3.44,
+      "compliance_score": 81.27,
+      "charting_timeliness": 76.72
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-17",
+      "patient_satisfaction_score": 98.37,
+      "readmission_rate": 0.69,
+      "compliance_score": 88.39,
+      "charting_timeliness": 84.67
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-18",
+      "patient_satisfaction_score": 96.02,
+      "readmission_rate": 3.0,
+      "compliance_score": 83.46,
+      "charting_timeliness": 86.03
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-19",
+      "patient_satisfaction_score": 93.41,
+      "readmission_rate": 2.43,
+      "compliance_score": 94.35,
+      "charting_timeliness": 74.84
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-20",
+      "patient_satisfaction_score": 87.73,
+      "readmission_rate": 3.64,
+      "compliance_score": 88.22,
+      "charting_timeliness": 87.32
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-21",
+      "patient_satisfaction_score": 96.33,
+      "readmission_rate": 3.55,
+      "compliance_score": 87.84,
+      "charting_timeliness": 89.41
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-22",
+      "patient_satisfaction_score": 93.89,
+      "readmission_rate": 3.41,
+      "compliance_score": 85.45,
+      "charting_timeliness": 76.3
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-23",
+      "patient_satisfaction_score": 75.81,
+      "readmission_rate": 0.05,
+      "compliance_score": 97.34,
+      "charting_timeliness": 73.31
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-24",
+      "patient_satisfaction_score": 88.73,
+      "readmission_rate": 2.7,
+      "compliance_score": 91.68,
+      "charting_timeliness": 87.87
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-25",
+      "patient_satisfaction_score": 80.79,
+      "readmission_rate": 0.81,
+      "compliance_score": 97.71,
+      "charting_timeliness": 87.59
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-26",
+      "patient_satisfaction_score": 93.32,
+      "readmission_rate": 0.55,
+      "compliance_score": 80.06,
+      "charting_timeliness": 99.7
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-27",
+      "patient_satisfaction_score": 79.55,
+      "readmission_rate": 0.04,
+      "compliance_score": 99.51,
+      "charting_timeliness": 91.18
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-28",
+      "patient_satisfaction_score": 94.8,
+      "readmission_rate": 0.01,
+      "compliance_score": 85.71,
+      "charting_timeliness": 99.89
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-29",
+      "patient_satisfaction_score": 89.35,
+      "readmission_rate": 3.03,
+      "compliance_score": 83.95,
+      "charting_timeliness": 78.22
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-30",
+      "patient_satisfaction_score": 90.3,
+      "readmission_rate": 1.11,
+      "compliance_score": 84.04,
+      "charting_timeliness": 82.08
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-10-31",
+      "patient_satisfaction_score": 99.64,
+      "readmission_rate": 1.38,
+      "compliance_score": 97.94,
+      "charting_timeliness": 82.15
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-01",
+      "patient_satisfaction_score": 87.93,
+      "readmission_rate": 0.93,
+      "compliance_score": 91.47,
+      "charting_timeliness": 82.02
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-02",
+      "patient_satisfaction_score": 71.31,
+      "readmission_rate": 4.6,
+      "compliance_score": 90.67,
+      "charting_timeliness": 89.66
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-03",
+      "patient_satisfaction_score": 82.11,
+      "readmission_rate": 2.7,
+      "compliance_score": 92.05,
+      "charting_timeliness": 75.66
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-04",
+      "patient_satisfaction_score": 97.32,
+      "readmission_rate": 4.1,
+      "compliance_score": 94.1,
+      "charting_timeliness": 72.11
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-05",
+      "patient_satisfaction_score": 91.6,
+      "readmission_rate": 0.61,
+      "compliance_score": 85.11,
+      "charting_timeliness": 77.52
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-06",
+      "patient_satisfaction_score": 71.27,
+      "readmission_rate": 0.46,
+      "compliance_score": 95.02,
+      "charting_timeliness": 74.27
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-07",
+      "patient_satisfaction_score": 72.24,
+      "readmission_rate": 3.67,
+      "compliance_score": 82.06,
+      "charting_timeliness": 80.7
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-08",
+      "patient_satisfaction_score": 75.92,
+      "readmission_rate": 1.25,
+      "compliance_score": 94.68,
+      "charting_timeliness": 74.58
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-09",
+      "patient_satisfaction_score": 78.8,
+      "readmission_rate": 3.41,
+      "compliance_score": 90.71,
+      "charting_timeliness": 99.69
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-10",
+      "patient_satisfaction_score": 72.84,
+      "readmission_rate": 0.18,
+      "compliance_score": 86.88,
+      "charting_timeliness": 75.68
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-11",
+      "patient_satisfaction_score": 89.48,
+      "readmission_rate": 3.87,
+      "compliance_score": 87.26,
+      "charting_timeliness": 90.67
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-12",
+      "patient_satisfaction_score": 89.27,
+      "readmission_rate": 4.82,
+      "compliance_score": 95.4,
+      "charting_timeliness": 94.91
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-13",
+      "patient_satisfaction_score": 94.78,
+      "readmission_rate": 1.77,
+      "compliance_score": 94.42,
+      "charting_timeliness": 74.76
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-14",
+      "patient_satisfaction_score": 90.59,
+      "readmission_rate": 4.0,
+      "compliance_score": 92.53,
+      "charting_timeliness": 86.47
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-15",
+      "patient_satisfaction_score": 74.94,
+      "readmission_rate": 4.32,
+      "compliance_score": 94.92,
+      "charting_timeliness": 77.88
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-16",
+      "patient_satisfaction_score": 84.79,
+      "readmission_rate": 2.31,
+      "compliance_score": 94.98,
+      "charting_timeliness": 99.67
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-17",
+      "patient_satisfaction_score": 94.25,
+      "readmission_rate": 1.28,
+      "compliance_score": 80.28,
+      "charting_timeliness": 73.34
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-18",
+      "patient_satisfaction_score": 75.34,
+      "readmission_rate": 3.94,
+      "compliance_score": 87.61,
+      "charting_timeliness": 91.55
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-19",
+      "patient_satisfaction_score": 84.16,
+      "readmission_rate": 3.68,
+      "compliance_score": 87.82,
+      "charting_timeliness": 75.57
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-20",
+      "patient_satisfaction_score": 87.14,
+      "readmission_rate": 1.5,
+      "compliance_score": 87.62,
+      "charting_timeliness": 72.47
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-21",
+      "patient_satisfaction_score": 94.43,
+      "readmission_rate": 0.46,
+      "compliance_score": 99.87,
+      "charting_timeliness": 94.15
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-22",
+      "patient_satisfaction_score": 99.52,
+      "readmission_rate": 2.53,
+      "compliance_score": 97.02,
+      "charting_timeliness": 85.0
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-23",
+      "patient_satisfaction_score": 88.61,
+      "readmission_rate": 3.85,
+      "compliance_score": 93.83,
+      "charting_timeliness": 80.12
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-24",
+      "patient_satisfaction_score": 82.37,
+      "readmission_rate": 3.34,
+      "compliance_score": 87.24,
+      "charting_timeliness": 91.41
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-25",
+      "patient_satisfaction_score": 96.14,
+      "readmission_rate": 2.14,
+      "compliance_score": 89.9,
+      "charting_timeliness": 79.82
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-26",
+      "patient_satisfaction_score": 92.14,
+      "readmission_rate": 0.22,
+      "compliance_score": 81.05,
+      "charting_timeliness": 71.49
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-27",
+      "patient_satisfaction_score": 75.58,
+      "readmission_rate": 0.64,
+      "compliance_score": 91.45,
+      "charting_timeliness": 86.06
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-28",
+      "patient_satisfaction_score": 93.66,
+      "readmission_rate": 4.8,
+      "compliance_score": 90.16,
+      "charting_timeliness": 95.75
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-29",
+      "patient_satisfaction_score": 98.02,
+      "readmission_rate": 2.06,
+      "compliance_score": 92.13,
+      "charting_timeliness": 86.87
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-11-30",
+      "patient_satisfaction_score": 84.03,
+      "readmission_rate": 1.64,
+      "compliance_score": 95.33,
+      "charting_timeliness": 96.94
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-01",
+      "patient_satisfaction_score": 87.34,
+      "readmission_rate": 0.84,
+      "compliance_score": 83.87,
+      "charting_timeliness": 70.76
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-02",
+      "patient_satisfaction_score": 97.62,
+      "readmission_rate": 2.69,
+      "compliance_score": 93.97,
+      "charting_timeliness": 87.56
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-03",
+      "patient_satisfaction_score": 85.09,
+      "readmission_rate": 0.56,
+      "compliance_score": 85.81,
+      "charting_timeliness": 97.06
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-04",
+      "patient_satisfaction_score": 90.98,
+      "readmission_rate": 2.29,
+      "compliance_score": 91.96,
+      "charting_timeliness": 86.85
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-05",
+      "patient_satisfaction_score": 73.8,
+      "readmission_rate": 0.52,
+      "compliance_score": 80.49,
+      "charting_timeliness": 80.46
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-06",
+      "patient_satisfaction_score": 93.17,
+      "readmission_rate": 3.98,
+      "compliance_score": 84.36,
+      "charting_timeliness": 80.82
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-07",
+      "patient_satisfaction_score": 84.08,
+      "readmission_rate": 0.12,
+      "compliance_score": 97.61,
+      "charting_timeliness": 76.5
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-08",
+      "patient_satisfaction_score": 95.82,
+      "readmission_rate": 2.95,
+      "compliance_score": 83.13,
+      "charting_timeliness": 72.11
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-09",
+      "patient_satisfaction_score": 79.03,
+      "readmission_rate": 1.38,
+      "compliance_score": 94.58,
+      "charting_timeliness": 91.06
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-10",
+      "patient_satisfaction_score": 81.23,
+      "readmission_rate": 4.6,
+      "compliance_score": 83.49,
+      "charting_timeliness": 96.47
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-11",
+      "patient_satisfaction_score": 72.19,
+      "readmission_rate": 0.46,
+      "compliance_score": 97.47,
+      "charting_timeliness": 92.76
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-12",
+      "patient_satisfaction_score": 75.37,
+      "readmission_rate": 0.82,
+      "compliance_score": 82.31,
+      "charting_timeliness": 82.55
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-13",
+      "patient_satisfaction_score": 75.51,
+      "readmission_rate": 1.2,
+      "compliance_score": 97.03,
+      "charting_timeliness": 80.25
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-14",
+      "patient_satisfaction_score": 80.12,
+      "readmission_rate": 1.1,
+      "compliance_score": 83.99,
+      "charting_timeliness": 91.3
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-15",
+      "patient_satisfaction_score": 94.23,
+      "readmission_rate": 3.68,
+      "compliance_score": 94.03,
+      "charting_timeliness": 99.61
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-16",
+      "patient_satisfaction_score": 82.49,
+      "readmission_rate": 2.56,
+      "compliance_score": 85.1,
+      "charting_timeliness": 99.04
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-17",
+      "patient_satisfaction_score": 74.83,
+      "readmission_rate": 0.35,
+      "compliance_score": 93.41,
+      "charting_timeliness": 79.76
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-18",
+      "patient_satisfaction_score": 83.47,
+      "readmission_rate": 0.61,
+      "compliance_score": 82.82,
+      "charting_timeliness": 70.88
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-19",
+      "patient_satisfaction_score": 74.33,
+      "readmission_rate": 1.13,
+      "compliance_score": 86.46,
+      "charting_timeliness": 73.25
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-20",
+      "patient_satisfaction_score": 85.57,
+      "readmission_rate": 1.87,
+      "compliance_score": 89.89,
+      "charting_timeliness": 76.74
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-21",
+      "patient_satisfaction_score": 96.89,
+      "readmission_rate": 3.35,
+      "compliance_score": 91.18,
+      "charting_timeliness": 84.57
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-22",
+      "patient_satisfaction_score": 74.67,
+      "readmission_rate": 2.72,
+      "compliance_score": 86.68,
+      "charting_timeliness": 91.87
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-23",
+      "patient_satisfaction_score": 82.15,
+      "readmission_rate": 2.28,
+      "compliance_score": 88.68,
+      "charting_timeliness": 90.57
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-24",
+      "patient_satisfaction_score": 82.72,
+      "readmission_rate": 4.98,
+      "compliance_score": 99.99,
+      "charting_timeliness": 83.82
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-25",
+      "patient_satisfaction_score": 96.08,
+      "readmission_rate": 1.81,
+      "compliance_score": 99.61,
+      "charting_timeliness": 75.31
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-26",
+      "patient_satisfaction_score": 87.18,
+      "readmission_rate": 0.68,
+      "compliance_score": 91.27,
+      "charting_timeliness": 78.8
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-27",
+      "patient_satisfaction_score": 88.7,
+      "readmission_rate": 0.89,
+      "compliance_score": 92.77,
+      "charting_timeliness": 88.86
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-28",
+      "patient_satisfaction_score": 94.04,
+      "readmission_rate": 2.58,
+      "compliance_score": 98.15,
+      "charting_timeliness": 93.72
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-29",
+      "patient_satisfaction_score": 94.01,
+      "readmission_rate": 2.25,
+      "compliance_score": 81.57,
+      "charting_timeliness": 83.67
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-30",
+      "patient_satisfaction_score": 83.79,
+      "readmission_rate": 1.77,
+      "compliance_score": 91.72,
+      "charting_timeliness": 78.78
+    },
+    {
+      "employee_id": "EID003",
+      "name": "Joseph Pearson",
+      "role": "Nurse",
+      "record_date": "2024-12-31",
+      "patient_satisfaction_score": 79.37,
+      "readmission_rate": 0.23,
+      "compliance_score": 94.51,
+      "charting_timeliness": 90.64
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-01",
+      "patient_satisfaction_score": 85.35,
+      "readmission_rate": 2.37,
+      "compliance_score": 98.48,
+      "charting_timeliness": 85.4
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-02",
+      "patient_satisfaction_score": 96.49,
+      "readmission_rate": 4.18,
+      "compliance_score": 97.92,
+      "charting_timeliness": 90.1
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-03",
+      "patient_satisfaction_score": 82.77,
+      "readmission_rate": 3.61,
+      "compliance_score": 86.02,
+      "charting_timeliness": 80.62
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-04",
+      "patient_satisfaction_score": 77.22,
+      "readmission_rate": 4.28,
+      "compliance_score": 82.22,
+      "charting_timeliness": 76.09
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-05",
+      "patient_satisfaction_score": 93.19,
+      "readmission_rate": 1.11,
+      "compliance_score": 94.39,
+      "charting_timeliness": 77.86
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-06",
+      "patient_satisfaction_score": 95.48,
+      "readmission_rate": 2.93,
+      "compliance_score": 90.77,
+      "charting_timeliness": 96.64
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-07",
+      "patient_satisfaction_score": 78.89,
+      "readmission_rate": 4.81,
+      "compliance_score": 93.45,
+      "charting_timeliness": 91.67
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-08",
+      "patient_satisfaction_score": 81.53,
+      "readmission_rate": 4.75,
+      "compliance_score": 89.32,
+      "charting_timeliness": 84.59
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-09",
+      "patient_satisfaction_score": 71.76,
+      "readmission_rate": 3.53,
+      "compliance_score": 84.82,
+      "charting_timeliness": 94.92
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-10",
+      "patient_satisfaction_score": 70.83,
+      "readmission_rate": 4.48,
+      "compliance_score": 96.09,
+      "charting_timeliness": 71.17
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-11",
+      "patient_satisfaction_score": 75.27,
+      "readmission_rate": 0.29,
+      "compliance_score": 91.36,
+      "charting_timeliness": 74.17
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-12",
+      "patient_satisfaction_score": 73.76,
+      "readmission_rate": 0.24,
+      "compliance_score": 86.15,
+      "charting_timeliness": 98.78
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-13",
+      "patient_satisfaction_score": 86.13,
+      "readmission_rate": 3.14,
+      "compliance_score": 99.9,
+      "charting_timeliness": 79.34
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-14",
+      "patient_satisfaction_score": 91.87,
+      "readmission_rate": 2.15,
+      "compliance_score": 81.71,
+      "charting_timeliness": 79.42
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-15",
+      "patient_satisfaction_score": 72.08,
+      "readmission_rate": 2.58,
+      "compliance_score": 90.54,
+      "charting_timeliness": 74.14
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-16",
+      "patient_satisfaction_score": 70.87,
+      "readmission_rate": 3.25,
+      "compliance_score": 91.3,
+      "charting_timeliness": 70.48
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-17",
+      "patient_satisfaction_score": 82.55,
+      "readmission_rate": 4.22,
+      "compliance_score": 87.16,
+      "charting_timeliness": 92.79
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-18",
+      "patient_satisfaction_score": 81.09,
+      "readmission_rate": 0.67,
+      "compliance_score": 88.19,
+      "charting_timeliness": 84.87
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-19",
+      "patient_satisfaction_score": 74.41,
+      "readmission_rate": 0.74,
+      "compliance_score": 96.67,
+      "charting_timeliness": 70.99
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-20",
+      "patient_satisfaction_score": 84.5,
+      "readmission_rate": 2.43,
+      "compliance_score": 91.7,
+      "charting_timeliness": 71.91
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-21",
+      "patient_satisfaction_score": 83.51,
+      "readmission_rate": 2.95,
+      "compliance_score": 87.83,
+      "charting_timeliness": 99.27
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-22",
+      "patient_satisfaction_score": 82.42,
+      "readmission_rate": 4.88,
+      "compliance_score": 85.95,
+      "charting_timeliness": 73.48
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-23",
+      "patient_satisfaction_score": 71.4,
+      "readmission_rate": 4.97,
+      "compliance_score": 85.02,
+      "charting_timeliness": 80.12
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-24",
+      "patient_satisfaction_score": 86.97,
+      "readmission_rate": 1.64,
+      "compliance_score": 99.28,
+      "charting_timeliness": 92.92
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-25",
+      "patient_satisfaction_score": 95.25,
+      "readmission_rate": 1.34,
+      "compliance_score": 90.25,
+      "charting_timeliness": 77.42
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-26",
+      "patient_satisfaction_score": 83.21,
+      "readmission_rate": 2.17,
+      "compliance_score": 94.79,
+      "charting_timeliness": 73.95
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-27",
+      "patient_satisfaction_score": 79.56,
+      "readmission_rate": 3.17,
+      "compliance_score": 89.84,
+      "charting_timeliness": 98.18
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-28",
+      "patient_satisfaction_score": 70.65,
+      "readmission_rate": 2.14,
+      "compliance_score": 86.58,
+      "charting_timeliness": 97.04
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-29",
+      "patient_satisfaction_score": 73.1,
+      "readmission_rate": 4.01,
+      "compliance_score": 81.45,
+      "charting_timeliness": 73.85
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-30",
+      "patient_satisfaction_score": 88.3,
+      "readmission_rate": 4.6,
+      "compliance_score": 86.9,
+      "charting_timeliness": 98.47
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-10-31",
+      "patient_satisfaction_score": 77.86,
+      "readmission_rate": 1.79,
+      "compliance_score": 93.17,
+      "charting_timeliness": 75.74
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-01",
+      "patient_satisfaction_score": 98.33,
+      "readmission_rate": 3.61,
+      "compliance_score": 93.63,
+      "charting_timeliness": 93.77
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-02",
+      "patient_satisfaction_score": 91.02,
+      "readmission_rate": 1.52,
+      "compliance_score": 82.21,
+      "charting_timeliness": 86.2
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-03",
+      "patient_satisfaction_score": 74.7,
+      "readmission_rate": 1.54,
+      "compliance_score": 84.07,
+      "charting_timeliness": 93.99
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-04",
+      "patient_satisfaction_score": 81.96,
+      "readmission_rate": 4.16,
+      "compliance_score": 80.53,
+      "charting_timeliness": 80.85
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-05",
+      "patient_satisfaction_score": 93.32,
+      "readmission_rate": 0.66,
+      "compliance_score": 82.25,
+      "charting_timeliness": 96.66
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-06",
+      "patient_satisfaction_score": 93.33,
+      "readmission_rate": 1.78,
+      "compliance_score": 91.91,
+      "charting_timeliness": 86.43
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-07",
+      "patient_satisfaction_score": 84.62,
+      "readmission_rate": 3.28,
+      "compliance_score": 90.46,
+      "charting_timeliness": 71.82
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-08",
+      "patient_satisfaction_score": 92.83,
+      "readmission_rate": 2.67,
+      "compliance_score": 93.64,
+      "charting_timeliness": 95.68
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-09",
+      "patient_satisfaction_score": 98.52,
+      "readmission_rate": 1.11,
+      "compliance_score": 83.96,
+      "charting_timeliness": 88.22
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-10",
+      "patient_satisfaction_score": 82.19,
+      "readmission_rate": 1.64,
+      "compliance_score": 93.12,
+      "charting_timeliness": 83.11
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-11",
+      "patient_satisfaction_score": 98.22,
+      "readmission_rate": 1.24,
+      "compliance_score": 82.02,
+      "charting_timeliness": 96.4
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-12",
+      "patient_satisfaction_score": 95.89,
+      "readmission_rate": 1.44,
+      "compliance_score": 96.52,
+      "charting_timeliness": 97.7
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-13",
+      "patient_satisfaction_score": 71.98,
+      "readmission_rate": 0.75,
+      "compliance_score": 93.58,
+      "charting_timeliness": 91.18
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-14",
+      "patient_satisfaction_score": 85.27,
+      "readmission_rate": 1.31,
+      "compliance_score": 93.12,
+      "charting_timeliness": 97.04
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-15",
+      "patient_satisfaction_score": 93.03,
+      "readmission_rate": 0.35,
+      "compliance_score": 81.33,
+      "charting_timeliness": 78.22
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-16",
+      "patient_satisfaction_score": 76.33,
+      "readmission_rate": 4.7,
+      "compliance_score": 86.39,
+      "charting_timeliness": 96.38
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-17",
+      "patient_satisfaction_score": 88.28,
+      "readmission_rate": 3.8,
+      "compliance_score": 92.85,
+      "charting_timeliness": 81.04
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-18",
+      "patient_satisfaction_score": 80.63,
+      "readmission_rate": 0.66,
+      "compliance_score": 85.04,
+      "charting_timeliness": 82.04
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-19",
+      "patient_satisfaction_score": 75.75,
+      "readmission_rate": 4.77,
+      "compliance_score": 95.47,
+      "charting_timeliness": 99.64
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-20",
+      "patient_satisfaction_score": 89.87,
+      "readmission_rate": 2.1,
+      "compliance_score": 92.62,
+      "charting_timeliness": 78.74
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-21",
+      "patient_satisfaction_score": 87.92,
+      "readmission_rate": 0.37,
+      "compliance_score": 94.89,
+      "charting_timeliness": 73.37
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-22",
+      "patient_satisfaction_score": 91.39,
+      "readmission_rate": 1.1,
+      "compliance_score": 92.7,
+      "charting_timeliness": 83.56
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-23",
+      "patient_satisfaction_score": 70.01,
+      "readmission_rate": 2.41,
+      "compliance_score": 82.3,
+      "charting_timeliness": 93.94
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-24",
+      "patient_satisfaction_score": 83.7,
+      "readmission_rate": 2.84,
+      "compliance_score": 88.77,
+      "charting_timeliness": 91.1
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-25",
+      "patient_satisfaction_score": 70.57,
+      "readmission_rate": 4.16,
+      "compliance_score": 91.06,
+      "charting_timeliness": 86.58
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-26",
+      "patient_satisfaction_score": 88.45,
+      "readmission_rate": 2.47,
+      "compliance_score": 95.48,
+      "charting_timeliness": 71.13
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-27",
+      "patient_satisfaction_score": 80.44,
+      "readmission_rate": 2.1,
+      "compliance_score": 95.49,
+      "charting_timeliness": 84.87
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-28",
+      "patient_satisfaction_score": 98.23,
+      "readmission_rate": 2.1,
+      "compliance_score": 81.51,
+      "charting_timeliness": 81.1
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-29",
+      "patient_satisfaction_score": 91.35,
+      "readmission_rate": 0.57,
+      "compliance_score": 80.71,
+      "charting_timeliness": 71.79
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-11-30",
+      "patient_satisfaction_score": 89.3,
+      "readmission_rate": 4.52,
+      "compliance_score": 92.79,
+      "charting_timeliness": 99.22
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-01",
+      "patient_satisfaction_score": 72.55,
+      "readmission_rate": 1.71,
+      "compliance_score": 86.45,
+      "charting_timeliness": 85.58
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-02",
+      "patient_satisfaction_score": 77.53,
+      "readmission_rate": 4.48,
+      "compliance_score": 88.19,
+      "charting_timeliness": 90.23
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-03",
+      "patient_satisfaction_score": 87.69,
+      "readmission_rate": 0.88,
+      "compliance_score": 94.08,
+      "charting_timeliness": 84.9
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-04",
+      "patient_satisfaction_score": 89.15,
+      "readmission_rate": 1.52,
+      "compliance_score": 85.87,
+      "charting_timeliness": 89.18
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-05",
+      "patient_satisfaction_score": 71.27,
+      "readmission_rate": 2.24,
+      "compliance_score": 90.74,
+      "charting_timeliness": 92.51
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-06",
+      "patient_satisfaction_score": 88.51,
+      "readmission_rate": 3.84,
+      "compliance_score": 81.82,
+      "charting_timeliness": 75.3
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-07",
+      "patient_satisfaction_score": 87.54,
+      "readmission_rate": 4.84,
+      "compliance_score": 81.45,
+      "charting_timeliness": 74.59
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-08",
+      "patient_satisfaction_score": 85.88,
+      "readmission_rate": 2.56,
+      "compliance_score": 83.43,
+      "charting_timeliness": 85.42
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-09",
+      "patient_satisfaction_score": 76.86,
+      "readmission_rate": 0.11,
+      "compliance_score": 91.77,
+      "charting_timeliness": 97.62
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-10",
+      "patient_satisfaction_score": 88.11,
+      "readmission_rate": 1.55,
+      "compliance_score": 84.18,
+      "charting_timeliness": 71.86
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-11",
+      "patient_satisfaction_score": 77.48,
+      "readmission_rate": 4.79,
+      "compliance_score": 91.42,
+      "charting_timeliness": 72.92
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-12",
+      "patient_satisfaction_score": 91.52,
+      "readmission_rate": 4.57,
+      "compliance_score": 81.7,
+      "charting_timeliness": 84.71
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-13",
+      "patient_satisfaction_score": 98.29,
+      "readmission_rate": 2.12,
+      "compliance_score": 84.43,
+      "charting_timeliness": 82.8
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-14",
+      "patient_satisfaction_score": 74.44,
+      "readmission_rate": 1.28,
+      "compliance_score": 93.82,
+      "charting_timeliness": 88.75
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-15",
+      "patient_satisfaction_score": 99.08,
+      "readmission_rate": 2.2,
+      "compliance_score": 84.3,
+      "charting_timeliness": 94.83
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-16",
+      "patient_satisfaction_score": 95.68,
+      "readmission_rate": 4.59,
+      "compliance_score": 93.89,
+      "charting_timeliness": 96.99
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-17",
+      "patient_satisfaction_score": 71.48,
+      "readmission_rate": 4.74,
+      "compliance_score": 99.21,
+      "charting_timeliness": 93.94
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-18",
+      "patient_satisfaction_score": 90.83,
+      "readmission_rate": 2.0,
+      "compliance_score": 94.54,
+      "charting_timeliness": 85.0
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-19",
+      "patient_satisfaction_score": 87.45,
+      "readmission_rate": 2.86,
+      "compliance_score": 80.18,
+      "charting_timeliness": 98.75
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-20",
+      "patient_satisfaction_score": 82.6,
+      "readmission_rate": 4.13,
+      "compliance_score": 90.41,
+      "charting_timeliness": 75.89
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-21",
+      "patient_satisfaction_score": 98.9,
+      "readmission_rate": 4.81,
+      "compliance_score": 93.05,
+      "charting_timeliness": 78.76
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-22",
+      "patient_satisfaction_score": 78.77,
+      "readmission_rate": 1.46,
+      "compliance_score": 86.85,
+      "charting_timeliness": 99.37
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-23",
+      "patient_satisfaction_score": 98.84,
+      "readmission_rate": 2.62,
+      "compliance_score": 96.06,
+      "charting_timeliness": 89.84
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-24",
+      "patient_satisfaction_score": 82.33,
+      "readmission_rate": 0.64,
+      "compliance_score": 99.1,
+      "charting_timeliness": 78.64
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-25",
+      "patient_satisfaction_score": 74.48,
+      "readmission_rate": 1.2,
+      "compliance_score": 89.45,
+      "charting_timeliness": 95.37
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-26",
+      "patient_satisfaction_score": 84.57,
+      "readmission_rate": 2.89,
+      "compliance_score": 86.27,
+      "charting_timeliness": 87.82
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-27",
+      "patient_satisfaction_score": 94.75,
+      "readmission_rate": 2.98,
+      "compliance_score": 82.34,
+      "charting_timeliness": 99.87
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-28",
+      "patient_satisfaction_score": 81.31,
+      "readmission_rate": 0.68,
+      "compliance_score": 89.03,
+      "charting_timeliness": 70.24
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-29",
+      "patient_satisfaction_score": 71.15,
+      "readmission_rate": 0.42,
+      "compliance_score": 89.04,
+      "charting_timeliness": 70.94
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-30",
+      "patient_satisfaction_score": 77.48,
+      "readmission_rate": 2.26,
+      "compliance_score": 99.27,
+      "charting_timeliness": 94.83
+    },
+    {
+      "employee_id": "EID004",
+      "name": "Melissa Dunlap",
+      "role": "Nurse",
+      "record_date": "2024-12-31",
+      "patient_satisfaction_score": 77.92,
+      "readmission_rate": 4.44,
+      "compliance_score": 91.12,
+      "charting_timeliness": 87.94
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-01",
+      "patient_satisfaction_score": 87.8,
+      "readmission_rate": 1.13,
+      "compliance_score": 80.7,
+      "charting_timeliness": 78.29
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-02",
+      "patient_satisfaction_score": 85.4,
+      "readmission_rate": 2.29,
+      "compliance_score": 97.36,
+      "charting_timeliness": 92.76
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-03",
+      "patient_satisfaction_score": 91.25,
+      "readmission_rate": 4.54,
+      "compliance_score": 92.82,
+      "charting_timeliness": 92.76
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-04",
+      "patient_satisfaction_score": 89.4,
+      "readmission_rate": 2.63,
+      "compliance_score": 83.41,
+      "charting_timeliness": 70.21
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-05",
+      "patient_satisfaction_score": 73.21,
+      "readmission_rate": 4.46,
+      "compliance_score": 93.99,
+      "charting_timeliness": 85.65
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-06",
+      "patient_satisfaction_score": 72.47,
+      "readmission_rate": 3.94,
+      "compliance_score": 86.42,
+      "charting_timeliness": 87.18
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-07",
+      "patient_satisfaction_score": 72.58,
+      "readmission_rate": 3.35,
+      "compliance_score": 85.56,
+      "charting_timeliness": 81.59
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-08",
+      "patient_satisfaction_score": 96.97,
+      "readmission_rate": 3.36,
+      "compliance_score": 91.67,
+      "charting_timeliness": 97.67
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-09",
+      "patient_satisfaction_score": 74.57,
+      "readmission_rate": 0.02,
+      "compliance_score": 97.82,
+      "charting_timeliness": 93.88
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-10",
+      "patient_satisfaction_score": 70.91,
+      "readmission_rate": 2.96,
+      "compliance_score": 85.65,
+      "charting_timeliness": 82.78
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-11",
+      "patient_satisfaction_score": 88.86,
+      "readmission_rate": 0.44,
+      "compliance_score": 85.81,
+      "charting_timeliness": 73.77
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-12",
+      "patient_satisfaction_score": 77.71,
+      "readmission_rate": 1.41,
+      "compliance_score": 83.93,
+      "charting_timeliness": 70.69
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-13",
+      "patient_satisfaction_score": 99.5,
+      "readmission_rate": 3.68,
+      "compliance_score": 95.69,
+      "charting_timeliness": 90.02
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-14",
+      "patient_satisfaction_score": 86.92,
+      "readmission_rate": 4.82,
+      "compliance_score": 97.72,
+      "charting_timeliness": 83.1
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-15",
+      "patient_satisfaction_score": 71.49,
+      "readmission_rate": 0.91,
+      "compliance_score": 81.6,
+      "charting_timeliness": 77.92
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-16",
+      "patient_satisfaction_score": 90.23,
+      "readmission_rate": 4.42,
+      "compliance_score": 84.51,
+      "charting_timeliness": 70.9
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-17",
+      "patient_satisfaction_score": 94.07,
+      "readmission_rate": 0.45,
+      "compliance_score": 93.64,
+      "charting_timeliness": 95.35
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-18",
+      "patient_satisfaction_score": 86.5,
+      "readmission_rate": 3.36,
+      "compliance_score": 95.29,
+      "charting_timeliness": 79.37
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-19",
+      "patient_satisfaction_score": 80.61,
+      "readmission_rate": 4.19,
+      "compliance_score": 85.93,
+      "charting_timeliness": 71.95
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-20",
+      "patient_satisfaction_score": 75.55,
+      "readmission_rate": 4.56,
+      "compliance_score": 83.46,
+      "charting_timeliness": 89.31
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-21",
+      "patient_satisfaction_score": 77.68,
+      "readmission_rate": 0.98,
+      "compliance_score": 82.09,
+      "charting_timeliness": 72.98
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-22",
+      "patient_satisfaction_score": 76.13,
+      "readmission_rate": 3.84,
+      "compliance_score": 80.55,
+      "charting_timeliness": 88.03
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-23",
+      "patient_satisfaction_score": 76.15,
+      "readmission_rate": 0.76,
+      "compliance_score": 95.91,
+      "charting_timeliness": 75.67
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-24",
+      "patient_satisfaction_score": 91.14,
+      "readmission_rate": 1.71,
+      "compliance_score": 90.96,
+      "charting_timeliness": 93.6
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-25",
+      "patient_satisfaction_score": 96.69,
+      "readmission_rate": 4.79,
+      "compliance_score": 94.68,
+      "charting_timeliness": 76.39
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-26",
+      "patient_satisfaction_score": 78.94,
+      "readmission_rate": 1.92,
+      "compliance_score": 92.04,
+      "charting_timeliness": 99.22
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-27",
+      "patient_satisfaction_score": 97.09,
+      "readmission_rate": 0.43,
+      "compliance_score": 81.43,
+      "charting_timeliness": 71.26
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-28",
+      "patient_satisfaction_score": 90.24,
+      "readmission_rate": 2.15,
+      "compliance_score": 82.64,
+      "charting_timeliness": 83.97
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-29",
+      "patient_satisfaction_score": 93.63,
+      "readmission_rate": 1.5,
+      "compliance_score": 92.0,
+      "charting_timeliness": 90.8
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-30",
+      "patient_satisfaction_score": 81.89,
+      "readmission_rate": 1.55,
+      "compliance_score": 93.73,
+      "charting_timeliness": 77.92
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-10-31",
+      "patient_satisfaction_score": 87.83,
+      "readmission_rate": 3.78,
+      "compliance_score": 88.94,
+      "charting_timeliness": 95.96
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-01",
+      "patient_satisfaction_score": 80.29,
+      "readmission_rate": 2.94,
+      "compliance_score": 92.33,
+      "charting_timeliness": 75.18
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-02",
+      "patient_satisfaction_score": 85.05,
+      "readmission_rate": 4.63,
+      "compliance_score": 88.06,
+      "charting_timeliness": 91.36
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-03",
+      "patient_satisfaction_score": 99.38,
+      "readmission_rate": 3.2,
+      "compliance_score": 90.33,
+      "charting_timeliness": 86.01
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-04",
+      "patient_satisfaction_score": 90.59,
+      "readmission_rate": 3.69,
+      "compliance_score": 97.36,
+      "charting_timeliness": 99.46
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-05",
+      "patient_satisfaction_score": 86.57,
+      "readmission_rate": 2.56,
+      "compliance_score": 82.78,
+      "charting_timeliness": 85.91
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-06",
+      "patient_satisfaction_score": 73.42,
+      "readmission_rate": 2.24,
+      "compliance_score": 95.95,
+      "charting_timeliness": 97.53
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-07",
+      "patient_satisfaction_score": 85.31,
+      "readmission_rate": 2.56,
+      "compliance_score": 84.14,
+      "charting_timeliness": 99.25
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-08",
+      "patient_satisfaction_score": 84.36,
+      "readmission_rate": 3.49,
+      "compliance_score": 96.99,
+      "charting_timeliness": 86.59
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-09",
+      "patient_satisfaction_score": 86.88,
+      "readmission_rate": 1.79,
+      "compliance_score": 86.93,
+      "charting_timeliness": 75.89
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-10",
+      "patient_satisfaction_score": 89.79,
+      "readmission_rate": 2.78,
+      "compliance_score": 85.79,
+      "charting_timeliness": 73.46
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-11",
+      "patient_satisfaction_score": 79.7,
+      "readmission_rate": 2.78,
+      "compliance_score": 91.7,
+      "charting_timeliness": 90.07
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-12",
+      "patient_satisfaction_score": 85.96,
+      "readmission_rate": 4.69,
+      "compliance_score": 82.15,
+      "charting_timeliness": 95.65
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-13",
+      "patient_satisfaction_score": 79.41,
+      "readmission_rate": 0.46,
+      "compliance_score": 93.31,
+      "charting_timeliness": 77.56
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-14",
+      "patient_satisfaction_score": 98.18,
+      "readmission_rate": 3.53,
+      "compliance_score": 89.62,
+      "charting_timeliness": 71.48
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-15",
+      "patient_satisfaction_score": 71.37,
+      "readmission_rate": 0.73,
+      "compliance_score": 85.75,
+      "charting_timeliness": 77.93
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-16",
+      "patient_satisfaction_score": 91.52,
+      "readmission_rate": 2.11,
+      "compliance_score": 94.97,
+      "charting_timeliness": 72.54
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-17",
+      "patient_satisfaction_score": 82.91,
+      "readmission_rate": 1.68,
+      "compliance_score": 86.4,
+      "charting_timeliness": 85.24
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-18",
+      "patient_satisfaction_score": 77.44,
+      "readmission_rate": 4.68,
+      "compliance_score": 82.5,
+      "charting_timeliness": 85.58
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-19",
+      "patient_satisfaction_score": 84.49,
+      "readmission_rate": 0.11,
+      "compliance_score": 85.23,
+      "charting_timeliness": 78.06
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-20",
+      "patient_satisfaction_score": 86.07,
+      "readmission_rate": 4.18,
+      "compliance_score": 91.79,
+      "charting_timeliness": 89.54
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-21",
+      "patient_satisfaction_score": 82.04,
+      "readmission_rate": 1.45,
+      "compliance_score": 83.13,
+      "charting_timeliness": 79.73
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-22",
+      "patient_satisfaction_score": 99.9,
+      "readmission_rate": 4.63,
+      "compliance_score": 90.74,
+      "charting_timeliness": 94.74
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-23",
+      "patient_satisfaction_score": 83.48,
+      "readmission_rate": 3.78,
+      "compliance_score": 86.63,
+      "charting_timeliness": 73.12
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-24",
+      "patient_satisfaction_score": 93.24,
+      "readmission_rate": 0.54,
+      "compliance_score": 99.56,
+      "charting_timeliness": 70.87
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-25",
+      "patient_satisfaction_score": 70.58,
+      "readmission_rate": 4.04,
+      "compliance_score": 80.65,
+      "charting_timeliness": 72.64
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-26",
+      "patient_satisfaction_score": 81.75,
+      "readmission_rate": 0.34,
+      "compliance_score": 85.27,
+      "charting_timeliness": 76.72
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-27",
+      "patient_satisfaction_score": 94.83,
+      "readmission_rate": 1.56,
+      "compliance_score": 88.49,
+      "charting_timeliness": 87.31
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-28",
+      "patient_satisfaction_score": 80.28,
+      "readmission_rate": 0.05,
+      "compliance_score": 84.03,
+      "charting_timeliness": 91.65
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-29",
+      "patient_satisfaction_score": 79.0,
+      "readmission_rate": 0.95,
+      "compliance_score": 80.81,
+      "charting_timeliness": 76.15
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-11-30",
+      "patient_satisfaction_score": 94.54,
+      "readmission_rate": 1.86,
+      "compliance_score": 84.6,
+      "charting_timeliness": 93.08
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-01",
+      "patient_satisfaction_score": 99.89,
+      "readmission_rate": 4.95,
+      "compliance_score": 83.41,
+      "charting_timeliness": 75.54
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-02",
+      "patient_satisfaction_score": 72.61,
+      "readmission_rate": 0.23,
+      "compliance_score": 90.37,
+      "charting_timeliness": 71.42
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-03",
+      "patient_satisfaction_score": 95.61,
+      "readmission_rate": 4.23,
+      "compliance_score": 98.99,
+      "charting_timeliness": 74.46
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-04",
+      "patient_satisfaction_score": 94.5,
+      "readmission_rate": 0.52,
+      "compliance_score": 83.3,
+      "charting_timeliness": 88.84
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-05",
+      "patient_satisfaction_score": 70.62,
+      "readmission_rate": 3.2,
+      "compliance_score": 86.28,
+      "charting_timeliness": 73.01
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-06",
+      "patient_satisfaction_score": 75.19,
+      "readmission_rate": 2.43,
+      "compliance_score": 92.14,
+      "charting_timeliness": 84.15
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-07",
+      "patient_satisfaction_score": 86.69,
+      "readmission_rate": 4.79,
+      "compliance_score": 98.4,
+      "charting_timeliness": 72.42
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-08",
+      "patient_satisfaction_score": 99.75,
+      "readmission_rate": 2.58,
+      "compliance_score": 82.29,
+      "charting_timeliness": 85.0
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-09",
+      "patient_satisfaction_score": 79.51,
+      "readmission_rate": 0.98,
+      "compliance_score": 84.12,
+      "charting_timeliness": 95.54
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-10",
+      "patient_satisfaction_score": 84.48,
+      "readmission_rate": 4.71,
+      "compliance_score": 87.16,
+      "charting_timeliness": 75.95
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-11",
+      "patient_satisfaction_score": 79.44,
+      "readmission_rate": 1.99,
+      "compliance_score": 90.22,
+      "charting_timeliness": 98.09
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-12",
+      "patient_satisfaction_score": 85.74,
+      "readmission_rate": 3.02,
+      "compliance_score": 98.93,
+      "charting_timeliness": 94.39
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-13",
+      "patient_satisfaction_score": 95.76,
+      "readmission_rate": 3.27,
+      "compliance_score": 88.27,
+      "charting_timeliness": 70.89
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-14",
+      "patient_satisfaction_score": 72.25,
+      "readmission_rate": 3.32,
+      "compliance_score": 88.34,
+      "charting_timeliness": 99.95
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-15",
+      "patient_satisfaction_score": 80.15,
+      "readmission_rate": 1.42,
+      "compliance_score": 84.69,
+      "charting_timeliness": 79.92
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-16",
+      "patient_satisfaction_score": 98.91,
+      "readmission_rate": 1.32,
+      "compliance_score": 80.79,
+      "charting_timeliness": 79.91
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-17",
+      "patient_satisfaction_score": 96.35,
+      "readmission_rate": 1.75,
+      "compliance_score": 88.71,
+      "charting_timeliness": 75.46
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-18",
+      "patient_satisfaction_score": 95.62,
+      "readmission_rate": 1.3,
+      "compliance_score": 82.58,
+      "charting_timeliness": 82.72
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-19",
+      "patient_satisfaction_score": 77.84,
+      "readmission_rate": 4.02,
+      "compliance_score": 98.62,
+      "charting_timeliness": 95.32
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-20",
+      "patient_satisfaction_score": 73.77,
+      "readmission_rate": 3.0,
+      "compliance_score": 89.37,
+      "charting_timeliness": 91.18
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-21",
+      "patient_satisfaction_score": 87.55,
+      "readmission_rate": 1.73,
+      "compliance_score": 83.17,
+      "charting_timeliness": 93.02
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-22",
+      "patient_satisfaction_score": 81.77,
+      "readmission_rate": 0.81,
+      "compliance_score": 95.68,
+      "charting_timeliness": 70.58
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-23",
+      "patient_satisfaction_score": 87.66,
+      "readmission_rate": 4.58,
+      "compliance_score": 90.52,
+      "charting_timeliness": 78.51
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-24",
+      "patient_satisfaction_score": 94.67,
+      "readmission_rate": 4.13,
+      "compliance_score": 86.49,
+      "charting_timeliness": 71.42
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-25",
+      "patient_satisfaction_score": 72.37,
+      "readmission_rate": 4.59,
+      "compliance_score": 91.19,
+      "charting_timeliness": 97.74
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-26",
+      "patient_satisfaction_score": 87.23,
+      "readmission_rate": 2.78,
+      "compliance_score": 94.44,
+      "charting_timeliness": 95.89
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-27",
+      "patient_satisfaction_score": 87.17,
+      "readmission_rate": 4.19,
+      "compliance_score": 83.63,
+      "charting_timeliness": 99.25
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-28",
+      "patient_satisfaction_score": 92.96,
+      "readmission_rate": 1.2,
+      "compliance_score": 86.7,
+      "charting_timeliness": 78.49
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-29",
+      "patient_satisfaction_score": 81.64,
+      "readmission_rate": 2.69,
+      "compliance_score": 86.38,
+      "charting_timeliness": 98.08
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-30",
+      "patient_satisfaction_score": 72.69,
+      "readmission_rate": 0.63,
+      "compliance_score": 82.0,
+      "charting_timeliness": 82.76
+    },
+    {
+      "employee_id": "EID005",
+      "name": "Jacob Flores",
+      "role": "Nurse",
+      "record_date": "2024-12-31",
+      "patient_satisfaction_score": 79.15,
+      "readmission_rate": 2.63,
+      "compliance_score": 93.31,
+      "charting_timeliness": 87.34
+    }
+  ]
+}
