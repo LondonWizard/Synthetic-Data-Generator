@@ -1,0 +1,47 @@
+{
+  "employee_info": {
+    "employee_id": "EMP-0003",
+    "name": "Tracy Cruz",
+    "role": "Nurse",
+    "department": "Nurse Department",
+    "hire_date": "2022-02-27",
+    "work_location": "Morganfort, MA",
+    "remote": false
+  },
+  "date": "2024-12-03",
+  "patient_outcomes": {
+    "infection_rate_per_1000": 0.8,
+    "readmission_rate_percent": 10.07,
+    "mortality_rate_per_1000": 0.3,
+    "patient_satisfaction_score": 80.05
+  },
+  "operational_efficiency": {
+    "num_patient_appointments": 19,
+    "cost_to_collect": 1865.08
+  },
+  "financial_performance": {
+    "days_in_accounts_receivable": 44,
+    "net_collection_rate_percent": 89.66
+  },
+  "compliance_risk_management": {
+    "policy_compliance_rate": 87.37,
+    "legal_compliance_status": "Compliant",
+    "audit_violations": 2,
+    "frequency_of_incidents": 1,
+    "avg_resolution_time_days": 0.82,
+    "staff_training_completion_rate": 81.53,
+    "record_keeping_accuracy_rate": 91.59,
+    "timeliness_of_doc_updates_days": 1.27
+  },
+  "risk_mitigation_metrics": {
+    "identified_hazards": 0,
+    "vulnerability_assessment_score": 5.14,
+    "likelihood_of_risk_occurrence_percent": 12.86,
+    "impact_assessment": "Severe",
+    "preventive_actions_implemented": 1,
+    "effectiveness_of_detective_controls_percent": 97.7,
+    "incident_tracking_frequency": 1,
+    "contingency_plan_exists": "Yes",
+    "recovery_time_objective_hours": 21
+  }
+}

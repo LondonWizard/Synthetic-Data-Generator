@@ -1,0 +1,49 @@
+{
+  "employee_info": {
+    "employee_id": "EMP-0002",
+    "name": "Vicki Diaz",
+    "role": "Physician",
+    "department": "Physician Department",
+    "hire_date": "2023-02-28",
+    "work_location": "Valentineborough, IN",
+    "remote": false
+  },
+  "date": "2024-12-02",
+  "patient_outcomes": {
+    "infection_rate_per_1000": 2.09,
+    "readmission_rate_percent": 8.16,
+    "mortality_rate_per_1000": 0.51,
+    "patient_satisfaction_score": 79.17
+  },
+  "operational_efficiency": {
+    "avg_patient_wait_time_minutes": 49.45,
+    "num_patient_appointments": 18,
+    "cost_to_collect": 1840.29
+  },
+  "financial_performance": {
+    "avg_claim_processing_days": 14.82,
+    "days_in_accounts_receivable": 76,
+    "net_collection_rate_percent": 98.9
+  },
+  "compliance_risk_management": {
+    "policy_compliance_rate": 85.73,
+    "legal_compliance_status": "Compliant",
+    "audit_violations": 0,
+    "frequency_of_incidents": 0,
+    "avg_resolution_time_days": 2.29,
+    "staff_training_completion_rate": 72.82,
+    "record_keeping_accuracy_rate": 88.46,
+    "timeliness_of_doc_updates_days": 1.01
+  },
+  "risk_mitigation_metrics": {
+    "identified_hazards": 4,
+    "vulnerability_assessment_score": 1.54,
+    "likelihood_of_risk_occurrence_percent": 16.08,
+    "impact_assessment": "Severe",
+    "preventive_actions_implemented": 1,
+    "effectiveness_of_detective_controls_percent": 75.21,
+    "incident_tracking_frequency": 1,
+    "contingency_plan_exists": "No",
+    "recovery_time_objective_hours": 25
+  }
+}

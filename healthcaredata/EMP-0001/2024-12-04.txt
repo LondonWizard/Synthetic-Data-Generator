@@ -1,0 +1,49 @@
+{
+  "employee_info": {
+    "employee_id": "EMP-0001",
+    "name": "Aaron Franklin",
+    "role": "Pharmacist",
+    "department": "Pharmacist Department",
+    "hire_date": "2022-03-13",
+    "work_location": "East David, VA",
+    "remote": true
+  },
+  "date": "2024-12-04",
+  "patient_outcomes": {
+    "infection_rate_per_1000": 0.24,
+    "readmission_rate_percent": 5.05,
+    "mortality_rate_per_1000": 0.0,
+    "patient_satisfaction_score": 91.27
+  },
+  "operational_efficiency": {
+    "avg_patient_wait_time_minutes": 16.64,
+    "num_patient_appointments": 14,
+    "cost_to_collect": 958.86
+  },
+  "financial_performance": {
+    "avg_claim_processing_days": 7.34,
+    "days_in_accounts_receivable": 36,
+    "net_collection_rate_percent": 86.44
+  },
+  "compliance_risk_management": {
+    "policy_compliance_rate": 99.47,
+    "legal_compliance_status": "Non-Compliant",
+    "audit_violations": 0,
+    "frequency_of_incidents": 3,
+    "avg_resolution_time_days": 1.22,
+    "staff_training_completion_rate": 77.09,
+    "record_keeping_accuracy_rate": 85.68,
+    "timeliness_of_doc_updates_days": 1.33
+  },
+  "risk_mitigation_metrics": {
+    "identified_hazards": 0,
+    "vulnerability_assessment_score": 0.76,
+    "likelihood_of_risk_occurrence_percent": 12.74,
+    "impact_assessment": "Moderate",
+    "preventive_actions_implemented": 1,
+    "effectiveness_of_detective_controls_percent": 90.14,
+    "incident_tracking_frequency": 0,
+    "contingency_plan_exists": "Yes",
+    "recovery_time_objective_hours": 68
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "employee_info": {
+    "employee_id": "EMP-0003",
+    "name": "Tracy Cruz",
+    "role": "Nurse",
+    "department": "Nurse Department",
+    "hire_date": "2022-02-27",
+    "work_location": "Morganfort, MA",
+    "remote": false
+  },
+  "date": "2024-12-05",
+  "patient_outcomes": {
+    "infection_rate_per_1000": 0.91,
+    "readmission_rate_percent": 10.4,
+    "mortality_rate_per_1000": 0.38,
+    "patient_satisfaction_score": 86.81
+  },
+  "operational_efficiency": {
+    "avg_patient_wait_time_minutes": 33.85,
+    "num_patient_appointments": 19
+  },
+  "financial_performance": {
+    "avg_claim_processing_days": 14.95,
+    "days_in_accounts_receivable": 21,
+    "net_collection_rate_percent": 95.03
+  },
+  "compliance_risk_management": {
+    "policy_compliance_rate": 99.57,
+    "legal_compliance_status": "Non-Compliant",
+    "audit_violations": 0,
+    "frequency_of_incidents": 1,
+    "avg_resolution_time_days": 2.26,
+    "staff_training_completion_rate": 96.98,
+    "record_keeping_accuracy_rate": 81.52,
+    "timeliness_of_doc_updates_days": 0.75
+  }
+}

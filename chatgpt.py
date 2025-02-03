@@ -10,7 +10,7 @@ def chat(prompt):
   client = config.get_openai_client()
   # Call the OpenAI API
   completion = client.chat.completions.create(
-            model="gpt-4o",
+            model="o1",
             messages=[
               {"role": "user", "content": prompt},
             ]

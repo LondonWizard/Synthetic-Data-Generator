@@ -1,0 +1,1 @@
+Error generating transcript for Government_Agency: Error code: 404 - {'error': {'message': 'tools is not supported in this model. For a list of supported models, refer to https://platform.openai.com/docs/guides/function-calling#models-supporting-function-calling.', 'type': 'invalid_request_error', 'param': None, 'code': None}}
